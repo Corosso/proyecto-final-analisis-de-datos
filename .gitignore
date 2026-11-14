@@ -1,0 +1,47 @@
+# Datos (se persisten en Google Drive / no se versionan)
+data/raw/
+data/interim/
+data/processed/
+data/bi/
+*.parquet
+*.csv
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# vlrggapi clonado localmente
+vlrggapi/
+
+# artefactos de sistema
+*.deb
+*.log
+
+# material de exposición (no va al repo)
+expo/
+
+# material académico y de trabajo personal (no va al repo)
+informe/
+informe_overleaf.zip
+AGENTS.md
+PENDIENTES.md
+docs/ejecucion_local.md
+docs/entrega_colab_github.md
+docs/powerbi_dashboard.md
+*.pdf
+*.lnk
+
+# Checkpoint de scraping y logs del servidor
+data/_checkpoint/
+*.log

@@ -1,0 +1,19 @@
+# Core de análisis y modelado
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+pyarrow
+requests
+joblib
+tqdm
+
+# Dependencias de vlrggapi (se clona aparte, ver notebooks/00_setup_api.ipynb)
+httpx
+selectolax
+fastapi
+uvicorn
+cachetools
