@@ -1,74 +1,113 @@
-# Proyecto final Análisis de Datos — Predicción de partidos de Valorant
+# Predicción del ganador de partidos de Valorant
 
-Modelo predictivo que estima el ganador de un próximo partido de Valorant,
-expresado como **odds decimales tipo casa de apuestas** (favorito / evens / underdog).
+Modelo de aprendizaje supervisado que estima **quién gana un partido profesional de
+Valorant** y lo expresa como **odds decimales** (favorito / evens / underdog), a partir
+de datos históricos de [vlr.gg](https://www.vlr.gg) extraídos con la API no oficial
+[`vlrggapi`](https://github.com/axsddlr/vlrggapi).
 
-## Objetivo
+> Proyecto final de la asignatura **Análisis de datos** (ETL · EDA · BI · ML).
 
-Predecir el resultado de partidos profesionales de Valorant usando aprendizaje
-supervisado, a partir de datos históricos extraídos de [vlr.gg](https://www.vlr.gg/)
-mediante la API no oficial [vlrggapi](https://github.com/axsddlr/vlrggapi).
+---
 
-El *target* es binario (¿ganó el equipo A?), pero la predicción se expresa como
-**odds** y se categoriza en una escala de favoritismo.
-
-## Target y escala de odds
-
-1. El modelo predice la probabilidad calibrada `P(A gana)`.
-2. Se convierte a odds "fair": `odds_A = 1 / P(A)`, `odds_B = 1 / (1 - P(A))`.
-3. Se mapea a una escala interpretable:
-
-| Odds del equipo | Etiqueta |
-|---|---|
-| ≤ 1.40 | Favorito claro |
-| 1.41 – 1.80 | Favorito |
-| 1.81 – 2.20 | Evens / parejo |
-| 2.21 – 3.00 | Underdog |
-| > 3.00 | Underdog claro |
-
-> Los odds **reales de bookmakers** se agregan como mejora futura (fuente extra de datos).
-
-## Fuente de datos
-
-- **vlrggapi**: API REST no oficial (Python/FastAPI) que scrapea vlr.gg.
-- La instancia hosteada está caída → se **clona el repo y se usa localmente** para descargar los datos.
-- Endpoints clave: `/v2/match?q=results`, `/v2/match/{id}/details`, `/v2/team/{id}/stats`,
-  `/v2/team/{id}/matches`, `/v2/team/{id}/roster`, `/v2/rankings`, `/v2/stats`.
-- Rate limits (endpoints caros): **20 req/min**. El scraper hace throttling, reintentos y checkpoint.
-
-## Fases
-
-| Fase | Descripción | Entregable |
-|---|---|---|
-| F0 | Setup en Google Colab | `notebooks/00_setup_api.ipynb` |
-| F1 | ETL (scraping completo, checkpoint/resume) | `src/scraper.py`, `src/etl.py`, `notebooks/01`, `02` |
-| F2 | EDA (limpieza y visualización) | `notebooks/03_eda.ipynb` |
-| F3 | Feature engineering (diferenciales + split temporal) | `src/features.py`, `notebooks/04` |
-| F4 | Modelado (varios modelos + tuning + calibración) | `src/models.py`, `notebooks/05_modelado.ipynb` |
-| F5 | Export BI (modelo estrella para Power BI) | `notebooks/06_bi_export.ipynb` |
-| F6 | Documentación e informe | `docs/` |
-
-## Estructura
+## Estructura del proyecto
 
 ```
 .
-├── data/
-│   ├── raw/        # respuestas JSON crudas
-│   ├── interim/    # tablas intermedias (Parquet/CSV)
-│   ├── processed/  # dataset final de features
-│   └── bi/         # modelo estrella para Power BI
-├── src/            # código reutilizable (scraper, etl, features, models)
-├── notebooks/      # notebooks de Colab por fase
-└── docs/           # diccionario de datos, informe, referencias de API
+├── local/                ← scripts .py: setean la API y scrapean (solo en tu máquina)
+│   ├── 01_setup_api.py   ← clona vlrggapi, instala deps y arranca el servidor
+│   ├── 02_etl_matches.py ← scrapea la Capa 1 (partidos + rankings + equipos)
+│   └── 03_etl_match_details.py  ← OPCIONAL: Capa 2 (stats por jugador)
+├── colab/                ← notebooks: análisis en Colab (con datos ya scrapeados)
+│   ├── 01_eda.ipynb                ← análisis exploratorio
+│   ├── 02_visualizacion.ipynb      ← gráficas de mapas/equipos/marcadores
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_modelado.ipynb
+│   └── 05_bi_export.ipynb
+├── src/                  ← módulos compartidos (los importan local/ y colab/)
+├── data/                 ← datos de entrega (versionados): interim/ + processed/ + bi/
+├── docs/                 ← documentación técnica
+├── dashboard.pbix        ← dashboard de Power BI
+├── requirements.txt
+└── README.md
 ```
 
-## Stack
+## ¿Qué hace cada paquete?
 
-Python 3.11+, pandas, numpy, scikit-learn, xgboost, lightgbm, matplotlib, seaborn, pyarrow.
-Persistencia en Google Drive (Colab). BI en Power BI Desktop.
+| Paquete / archivo | Responsabilidad |
+|---|---|
+| `local/` | **Ejecución local** del scraping. Son scripts `.py` que no necesitan Jupyter. |
+| `local/01_setup_api.py` | Clona `vlrggapi`, instala sus dependencias (`uv sync`) y arranca el servidor en `127.0.0.1:3001`. |
+| `local/02_etl_matches.py` | Scrapea la **Capa 1**: listado de partidos, rankings regionales y datos de equipo (perfiles, stats por mapa, historial, rosters). Idempotente con checkpoint. |
+| `local/03_etl_match_details.py` | **Opcional**. Scrapea la **Capa 2** (stats por jugador/mapa). No es necesaria para el modelo; ver `docs/MEJORAS.md`. |
+| `colab/` | **Ejecución en Google Colab** del análisis, con los datos ya scrapeados (subidos a Drive). |
+| `colab/01_eda.ipynb` | Análisis exploratorio: calidad de datos, distribuciones, correlaciones. |
+| `colab/02_visualizacion.ipynb` | Gráficas de mapas, equipos y marcadores (sin re-scrapear). |
+| `colab/03_feature_engineering.ipynb` | Genera el dataset de features `f_*` + target `y`. |
+| `colab/04_modelado.ipynb` | Entrena y evalúa los modelos, con odds y tier. |
+| `colab/05_bi_export.ipynb` | Exporta el modelo estrella (CSVs) para Power BI. |
+| `src/config.py` | Resuelve la ruta de datos según el entorno (Colab / WSL / local). |
+| `src/scraper.py` | Cliente HTTP de la API: throttle, reintentos y checkpoint. |
+| `src/etl.py` | Orquestación del scraping (Capas 1 y 2). |
+| `src/eda.py` | Helpers de carga y visualización para el EDA. |
+| `src/features.py` | Feature engineering (features `f_*`, sin fuga de datos). |
+| `src/models.py` | Modelado, evaluación y conversión probabilidad → odds. |
+| `src/walkforward.py` | Probabilidades out-of-sample por partido. |
+| `src/bi_export.py` | Construye el modelo estrella y exporta los CSVs. |
+| `data/` | Datos de entrega: `interim/` (tablas), `processed/` (features + modelo), `bi/` (CSVs). |
+| `docs/` | `EJECUCION.md` (runbook), `MEJORAS.md` (mejoras), `diccionario_datos.md`, `api_endpoints.md`, `features.md`, `modelado.md`. |
 
-## Ejecución (Colab)
+## Pipeline (cómo fluyen los datos)
 
-1. Sube/clona este repo a Colab (o monta Drive).
-2. Abre `notebooks/00_setup_api.ipynb`: monta Drive, clona `vlrggapi`, instala dependencias.
-3. Sigue `01` → `06` en orden.
+```
+vlr.gg ── vlrggapi ──► src/scraper.py ──► src/etl.py ──► data/interim/*.parquet
+                                                              │
+                                    src/features.py ──────────┘
+                                                              ▼
+                                              data/processed/features.parquet
+                                                              │
+                     src/models.py ──► best_model.joblib       │
+                     src/walkforward.py ──► probabilities.parquet
+                                                              │
+                     src/bi_export.py ──► data/bi/*.csv ──► Power BI
+```
+
+Cada fase lee archivos de la fase anterior y escribe para la siguiente.
+
+## Cómo ejecutar
+
+### En Colab (análisis)
+
+1. Sube a Google Drive la carpeta del proyecto en
+   `My Drive/Analisis de datos/Proyecto final` (incluyendo `data/`, `src/` y `colab/`).
+2. Abre un notebook de `colab/` desde Drive y ejecuta las celdas en orden.
+   La primera celda monta Drive; la segunda apunta `ROOT` a tu carpeta.
+3. Orden recomendado: `01_eda` → `02_visualizacion` → `03_feature_engineering` →
+   `04_modelado` → `05_bi_export`.
+
+### En local (scraping)
+
+```bash
+# 1. Dependencias del proyecto
+uv venv .venv && uv pip install -r requirements.txt
+
+# 2. Levanta la API (una vez)
+python local/01_setup_api.py
+
+# 3. Scrapea la Capa 1
+python local/02_etl_matches.py
+
+# (Opcional) Capa 2 — lento, no necesario
+python local/03_etl_match_details.py --limit 500
+```
+
+> Requisitos locales: Python 3.11+, `uv` y `git`. Ver `docs/EJECUCION.md` para el detalle.
+
+## Resultados clave
+
+- **Datos**: 108 448 partidos · 2 992 eventos · 20 902 equipos · 1 614 rankeados.
+- **Modelo**: RandomForest con **AUC ≈ 0.71** (split temporal) y probabilidades
+  out-of-sample (walk-forward) con cobertura del 90.9 %.
+- **Salida**: probabilidad + odds (`1/p`) + tier (Favorito / Evens / Underdog).
+
+Ver `docs/modelado.md` para la evaluación completa y `docs/diccionario_datos.md` para
+el modelo de BI.

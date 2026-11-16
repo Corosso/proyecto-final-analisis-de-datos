@@ -7,7 +7,7 @@ contra su `API.md`. No se inventaron campos: los ejemplos JSON están copiados d
 
 > **Estado**: la instancia hosteada `https://vlrggapi.vercel.app` está caída. Se clona el
 > repo y se corre localmente (`python main.py` → `http://127.0.0.1:3001`). Ver
-> `notebooks/00_setup_api.ipynb`.
+> `local/01_setup_api.py`.
 
 ---
 

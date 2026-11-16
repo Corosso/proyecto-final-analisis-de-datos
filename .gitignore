@@ -1,12 +1,7 @@
-# Datos (se persisten en Google Drive / no se versionan)
+# Datos CRUDOS del scraping (no se versionan: cientos de MB, innecesarios).
+# Los datos de entrega (interim/, processed/, bi/) SÍ se versionan.
 data/raw/
-data/interim/
-data/processed/
-data/bi/
-*.parquet
-*.csv
-*.db
-*.sqlite
+data/_checkpoint/
 
 # Python
 __pycache__/
@@ -21,7 +16,7 @@ venv/
 .DS_Store
 Thumbs.db
 
-# vlrggapi clonado localmente
+# vlrggapi clonado localmente (repo de terceros)
 vlrggapi/
 
 # artefactos de sistema
@@ -41,7 +36,3 @@ docs/entrega_colab_github.md
 docs/powerbi_dashboard.md
 *.pdf
 *.lnk
-
-# Checkpoint de scraping y logs del servidor
-data/_checkpoint/
-*.log
