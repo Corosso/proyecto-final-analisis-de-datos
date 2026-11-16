@@ -35,11 +35,16 @@ iteración; el resto de features históricas son estrictamente libres de fuga.
 
 ## Features opcionales (si existen las tablas de equipo)
 
-| Feature | Definición | Fuente |
-|---|---|---|
-| `f_map_winrate_diff` | `win_pct` medio en los mapas jugados (team1 − team2). Sin datos → `0.5`. | `team_stats.win_pct` |
-| `f_profile_rating_diff` | `rating` del perfil de equipo (team1 − team2). | `team_profiles.rating.rating` |
-| `f_winnings_diff` | `total_winnings` (team1 − team2). | `team_profiles.total_winnings` |
+| Feature | Definición | Fuente | Fuga |
+|---|---|---|---|
+| `f_map_winrate_diff` | `win_pct` medio en los mapas jugados (team1 − team2). Sin datos → `0.5`. | `team_stats.win_pct` | Foto actual* |
+| `f_profile_rating_diff` | `rating` del perfil de equipo (team1 − team2). | `team_profiles.rating.rating` | Foto actual* |
+| `f_winnings_diff` | `log1p(total_winnings)` (team1 − team2). | `team_profiles.total_winnings` | Foto actual* |
+
+\* Igual que las dos features de ranking, estas tres usan el valor vigente en la
+fecha de descarga. `f_map_winrate_diff` es la más afectada: el `win_pct` de toda la
+trayectoria del equipo incluye los mismos partidos que se predicen. En total,
+**5 de las 12 features son de foto actual** y 7 son históricas libres de fuga.
 
 Estas columnas solo aparecen si `interim/team_stats.parquet` y/o
 `interim/team_profiles.parquet` existen al ejecutar `build_features`. El código las
