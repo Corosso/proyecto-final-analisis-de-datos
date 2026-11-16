@@ -1,0 +1,47 @@
+{
+  "trained_at": "2026-11-11T19:27:40.036920+00:00",
+  "target": "y (1 = gana team1, 0 = gana team2)",
+  "feature_cols": [
+    "f_h2h_winrate",
+    "f_rating_diff",
+    "f_rank_diff",
+    "f_form_diff",
+    "f_winrate_diff",
+    "f_mapscore_diff",
+    "f_experience_diff",
+    "f_rest_diff",
+    "f_streak_diff",
+    "f_map_winrate_diff",
+    "f_profile_rating_diff",
+    "f_winnings_diff"
+  ],
+  "n_features": 12,
+  "best_model": "RandomForest",
+  "calib_method": "sigmoid",
+  "split": {
+    "test_frac": 0.2,
+    "cutoff": null,
+    "n_train": 85794,
+    "n_test": 21448,
+    "train_first": "Sat, April 25, 2020",
+    "train_last": "Mon, June 30, 2025",
+    "test_first": "Mon, June 30, 2025",
+    "test_last": "Sun, November 1, 2026"
+  },
+  "best_params": {
+    "model__n_estimators": 100,
+    "model__min_samples_leaf": 8,
+    "model__max_depth": 12
+  },
+  "metrics": {
+    "accuracy": 0.6688735546437896,
+    "precision": 0.6857049180327869,
+    "recall": 0.8191289362368792,
+    "f1": 0.7465019988577956,
+    "roc_auc": 0.7067623771938267,
+    "brier_uncal": 0.21041384875721855,
+    "brier_cal": 0.21057947522159337,
+    "logloss_uncal": 0.6080005877879711,
+    "logloss_cal": 0.6086078204357929
+  }
+}

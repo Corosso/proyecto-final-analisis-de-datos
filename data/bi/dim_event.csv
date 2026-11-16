@@ -1,0 +1,2993 @@
+﻿event_id,event_name,num_partidos,fecha_min,fecha_max
+1,#PlayAtHome #1,30,2020-11-09,2020-11-14
+2,#PlayAtHome #2,63,2020-12-07,2020-12-12
+3,"$1,000 FreshCut Cup",8,2023-03-11,2023-03-11
+4,$2000 NYXL x BrookLAN - May Local,14,2022-05-14,2022-05-15
+5,"$3,000 FreshCut Community Series",7,2023-02-18,2023-02-19
+6,"$5,000 CCE UCX Valorant Pro CUP",28,2023-03-31,2023-04-02
+7,100T x Cashapp Gamers for Equality,15,2020-07-08,2020-07-08
+8,15 Kings Invitational,15,2021-05-15,2021-05-16
+9,1TAP Open Series 2026: Last Chance Qualifier,7,2026-09-13,2026-09-13
+10,1TAP Open Series 2026: Season 1,30,2026-05-03,2026-05-03
+11,1TAP Open Series 2026: Season 2,46,2026-06-06,2026-06-07
+12,1TAP Open Series 2026: Season 3,51,2026-07-11,2026-07-12
+13,2025 National VALORANT Cup,8,2026-01-09,2026-01-16
+14,24cyber ORCs Cup Weekly,7,2020-08-22,2020-08-23
+15,2ª Circuito Game On,15,2023-09-24,2023-09-25
+16,30Bomb Invitational Series #2,40,2020-09-16,2020-10-11
+17,30Bomb Summer Cup,38,2020-08-01,2020-08-02
+18,32nd Southeast Asian Games,19,2023-05-08,2023-05-11
+19,4Gamers War Match,7,2020-10-11,2020-10-20
+20,5EPRO Championship 2025,7,2025-05-26,2025-05-29
+21,7-Eleven Game Time Anytime,8,2021-10-30,2021-11-02
+22,A.W. EXTREME MASTERS Asia Invitational,16,2020-10-09,2020-10-18
+23,A.W. EXTREME MASTERS Pro Invitational,30,2020-08-31,2020-09-21
+24,A1 Adria League - Season 10,7,2022-10-22,2022-10-22
+25,A1 Adria League - Season 11,8,2023-04-13,2023-04-13
+26,A1 Adria League - Season 9,7,2022-04-30,2022-04-30
+27,A1 eSports Cup #8,14,2025-05-27,2025-07-05
+28,A1 eSports Invitational 2024,14,2024-12-13,2024-12-15
+29,A1 eSports League,35,2020-10-10,2020-10-24
+30,A1 eSports Queens Edition,14,2023-05-06,2023-05-07
+31,A1 eSports VALORANT Cup,16,2021-04-05,2021-06-13
+32,A1 eSports VALORANT Cup #2,22,2021-09-28,2021-10-30
+33,A1 eSports VALORANT Cup #4,23,2023-09-10,2023-10-28
+34,ACE Double Down,12,2023-10-19,2023-10-28
+35,AE League: Conqueror,31,2020-12-17,2021-01-16
+36,AEN Spring Series,33,2021-10-13,2021-12-03
+37,AFK Valorant Tournament,3,2021-10-07,2021-10-07
+38,AMD Ryzen 4000 Cup,7,2020-09-24,2020-09-26
+39,AMD Valorant Adrenalin Invitational,14,2021-03-15,2021-03-18
+40,AMD Valorant Adrenalin Season 3,14,2021-09-06,2021-09-09
+41,AOC Masters Tournament 2020,32,2020-11-19,2020-12-13
+42,AOC Rising Heroes ANZ 2021,67,2021-03-26,2021-06-13
+43,AORUS League BR,26,2020-09-09,2020-11-24
+44,AORUS x AMD Pro Series Valorant,14,2021-06-10,2021-06-24
+45,APE TopClass Academy Tournament,7,2020-10-15,2020-10-23
+46,ASDF Tournament,3,2021-06-05,2022-07-05
+47,ATF Battle Arena,7,2022-11-29,2022-12-02
+48,AUEC Interclub Esports Championship,3,2026-05-11,2026-05-12
+49,AUEC x SESA Valorant Clash,7,2025-08-13,2025-08-15
+50,AVG UK Minor - BEACON Split 2,14,2022-11-12,2022-11-13
+51,AXE Genesis Tournament,30,2022-01-13,2022-01-16
+52,Absolute Masters,56,2020-05-14,2020-07-26
+53,Abu Dhabi Gaming Community Cup: Season 1,4,2025-07-17,2025-07-17
+54,Abu Dhabi Gaming Community Cup: Season 2,3,2025-09-04,2025-09-04
+55,Abu Dhabi Gaming Community Cup: Season 3,3,2025-10-23,2025-10-24
+56,Acer Gaming U-Challenger 2025,4,2025-06-27,2025-06-27
+57,Aesir Winter Cup,8,2021-03-13,2021-03-13
+58,AfreecaTV Asia Invitational Fall,9,2020-10-08,2020-10-29
+59,AfreecaTV Asia Invitational Summer,9,2020-07-23,2020-08-13
+60,AfreecaTV Asia Invitational Winter,7,2020-12-15,2020-12-17
+61,AfreecaTV Asia Showdown,6,2020-09-18,2020-09-20
+62,AfreecaTV Challengers League 2024 Thailand: Split 1,58,2024-01-19,2024-03-10
+63,AfreecaTV Valorant League,38,2023-09-04,2023-12-10
+64,AfreecaTV Valorant SEA Invitational,28,2022-11-29,2022-12-04
+65,Agent's Rising Final Peak,5,2021-12-15,2021-12-21
+66,Agents Series 2021,14,2021-10-19,2021-11-13
+67,Agents Series 2022 - Split 1,59,2022-04-20,2022-06-14
+68,Agents Series 2022 - Split 2,70,2022-09-24,2022-11-27
+69,Aim Lab Community Cup,6,2020-09-27,2020-09-27
+70,Aim Lab EU Series,90,2020-11-14,2020-12-26
+71,Aim Lab Frostbite Series,20,2022-10-29,2022-11-06
+72,Al Majd 2026,7,2026-06-14,2026-06-15
+73,All Stars Cup - Season 1,14,2021-04-16,2021-05-10
+74,Alliance Mystic Mayhem II,3,2026-03-15,2026-03-15
+75,Alliance x Prospects Winter Showdown,7,2024-12-14,2024-12-15
+76,Allied Esports Odyssey,27,2020-08-08,2020-08-16
+77,Allied Esports Strafe Series #2,26,2020-10-06,2020-10-06
+78,Amazon Gran Final UNIVERSITY Temporada 8,7,2023-04-16,2023-04-29
+79,Amazon Great Indian Festival - Championship,14,2021-10-25,2021-11-02
+80,Amazon Prime Day - Valorant Championship,7,2021-07-19,2021-07-27
+81,Aorus Clash Operation Spike #1,8,2021-05-30,2021-06-02
+82,Aorus League - LAN #1,27,2021-03-11,2021-04-08
+83,Aorus League - LAS #2,13,2021-03-23,2021-03-29
+84,Aorus League - LAS #3,13,2021-05-13,2021-05-17
+85,Aorus League Brazil #3,13,2021-02-10,2021-02-19
+86,Aorus League Brazil #4,13,2021-06-16,2021-06-25
+87,Aorus League Brazil #5,13,2022-02-16,2022-02-25
+88,Aorus League Brazil #6,13,2023-03-01,2023-03-10
+89,Aorus South Asia Cup,7,2020-08-02,2020-08-08
+90,Arab Esports League 2022,16,2022-09-01,2022-09-02
+91,Arab Esports League 2023,20,2023-08-18,2023-08-20
+92,Arena Of Masters Season 2,14,2022-10-14,2022-10-22
+93,Arena Showdown 1.1 Lahore LAN,4,2025-09-21,2025-09-21
+94,Arena Showdown 2,3,2026-01-31,2026-02-01
+95,Arena of Masters,3,2020-10-03,2020-10-04
+96,Argentina Game Show Cup 2023,46,2023-07-24,2023-10-16
+97,Arko Men Tournament,4,2021-01-02,2021-01-02
+98,Artemis Cup 2026: Spring,10,2026-06-05,2026-06-14
+99,Artemis Cup 2026: Winter,34,2026-02-24,2026-03-15
+100,Artemis Cup: Stage 1,14,2025-04-06,2025-04-06
+101,Artemis Cup: Stage 2,14,2025-06-29,2025-07-06
+102,Artemis Cup: Stage 3,38,2025-09-09,2025-09-11
+103,Ascend Breakpoint Series 2025,48,2025-09-19,2025-12-21
+104,Asia Esports Championship 2023,17,2023-07-28,2023-09-02
+105,Asia Esports Festival 2023,24,2023-08-26,2023-09-03
+106,Astral Clash 2022,45,2022-06-18,2022-08-06
+107,Astral Clash 2023,143,2022-12-02,2023-03-11
+108,Asus ROG Showdown Series,3,2021-12-26,2021-12-30
+109,Athena Cup,22,2025-11-17,2025-11-19
+110,Australian Esports Network Tournament,4,2020-06-21,2020-06-27
+111,Average Jonas Nordic Nations Cup,30,2022-03-29,2022-03-30
+112,Average Jonas Tournament Series,7,2021-10-30,2021-10-31
+113,Average Jonas Winter Nations Cup,15,2021-12-18,2021-12-19
+114,BBL-FUT 100. Yıl Gösteri Maçı Showmatch,2,2023-10-29,2023-10-29
+115,BEACON 2023 Open Split 1: Finals,47,2023-05-22,2023-05-26
+116,BEACON 2023 Open Split 2: Finals,29,2023-11-29,2023-12-03
+117,BEACON 2025 Game Changers Contenders Series 2 Qualifier,67,2025-07-05,2025-07-13
+118,BEACON 2025: Project Blender - Open Qualifier,14,2025-08-28,2025-08-28
+119,BEACON Open Split 1: Finals,44,2022-08-17,2022-08-21
+120,BEACON Open Split 2: Finals,47,2023-01-04,2023-01-08
+121,BEACON Spring 2024 Season,22,2024-04-06,2024-04-14
+122,BETBOOM Streamers Battle #1,21,2026-10-29,2026-11-01
+123,BLAST Spike Nations,23,2020-11-06,2020-11-08
+124,BLAST Spike Nations #2,22,2021-10-07,2021-10-09
+125,BLAST Spike Nations #3,22,2022-10-14,2022-10-16
+126,BLAST Twitch Invitational,8,2020-09-11,2020-09-13
+127,BLEED Summer Open,30,2022-07-01,2022-07-10
+128,BRAZA: Open Series by Elgin,103,2025-10-15,2025-11-15
+129,BREAKPOINT 2025 MY/SG: Split 1,46,2025-01-02,2025-01-05
+130,BREAKPOINT 2025 MY/SG: Split 2,61,2025-03-07,2025-03-16
+131,BREAKPOINT 2025 MY/SG: Split 3,60,2025-06-27,2025-07-06
+132,BRENA BEST PLAYER 2026,3,2026-10-11,2026-10-18
+133,Bad Omen,7,2022-10-29,2022-10-29
+134,Balkan Unite,3,2023-02-18,2023-02-19
+135,Balıkesir DGM VALORANT Tournament,8,2023-11-19,2023-11-19
+136,Balıkesir DGM VALORANT Tournament January 24,4,2024-01-28,2024-01-28
+137,Balıkesir DGM VALORANT Tournament October 29,4,2025-10-26,2025-10-26
+138,Balıkesir DGM: 19 May Youth Festival,4,2025-05-18,2025-05-19
+139,Bao Thu Championship 2026,7,2026-07-17,2026-07-19
+140,Battle of the Sea,1,2024-11-29,2024-11-29
+141,BeChampions - Season 2: VALORANT Warmup,6,2023-04-01,2023-04-02
+142,BeChampions Tour - BeChallengers #1,6,2022-01-29,2022-01-30
+143,BeChampions Tour - BeContender #1,6,2021-10-30,2021-10-31
+144,BeChampions Tour - BeContender #2,6,2021-11-20,2021-11-21
+145,BeChampions Tour - BeContender #3,6,2021-12-18,2021-12-19
+146,Bell Esports Challenge 2022,4,2022-08-28,2022-08-28
+147,Bell Esports Challenge 2024,3,2024-08-23,2024-08-23
+148,Bell Esports Challenge 2025,33,2025-07-20,2025-08-23
+149,Bell Esports Challenge 2026,33,2026-07-12,2026-08-29
+150,Beloud Cup #1,7,2021-01-29,2021-01-31
+151,Beloud Cup #10,7,2021-10-08,2021-10-10
+152,Beloud Cup #11,4,2021-11-13,2021-11-14
+153,Beloud Cup #12,4,2021-12-04,2022-01-12
+154,Beloud Cup #2,7,2021-02-26,2021-02-28
+155,Beloud Cup #3,7,2021-03-19,2021-03-21
+156,Beloud Cup #4,7,2021-04-15,2021-04-17
+157,Beloud Cup #5,7,2021-05-14,2021-05-16
+158,Beloud Cup #6,7,2021-06-04,2021-06-06
+159,Beloud Cup #7,7,2021-07-16,2021-07-18
+160,Beloud Cup #8,7,2021-08-19,2021-08-21
+161,Beloud Cup #9,7,2021-09-17,2021-09-19
+162,Berryfam TTV Tournament Season 3,15,2024-12-26,2024-12-29
+163,Berryfam TTV Tournament Season 4,7,2025-12-18,2025-12-21
+164,BetBoom VALORANT League: Fall 2025,21,2025-11-06,2025-11-09
+165,Bleed eSports Christmas Showdown,15,2021-12-17,2021-12-19
+166,Bleed eSports Community Tournament,16,2021-11-05,2021-11-14
+167,Blooming Talents League 2025: Promotion,13,2025-09-20,2025-09-22
+168,Blooming Talents League 2025: Spring,24,2025-04-29,2025-05-21
+169,Blooming Talents League 2025: Summer,47,2025-06-20,2025-07-25
+170,Blooming Talents League 2025: Winter,55,2025-01-30,2025-03-23
+171,Bonoxs: Ignition League,27,2026-01-20,2026-03-21
+172,BoomTV Proving Grounds $10k - April Anarchy,44,2022-04-22,2022-05-14
+173,BoomTV Proving Grounds $20k - Spring 2022,63,2022-03-08,2022-03-16
+174,BoomTV Proving Grounds S1 - Finals,14,2021-04-09,2021-04-09
+175,BoomTV Proving Grounds S2 - Finals,32,2021-09-11,2021-09-12
+176,BoomTV Proving Grounds S3 - Semi-Pro Division,48,2021-10-14,2021-11-21
+177,BoomTV Proving Grounds: Unleashed,44,2022-08-02,2022-08-28
+178,BoomTV VALORANT Select,86,2022-11-08,2022-11-13
+179,Brazil Spray Series,14,2020-07-09,2020-07-10
+180,BrookLAN Summer LAN Party,14,2022-08-13,2022-08-14
+181,BtcTurk GameFest,18,2025-05-27,2025-06-29
+182,Bybit Tournament,22,2022-01-21,2022-01-23
+183,CBVL: 2024,47,2024-07-15,2024-07-20
+184,CBVL: Premier League,101,2024-08-07,2024-09-07
+185,CCCE City Cup 2024,8,2024-11-15,2024-11-17
+186,CCCE City Cup 2025,23,2025-11-01,2025-11-09
+187,CCE UCX EU 1K #4,8,2023-04-21,2023-04-21
+188,CCE UCX EU 1K #5,8,2023-05-14,2023-05-15
+189,CEA Crescent Cup 2023,8,2023-05-20,2023-05-21
+190,CECC Finals,27,2023-05-06,2023-05-07
+191,CECC Finals 2024,11,2024-05-04,2024-05-05
+192,CECC Finals 2025,36,2025-05-02,2025-05-04
+193,CECC Last Chance Qualifier,51,2023-04-05,2023-04-07
+194,CECC Regionals,12,2023-03-05,2023-04-14
+195,CEL Valorant Invitation 2022,20,2022-04-01,2022-04-10
+196,CIH Esport Cup,7,2021-05-29,2021-05-30
+197,CLG Blitz CUP #1,15,2020-05-15,2020-05-15
+198,CLG Blitz CUP #2,15,2020-06-12,2020-06-12
+199,CLUTCH BATTLES Grand Tournament,3,2020-07-24,2020-07-24
+200,CLUTCH BATTLES LAIR.GG,7,2020-06-04,2020-06-04
+201,COLIZEUM XMAS Cup 2022,3,2022-12-25,2022-12-25
+202,CONTEST SPRING CUP 2025,38,2025-03-11,2025-04-17
+203,CONTEST SUMMER CUP 2025,14,2025-08-20,2025-08-30
+204,COOLER Cup,5,2020-04-25,2020-04-25
+205,CTRLPOINT 2026,3,2026-10-24,2026-10-25
+206,Calyx Valorant Cup,3,2021-10-02,2021-10-03
+207,Campeonato de Elite - Stage 1,85,2022-04-16,2022-07-31
+208,Campeonato de Elite - Stage 2,60,2022-09-20,2022-11-20
+209,Campeonato de Elite Cup - Stage 1,30,2022-05-14,2022-05-22
+210,Campeonato de Elite Cup - Stage 2,30,2022-10-15,2022-10-22
+211,Canadian Esports Nationals Fall 2022,39,2022-11-21,2022-11-27
+212,Canadian Intercollegiate Exhibition 2026: Game Changers,1,2026-05-04,2026-05-04
+213,Celerity Budokan 2025,3,2025-10-05,2025-10-05
+214,Challengers 2023 DACH: Arcade,32,2023-09-16,2023-11-26
+215,Challengers 2023 France: Revolution Coupe de France,43,2023-09-10,2023-10-01
+216,Challengers 2023 Italy: ON // THE BATTLEFIELD,11,2023-10-14,2023-11-02
+217,Challengers 2023 Portugal: Drift,38,2023-11-05,2023-11-26
+218,Challengers 2023 Portugal: OPEN//WATER,24,2023-09-23,2023-10-15
+219,Challengers 2024 Spain Rising: Consolidation,70,2024-09-25,2024-10-20
+220,Challengers 2025 NORTH//EAST Stage 2,137,2025-03-12,2025-04-27
+221,Challengers 2025 South Asia: Ascension Qualifiers,6,2025-07-07,2025-07-13
+222,Challengers 2025: Brazil Gamers Club Last Chance Qualifier,6,2025-09-04,2025-09-07
+223,Challengers 2025: Brazil Gamers Club Stage 1,91,2025-01-16,2025-04-23
+224,Challengers 2025: Brazil Gamers Club Stage 2,73,2025-05-05,2025-08-27
+225,Challengers 2025: DACH Evolution Stage 1,20,2025-01-18,2025-03-12
+226,Challengers 2025: DACH Evolution Stage 2,26,2025-03-22,2025-05-12
+227,Challengers 2025: DACH Evolution Stage 3,34,2025-06-26,2025-08-16
+228,Challengers 2025: DACH Evolution Stage 3 Relegation,9,2025-12-15,2025-12-20
+229,Challengers 2025: EMEA Stage 1,18,2025-03-03,2025-03-09
+230,Challengers 2025: EMEA Stage 2,18,2025-05-19,2025-05-25
+231,Challengers 2025: EMEA Stage 3,24,2025-09-01,2025-09-09
+232,Challengers 2025: France Revolution Stage 1,19,2025-01-11,2025-02-18
+233,Challengers 2025: France Revolution Stage 2,37,2025-03-12,2025-05-03
+234,Challengers 2025: France Revolution Stage 3,33,2025-06-26,2025-08-16
+235,Challengers 2025: France Revolution Up and Down,9,2025-11-03,2025-11-06
+236,Challengers 2025: Japan Stage 1,57,2025-01-16,2025-02-18
+237,Challengers 2025: Japan Stage 2,46,2025-03-06,2025-05-17
+238,Challengers 2025: Japan Stage 3,36,2025-06-30,2025-07-30
+239,Challengers 2025: Korea & Japan Showdown,15,2025-11-30,2025-12-13
+240,Challengers 2025: Korea WDG Road to Ascension,4,2025-08-27,2025-09-06
+241,Challengers 2025: Korea WDG Stage 1,39,2025-02-05,2025-03-27
+242,Challengers 2025: Korea WDG Stage 2,40,2025-03-29,2025-06-01
+243,Challengers 2025: Korea WDG Stage 3,41,2025-06-29,2025-08-22
+244,Challengers 2025: LATAM ACE Promotion/Relegation,10,2025-08-26,2025-08-28
+245,Challengers 2025: LATAM North ACE Stage 1,107,2024-12-21,2025-04-16
+246,Challengers 2025: LATAM North ACE Stage 2,52,2025-05-06,2025-08-13
+247,Challengers 2025: LATAM South ACE Stage 1,91,2024-12-23,2025-04-17
+248,Challengers 2025: LATAM South ACE Stage 2,52,2025-05-06,2025-08-14
+249,Challengers 2025: Latin America Finals,5,2025-09-05,2025-09-07
+250,Challengers 2025: MENA Resilience GCC-Pakistan-Iraq Stage 1,27,2025-03-08,2025-05-13
+251,Challengers 2025: MENA Resilience GCC-Pakistan-Iraq Stage 2,18,2025-05-24,2025-07-21
+252,Challengers 2025: MENA Resilience LAN Finals,6,2025-08-18,2025-08-20
+253,Challengers 2025: MENA Resilience North Africa and Levant Stage 1,21,2025-03-09,2025-05-12
+254,Challengers 2025: MENA Resilience North Africa and Levant Stage 2,18,2025-05-25,2025-07-22
+255,Challengers 2025: MENA Resilience Promotion/Relegation,14,2025-12-13,2025-12-17
+256,Challengers 2025: NORTH//EAST Samsung Odyssey Stage 3,140,2025-06-27,2025-08-17
+257,Challengers 2025: NORTH//EAST Stage 1,152,2025-01-10,2025-02-16
+258,Challengers 2025: North America ACE Stage 1,168,2025-01-13,2025-03-27
+259,Challengers 2025: North America ACE Stage 2,65,2025-04-08,2025-05-29
+260,Challengers 2025: North America ACE Stage 3,69,2025-07-08,2025-09-07
+261,Challengers 2025: Oceania Stage 1,112,2025-04-03,2025-05-27
+262,Challengers 2025: Oceania Stage 2,155,2025-06-10,2025-08-12
+263,Challengers 2025: South Asia Stage 1,70,2025-02-23,2025-03-21
+264,Challengers 2025: South Asia Stage 2,24,2025-04-03,2025-06-01
+265,Challengers 2025: South Asia Stage 3,17,2025-06-19,2025-07-03
+266,Challengers 2025: Southeast Asia Stage 1,50,2025-01-07,2025-02-16
+267,Challengers 2025: Southeast Asia Stage 2,46,2025-03-18,2025-05-18
+268,Challengers 2025: Southeast Asia Stage 3,59,2025-07-10,2025-09-07
+269,Challengers 2025: Spain Rising Finals,3,2025-08-09,2025-08-20
+270,Challengers 2025: Spain Rising Promotion,5,2025-08-25,2025-08-26
+271,Challengers 2025: Spain Rising Stage 1,48,2025-01-12,2025-02-19
+272,Challengers 2025: Spain Rising Stage 2,53,2025-03-13,2025-04-30
+273,Challengers 2025: Spain Rising Stage 3,28,2025-05-26,2025-07-28
+274,Challengers 2025: Türkiye Birlik Kickoff,48,2025-01-18,2025-02-17
+275,Challengers 2025: Türkiye Birlik Promotion/Relegation,5,2025-11-07,2025-11-09
+276,Challengers 2025: Türkiye Birlik Stage 2,105,2025-03-11,2025-05-04
+277,Challengers 2025: Türkiye Birlik Stage 3,37,2025-06-24,2025-08-17
+278,Challengers 2026: Brazil Gamers Club Stage 1,75,2026-01-28,2026-04-09
+279,Challengers 2026: Brazil Gamers Club Stage 2,66,2026-05-05,2026-07-16
+280,Challengers 2026: DACH Evolution - VCL EMEA Qualifier,29,2026-03-05,2026-03-11
+281,Challengers 2026: DACH Evolution Stage 1,74,2026-01-10,2026-03-01
+282,Challengers 2026: DACH Evolution Stage 1 Relegation,9,2026-03-18,2026-03-22
+283,Challengers 2026: DACH Evolution Stage 2,31,2026-04-04,2026-05-10
+284,Challengers 2026: EMEA Last Chance Qualifier,101,2026-06-04,2026-07-12
+285,Challengers 2026: EMEA Stage 1,24,2026-03-19,2026-03-29
+286,Challengers 2026: EMEA Stage 2,24,2026-05-18,2026-05-28
+287,Challengers 2026: EMEA Stage 3,34,2026-06-22,2026-07-05
+288,Challengers 2026: France Revolution Stage 1,43,2026-01-09,2026-03-22
+289,Challengers 2026: France Revolution Stage 2,34,2026-04-04,2026-05-12
+290,Challengers 2026: Japan Season Finals,5,2026-07-05,2026-07-26
+291,Challengers 2026: Japan Split 1,63,2026-02-02,2026-04-16
+292,Challengers 2026: Japan Split 2,58,2026-05-11,2026-06-28
+293,Challengers 2026: Korea WDG Split 1,62,2026-02-01,2026-04-16
+294,Challengers 2026: Korea WDG Split 2,36,2026-05-08,2026-07-15
+295,Challengers 2026: LATAM North ACE Masters,13,2026-04-08,2026-04-29
+296,Challengers 2026: LATAM North ACE Stage 1,39,2026-01-26,2026-03-28
+297,Challengers 2026: LATAM North ACE Stage 2,34,2026-05-18,2026-07-11
+298,Challengers 2026: LATAM South ACE Masters,13,2026-04-09,2026-04-30
+299,Challengers 2026: LATAM South ACE Stage 1,39,2026-01-26,2026-03-29
+300,Challengers 2026: LATAM South ACE Stage 2,34,2026-05-18,2026-07-12
+301,Challengers 2026: MENA Resilience - Middle East Kickoff,34,2026-01-05,2026-03-06
+302,Challengers 2026: MENA Resilience - North Africa Kickoff,34,2026-01-06,2026-03-07
+303,Challengers 2026: MENA Resilience Kickoff Promotion/Relegation,10,2026-03-11,2026-03-15
+304,Challengers 2026: MENA Resilience Pulse Stage - Middle East,16,2026-04-04,2026-05-13
+305,Challengers 2026: MENA Resilience Pulse Stage - North Africa,16,2026-04-05,2026-05-14
+306,Challengers 2026: NORTH//EAST Kickoff,102,2026-01-16,2026-02-02
+307,Challengers 2026: NORTH//EAST Kickoff - East Open Qualifier,63,2026-01-02,2026-01-04
+308,Challengers 2026: NORTH//EAST Kickoff - Stage 2 Open Qualifier,136,2026-03-06,2026-03-08
+309,Challengers 2026: NORTH//EAST Stage 1,70,2026-02-07,2026-03-08
+310,Challengers 2026: NORTH//EAST Stage 2,139,2026-03-21,2026-05-14
+311,Challengers 2026: North America ACE Qualifier,131,2026-01-05,2026-01-10
+312,Challengers 2026: North America ACE Stage 1,65,2026-01-19,2026-03-12
+313,Challengers 2026: North America ACE Stage 2,66,2026-03-23,2026-05-13
+314,Challengers 2026: North America ACE Stage 3,60,2026-05-25,2026-07-12
+315,Challengers 2026: Pacific Last Chance Qualifier,6,2026-07-07,2026-07-10
+316,Challengers 2026: SEA Split 1 - Indonesia Qualifier,98,2026-01-29,2026-02-22
+317,Challengers 2026: SEA Split 1 - Philippines Qualifier,133,2026-01-29,2026-02-22
+318,Challengers 2026: SEA Split 1 - Rest of SEA Qualifier,122,2026-01-29,2026-02-22
+319,Challengers 2026: SEA Split 1 - Thailand Qualifier,69,2026-01-29,2026-02-22
+320,Challengers 2026: SEA Split 1 - Vietnam Qualifier,83,2026-01-29,2026-02-27
+321,Challengers 2026: SEA Split 2 - Indonesia Qualifier,66,2026-04-14,2026-05-12
+322,Challengers 2026: SEA Split 2 - Philippines Qualifier,154,2026-04-14,2026-05-12
+323,Challengers 2026: SEA Split 2 - Rest of SEA Qualifier,123,2026-04-14,2026-05-12
+324,Challengers 2026: SEA Split 2 - Thailand Qualifier,72,2026-04-14,2026-05-12
+325,Challengers 2026: SEA Split 2 - Vietnam Qualifier,91,2026-04-14,2026-05-20
+326,Challengers 2026: South Asia Split 1,116,2026-03-07,2026-04-09
+327,Challengers 2026: South Asia Split 2,55,2026-05-05,2026-06-28
+328,Challengers 2026: Southeast Asia Split 1,43,2026-02-11,2026-03-29
+329,Challengers 2026: Southeast Asia Split 2,45,2026-05-15,2026-07-05
+330,Challengers 2026: Spain Rising Stage 1,31,2026-01-11,2026-02-08
+331,Challengers 2026: Spain Rising Stage 2,18,2026-02-28,2026-03-26
+332,Challengers 2026: Spain Rising Stage 3,36,2026-04-05,2026-05-12
+333,Challengers 2026: Türkiye Birlik Kickoff,39,2026-01-10,2026-03-19
+334,Challengers 2026: Türkiye Birlik Stage 2,32,2026-04-04,2026-05-14
+335,Challengers League 2024 DACH Evolution: Split 1,102,2024-01-13,2024-05-07
+336,Challengers League 2024 DACH Evolution: Split 2,59,2024-05-18,2024-07-27
+337,Challengers League 2024 East Surge: Split 1,127,2023-12-16,2024-05-07
+338,Challengers League 2024 East Surge: Split 2,63,2024-05-20,2024-07-31
+339,Challengers League 2024 France: Revolution Split 1,40,2024-01-20,2024-05-05
+340,Challengers League 2024 France: Revolution Split 2,38,2024-05-18,2024-07-28
+341,Challengers League 2024 Indonesia: Split 1,60,2024-01-24,2024-03-31
+342,Challengers League 2024 Indonesia: Split 2,45,2024-05-11,2024-07-28
+343,Challengers League 2024 Italy Rinascimento: Split 1,65,2024-01-27,2024-05-07
+344,Challengers League 2024 Italy Rinascimento: Split 2,60,2024-05-18,2024-07-26
+345,Challengers League 2024 Japan: Split 1,124,2024-01-22,2024-03-31
+346,Challengers League 2024 Japan: Split 2,68,2024-05-03,2024-07-28
+347,Challengers League 2024 Japan: Split 3,69,2024-08-19,2024-12-22
+348,Challengers League 2024 LATAM North ACE: Split 1,29,2024-02-20,2024-05-07
+349,Challengers League 2024 LATAM North ACE: Split 2,29,2024-05-16,2024-07-05
+350,Challengers League 2024 LATAM North ACE: Split 3,26,2024-10-13,2024-12-01
+351,Challengers League 2024 LATAM South ACE: Split 1,67,2024-01-20,2024-05-10
+352,Challengers League 2024 LATAM South ACE: Split 2,29,2024-05-14,2024-07-04
+353,Challengers League 2024 LATAM South ACE: Split 3,16,2024-10-28,2024-11-07
+354,Challengers League 2024 LATAM: Regional Playoffs,5,2024-07-26,2024-07-28
+355,Challengers League 2024 MENA Resilience: Split 1,142,2024-02-06,2024-04-01
+356,Challengers League 2024 MENA Resilience: Split 2,138,2024-05-05,2024-06-30
+357,Challengers League 2024 MENA Resilience: Split 2 Promotion,10,2024-07-15,2024-07-21
+358,Challengers League 2024 MENA: Regional Playoffs,6,2024-07-23,2024-07-26
+359,Challengers League 2024 Malaysia/Singapore: Split 1,116,2024-01-26,2024-03-30
+360,Challengers League 2024 Malaysia/Singapore: Split 2,49,2024-05-03,2024-07-18
+361,Challengers League 2024 North America: Qualifiers,345,2024-01-31,2024-02-15
+362,Challengers League 2024 North America: Stage 1,59,2024-03-19,2024-05-19
+363,Challengers League 2024 North America: Stage 2,68,2024-05-29,2024-07-31
+364,Challengers League 2024 North America: Stage 3,200,2024-10-24,2024-12-01
+365,Challengers League 2024 North: Polaris ECLIPSE,39,2024-11-09,2024-11-19
+366,Challengers League 2024 North: Polaris Split 2,37,2024-05-16,2024-07-26
+367,Challengers League 2024 Northern Europe: Polaris Split 1,114,2024-01-13,2024-05-05
+368,Challengers League 2024 Oceania: Stage 2,77,2024-05-08,2024-07-11
+369,Challengers League 2024 Oceania: Stage 3,73,2024-07-24,2024-11-28
+370,Challengers League 2024 Philippines: Split 1,134,2024-02-08,2024-03-30
+371,Challengers League 2024 Philippines: Split 2,65,2024-05-15,2024-07-31
+372,Challengers League 2024 Portugal Tempest: Split 1,73,2024-01-15,2024-05-06
+373,Challengers League 2024 Portugal Tempest: Split 2,62,2024-05-26,2024-07-21
+374,Challengers League 2024 South Asia: Split 2,26,2024-05-12,2024-06-28
+375,Challengers League 2024 South Asia: Split 3,97,2024-07-20,2024-10-13
+376,Challengers League 2024 Southeast Asia,32,2024-10-25,2024-11-24
+377,Challengers League 2024 Spain Rising: Split 1,64,2024-01-15,2024-05-05
+378,Challengers League 2024 Spain Rising: Split 2,61,2024-05-13,2024-07-06
+379,Challengers League 2024 Taiwan/Hong Kong: Split 1,60,2024-01-20,2024-04-04
+380,Challengers League 2024 Taiwan/Hong Kong: Split 2,49,2024-05-09,2024-07-11
+381,Challengers League 2024 Thailand: Ascension Qualifier Series,6,2024-07-26,2024-07-28
+382,Challengers League 2024 Türkiye Birlik: Split 1,103,2023-11-11,2024-05-07
+383,Challengers League 2024 Türkiye Birlik: Split 2,61,2024-05-20,2024-07-31
+384,Challengers League 2024 Vietnam: Split 1,64,2024-01-29,2024-03-13
+385,Challengers League 2024 Vietnam: Split 2,26,2024-05-17,2024-07-28
+386,Challengers League 2025: Japan Finals,7,2025-08-06,2025-08-24
+387,Challengers League Brazil: Split 1,174,2022-11-28,2023-03-19
+388,Challengers League Brazil: Split 2,38,2023-04-05,2023-06-04
+389,Challengers League DACH Evolution: Relegation,2,2023-06-03,2023-06-03
+390,Challengers League DACH Evolution: Split 1,34,2023-01-14,2023-03-12
+391,Challengers League DACH Evolution: Split 2,34,2023-04-01,2023-06-10
+392,Challengers League East Surge: Split 1,100,2023-01-12,2023-03-12
+393,Challengers League East Surge: Split 2,101,2023-04-01,2023-06-11
+394,Challengers League East: Surge Promotion Cup,2,2023-06-28,2023-06-29
+395,Challengers League France Revolution: Relegation,10,2023-05-23,2023-06-04
+396,Challengers League France Revolution: Split 1,95,2023-01-14,2023-03-12
+397,Challengers League France Revolution: Split 2,95,2023-04-08,2023-06-10
+398,Challengers League Indonesia: Split 1,72,2023-01-08,2023-03-12
+399,Challengers League Indonesia: Split 2,76,2023-03-14,2023-06-04
+400,Challengers League Italy Rinascimento: Relegation,5,2023-06-21,2023-06-29
+401,Challengers League Italy Rinascimento: Split 1,90,2022-12-14,2023-03-12
+402,Challengers League Italy Rinascimento: Split 2,60,2023-04-01,2023-06-10
+403,Challengers League Japan: Split 1,146,2023-01-13,2023-03-18
+404,Challengers League Japan: Split 2,161,2023-03-21,2023-06-03
+405,Challengers League LATAM North ACE: Relegation,1,2023-06-21,2023-06-21
+406,Challengers League LATAM North ACE: Split 1,69,2023-01-21,2023-03-31
+407,Challengers League LATAM North ACE: Split 2,19,2023-04-26,2023-06-09
+408,Challengers League LATAM South FiRe: Relegation,1,2023-06-22,2023-06-22
+409,Challengers League LATAM South FiRe: Split 1,72,2023-01-21,2023-03-30
+410,Challengers League LATAM South FiRe: Split 2,19,2023-04-27,2023-06-10
+411,Challengers League LATAM: Finals,1,2023-06-11,2023-06-11
+412,Challengers League MENA Resilience: LAN Finals,6,2023-06-06,2023-06-09
+413,Challengers League MENA Resilience: Split 1,120,2023-01-30,2023-03-12
+414,Challengers League MENA Resilience: Split 2,133,2023-04-01,2023-05-17
+415,Challengers League Malaysia/Singapore: Split 1,62,2023-01-07,2023-03-11
+416,Challengers League Malaysia/Singapore: Split 2,69,2023-03-03,2023-06-03
+417,Challengers League Northern Europe Polaris: Split 1,34,2023-01-16,2023-03-12
+418,Challengers League Northern Europe Polaris: Split 2,33,2023-04-03,2023-06-04
+419,Challengers League Oceania: Split 1,62,2022-12-16,2023-03-11
+420,Challengers League Oceania: Split 2,52,2023-03-03,2023-06-10
+421,Challengers League Oceania: Stage 1,156,2024-03-04,2024-05-02
+422,Challengers League Philippines: Split 1,64,2023-01-15,2023-03-12
+423,Challengers League Philippines: Split 2,64,2023-03-21,2023-06-04
+424,Challengers League Portugal Tempest: Relegation,5,2023-06-03,2023-06-05
+425,Challengers League Portugal Tempest: Split 1,100,2022-11-26,2023-03-11
+426,Challengers League Portugal Tempest: Split 2,60,2023-04-01,2023-06-11
+427,Challengers League South Asia: Split 1,46,2023-02-27,2023-04-23
+428,Challengers League South Asia: Split 2,31,2023-04-29,2023-06-10
+429,Challengers League Spain Rising: Relegation,6,2023-06-01,2023-06-07
+430,Challengers League Spain Rising: Split 1,95,2023-01-08,2023-03-11
+431,Challengers League Spain Rising: Split 2,95,2023-04-03,2023-06-10
+432,Challengers League Taiwan/Hong Kong: Split 1,58,2023-01-08,2023-03-12
+433,Challengers League Taiwan/Hong Kong: Split 2,49,2023-03-19,2023-06-04
+434,Challengers League Thailand: Split 1,60,2023-01-14,2023-03-12
+435,Challengers League Thailand: Split 2,68,2023-03-11,2023-06-04
+436,Challengers League Turkey Birlik: Split 1,91,2022-12-11,2023-03-12
+437,Challengers League Turkey Birlik: Split 2,46,2023-04-01,2023-06-10
+438,Challengers League Vietnam: Split 1,34,2023-02-07,2023-03-12
+439,Challengers League Vietnam: Split 2,34,2023-04-04,2023-06-04
+440,Challengers League: North America,93,2023-02-01,2023-06-10
+441,Challengers League: North America Qualifiers,567,2023-01-09,2023-01-22
+442,Champions Tour 2023 Americas: Ascension,16,2023-06-30,2023-07-09
+443,Champions Tour 2023 China: Ascension,16,2023-12-22,2023-12-30
+444,Champions Tour 2023 EMEA: Ascension,41,2023-06-22,2023-07-16
+445,Champions Tour 2023 Pacific: Ascension,25,2023-06-28,2023-07-09
+446,Champions Tour 2023: Americas Last Chance Qualifier,9,2023-07-15,2023-07-23
+447,Champions Tour 2023: Americas League,55,2023-04-01,2023-05-28
+448,Champions Tour 2023: Champions China Qualifier,51,2023-06-01,2023-07-16
+449,Champions Tour 2023: EMEA Last Chance Qualifier,8,2023-07-19,2023-07-23
+450,Champions Tour 2023: EMEA League,55,2023-03-27,2023-05-28
+451,Champions Tour 2023: LOCK//IN São Paulo,32,2023-02-13,2023-03-04
+452,Champions Tour 2023: Masters Tokyo,24,2023-06-10,2023-06-24
+453,Champions Tour 2023: Pacific Last Chance Qualifier,9,2023-07-18,2023-07-23
+454,Champions Tour 2023: Pacific League,56,2023-03-25,2023-05-28
+455,Champions Tour 2024 Americas: Ascension,21,2024-09-10,2024-09-21
+456,Champions Tour 2024 China: Ascension,16,2024-09-11,2024-09-21
+457,Champions Tour 2024 EMEA: Ascension,41,2024-07-28,2024-09-15
+458,Champions Tour 2024 Pacific: Ascension,19,2024-09-19,2024-09-29
+459,Champions Tour 2024: Americas Kickoff,19,2024-02-16,2024-03-03
+460,Champions Tour 2024: Americas Stage 1,38,2024-04-06,2024-05-12
+461,Champions Tour 2024: Americas Stage 2,33,2024-06-22,2024-07-21
+462,Champions Tour 2024: China Kickoff,19,2024-02-22,2024-03-02
+463,Champions Tour 2024: China Stage 1,38,2024-04-05,2024-05-12
+464,Champions Tour 2024: China Stage 2,33,2024-06-15,2024-07-20
+465,Champions Tour 2024: EMEA Kickoff,19,2024-02-20,2024-03-01
+466,Champions Tour 2024: EMEA Stage 1,38,2024-04-03,2024-05-12
+467,Champions Tour 2024: EMEA Stage 2,33,2024-06-18,2024-07-20
+468,Champions Tour 2024: Masters Madrid,17,2024-03-14,2024-03-24
+469,Champions Tour 2024: Masters Shanghai,25,2024-05-23,2024-06-09
+470,Champions Tour 2024: Pacific Kickoff,19,2024-02-17,2024-02-25
+471,Champions Tour 2024: Pacific Stage 1,38,2024-04-06,2024-05-12
+472,Champions Tour 2024: Pacific Stage 2,33,2024-06-15,2024-07-21
+473,Champions Tour Asia-Pacific Stage 1: Challengers Playoffs,44,2022-03-10,2022-03-27
+474,Champions Tour Asia-Pacific Stage 2: Challengers Playoffs,44,2022-06-08,2022-06-26
+475,Champions Tour Asia-Pacific: Last Chance Qualifier,36,2021-10-11,2022-08-07
+476,Champions Tour Brazil Stage 1: Challengers 1,201,2021-01-26,2022-03-27
+477,Champions Tour Brazil Stage 1: Challengers 2,22,2021-02-09,2021-02-21
+478,Champions Tour Brazil Stage 1: Challengers 3,22,2021-02-23,2021-03-07
+479,Champions Tour Brazil Stage 1: Masters,7,2021-03-13,2021-03-21
+480,Champions Tour Brazil Stage 2: Challengers,180,2022-03-07,2022-06-26
+481,Champions Tour Brazil Stage 2: Challengers 1,34,2021-03-24,2021-04-04
+482,Champions Tour Brazil Stage 2: Challengers 2,22,2021-04-06,2021-04-18
+483,Champions Tour Brazil Stage 2: Challengers 3,22,2021-04-13,2021-04-26
+484,Champions Tour Brazil Stage 2: Challengers Finals,14,2021-04-30,2021-05-09
+485,Champions Tour Brazil Stage 3: Challengers 1,34,2021-06-30,2021-07-11
+486,Champions Tour Brazil Stage 3: Challengers 2,22,2021-07-13,2021-07-25
+487,Champions Tour Brazil Stage 3: Challengers 3,22,2021-07-27,2021-08-08
+488,Champions Tour Brazil Stage 3: Challengers Playoffs,14,2021-08-12,2021-08-22
+489,Champions Tour CIS Stage 1: Challengers 1,169,2021-02-11,2022-01-16
+490,Champions Tour CIS Stage 1: Challengers 2,139,2021-02-23,2022-01-23
+491,Champions Tour CIS Stage 1: Challengers 3,64,2021-03-02,2021-03-07
+492,Champions Tour CIS Stage 1: Masters,13,2021-03-12,2021-03-21
+493,Champions Tour CIS Stage 2: Challengers 1,67,2021-03-31,2021-04-09
+494,Champions Tour CIS Stage 2: Challengers 2,67,2021-04-11,2021-04-18
+495,Champions Tour CIS Stage 3: Challengers 1,90,2021-06-28,2021-07-10
+496,Champions Tour CIS Stage 3: Challengers 2,95,2021-07-20,2021-07-31
+497,Champions Tour EMEA Stage 2: Challengers,40,2022-05-13,2022-06-26
+498,Champions Tour EMEA: Last Chance Qualifier,28,2021-10-10,2022-08-14
+499,Champions Tour East Asia: Last Chance Qualifier,14,2022-08-08,2022-08-14
+500,Champions Tour Europe Stage 1: Challengers 1,517,2021-02-04,2022-01-16
+501,Champions Tour Europe Stage 1: Challengers 2,502,2021-02-16,2022-01-23
+502,Champions Tour Europe Stage 1: Challengers 3,127,2021-03-02,2021-03-07
+503,Champions Tour Europe Stage 1: Masters,13,2021-03-12,2021-03-21
+504,Champions Tour Europe Stage 2: Challengers 1,258,2021-03-30,2021-04-09
+505,Champions Tour Europe Stage 2: Challengers 2,259,2021-04-10,2021-04-18
+506,Champions Tour Europe Stage 3: Challengers 1,282,2021-06-28,2021-07-11
+507,Champions Tour Europe Stage 3: Challengers 2,276,2021-07-20,2021-08-01
+508,Champions Tour Game Changers Academy - April,31,2021-04-23,2021-04-25
+509,Champions Tour Game Changers Academy - August,31,2021-08-27,2021-08-29
+510,Champions Tour Game Changers Academy - December,31,2021-12-03,2021-12-05
+511,Champions Tour Game Changers Academy - July,31,2021-07-30,2021-08-01
+512,Champions Tour Game Changers Academy - May,28,2021-05-28,2021-05-30
+513,Champions Tour Game Changers Academy - October,31,2021-10-29,2021-10-31
+514,Champions Tour Game Changers Asia Pacific: Elite,14,2022-09-30,2022-10-09
+515,Champions Tour Game Changers Asia Pacific: Last Chance Qualifier,99,2022-08-12,2022-08-21
+516,Champions Tour Game Changers Asia Pacific: Open 1,120,2022-02-25,2022-03-06
+517,Champions Tour Game Changers Asia Pacific: Open 2,118,2022-04-01,2022-04-10
+518,Champions Tour Game Changers Asia Pacific: Open 3,98,2022-04-29,2022-05-08
+519,Champions Tour Game Changers Asia Pacific: Open 4,85,2022-05-27,2022-06-05
+520,Champions Tour Game Changers Asia Pacific: Open Overtime,27,2022-06-25,2022-07-03
+521,Champions Tour Game Changers Championship: Berlin,14,2022-11-15,2022-11-20
+522,Champions Tour Game Changers East Asia: Qualifier,9,2022-10-12,2022-10-16
+523,Champions Tour Game Changers Japan,15,2022-07-30,2022-08-07
+524,Champions Tour Game Changers Korea: Finals,3,2022-09-22,2022-09-23
+525,Champions Tour Game Changers LATAM: Finals,28,2022-07-30,2022-08-21
+526,Champions Tour Game Changers LATAM: Regional Finals,1,2022-10-22,2022-10-22
+527,Champions Tour Game Changers SEA: FSL Elite,14,2021-10-22,2021-10-31
+528,Champions Tour Game Changers SEA: FSL Open 2021 #4,98,2021-06-25,2021-07-04
+529,Champions Tour Game Changers SEA: FSL Open 2021 #5,112,2021-07-19,2021-08-01
+530,Champions Tour Game Changers SEA: FSL Open 2021 #6,114,2021-08-16,2021-08-29
+531,Champions Tour Game Changers SEA: FSL Open Overtime,27,2021-09-02,2021-09-05
+532,Champions Tour Game Changers SEA: FSL Open Wildcard,99,2021-09-24,2021-10-03
+533,Champions Tour Game Changers Series I: EMEA,66,2021-09-27,2021-10-03
+534,Champions Tour Game Changers Series I: LATAM,32,2021-10-20,2021-10-31
+535,Champions Tour Game Changers Series I: North America,134,2021-03-20,2022-04-09
+536,Champions Tour Game Changers Series II: EMEA,204,2021-10-25,2021-10-31
+537,Champions Tour Game Changers Series II: LATAM,32,2021-11-25,2021-11-28
+538,Champions Tour Game Changers Series II: North America,214,2021-06-19,2022-07-09
+539,Champions Tour Game Changers Series III: EMEA,212,2021-11-12,2021-11-21
+540,Champions Tour Game Changers Series III: North America,210,2021-09-24,2022-10-16
+541,Champions Tour Hong Kong & Taiwan Stage 1: Challengers,24,2022-01-21,2022-02-26
+542,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 1,16,2021-01-31,2021-02-07
+543,Champions Tour Hong Kong & Taiwan Stage 1: Challengers 2,12,2021-02-21,2021-02-28
+544,Champions Tour Hong Kong & Taiwan Stage 2: Challengers,42,2022-05-01,2022-05-29
+545,Champions Tour Hong Kong & Taiwan Stage 2: Challengers 1,15,2021-03-28,2021-04-04
+546,Champions Tour Hong Kong & Taiwan Stage 2: Challengers 2,20,2021-04-11,2021-04-18
+547,Champions Tour Hong Kong & Taiwan Stage 2: Challengers 3,8,2021-04-23,2021-04-25
+548,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 1,15,2021-07-04,2021-07-15
+549,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 2,12,2021-07-18,2021-07-25
+550,Champions Tour Hong Kong & Taiwan Stage 3: Challengers 3,13,2021-08-01,2021-08-09
+551,Champions Tour Hong Kong and Taiwan Stage 1: Challengers 3,12,2021-03-07,2021-03-14
+552,Champions Tour Indonesia Stage 1: Challengers,135,2022-01-20,2022-02-27
+553,Champions Tour Indonesia Stage 1: Challengers 1,32,2021-01-30,2021-02-07
+554,Champions Tour Indonesia Stage 1: Challengers 2,61,2021-02-19,2021-02-28
+555,Champions Tour Indonesia Stage 1: Challengers 3,71,2021-03-05,2021-03-14
+556,Champions Tour Indonesia Stage 2: Challengers,64,2022-04-28,2022-05-29
+557,Champions Tour Indonesia Stage 2: Challengers 1,48,2021-03-26,2021-04-04
+558,Champions Tour Indonesia Stage 2: Challengers 2,58,2021-04-09,2021-04-18
+559,Champions Tour Indonesia Stage 2: Challengers 3,8,2021-04-23,2021-04-25
+560,Champions Tour Indonesia Stage 3: Challengers 1,59,2021-07-02,2021-07-11
+561,Champions Tour Indonesia Stage 3: Challengers 2,23,2021-07-16,2021-07-25
+562,Champions Tour Indonesia Stage 3: Challengers 3,29,2021-07-30,2021-08-08
+563,Champions Tour Japan Stage 1: Challengers 1,95,2021-02-19,2021-02-21
+564,Champions Tour Japan Stage 1: Challengers 2,90,2021-02-26,2021-02-28
+565,Champions Tour Japan Stage 1: Challengers 3,62,2021-03-05,2021-03-07
+566,Champions Tour Japan Stage 1: Challengers Playoffs,14,2022-03-23,2022-03-27
+567,Champions Tour Japan Stage 1: Challengers Week 1,30,2022-02-17,2022-02-27
+568,Champions Tour Japan Stage 1: Challengers Week 2,18,2022-03-03,2022-03-13
+569,Champions Tour Japan Stage 1: Masters,14,2021-03-12,2021-03-21
+570,Champions Tour Japan Stage 2: Challengers 1,84,2021-04-02,2021-04-11
+571,Champions Tour Japan Stage 2: Challengers 2,68,2021-04-17,2021-04-25
+572,Champions Tour Japan Stage 2: Challengers Finals,14,2021-04-28,2021-05-02
+573,Champions Tour Japan Stage 2: Challengers Playoffs,14,2022-06-09,2022-06-25
+574,Champions Tour Japan Stage 2: Challengers Week 1,55,2022-05-10,2022-05-22
+575,Champions Tour Japan Stage 2: Challengers Week 2,34,2022-05-26,2022-06-05
+576,Champions Tour Japan Stage 3: Challengers 1,177,2021-07-03,2021-07-11
+577,Champions Tour Japan Stage 3: Challengers 2,93,2021-07-16,2021-07-23
+578,Champions Tour Japan Stage 3: Challengers Playoffs,14,2021-08-11,2021-08-15
+579,Champions Tour Korea Stage 1: Challengers,142,2022-02-04,2022-03-27
+580,Champions Tour Korea Stage 1: Challengers 1,65,2021-01-30,2021-02-07
+581,Champions Tour Korea Stage 1: Challengers 2,63,2021-02-08,2021-02-21
+582,Champions Tour Korea Stage 1: Challengers 3,57,2021-02-27,2021-03-07
+583,Champions Tour Korea Stage 1: Masters,13,2021-03-12,2021-03-21
+584,Champions Tour Korea Stage 2: Challengers,180,2021-04-03,2022-06-26
+585,Champions Tour Korea Stage 3: Challengers,87,2021-07-02,2021-08-15
+586,Champions Tour LATAM Stage 1: Challengers 1,58,2021-01-21,2021-01-31
+587,Champions Tour LATAM Stage 1: Challengers 2,58,2021-02-03,2021-02-14
+588,Champions Tour LATAM Stage 1: Challengers 3,57,2021-02-17,2021-02-28
+589,Champions Tour LATAM Stage 1: Masters,26,2021-03-08,2021-03-21
+590,Champions Tour LATAM Stage 2: Challengers 1,58,2021-04-01,2021-04-11
+591,Champions Tour LATAM Stage 2: Challengers 2,59,2021-04-14,2021-04-25
+592,Champions Tour LATAM Stage 2: Challengers Finals,13,2021-04-27,2021-05-12
+593,Champions Tour LATAM Stage 3: Challengers 1,42,2021-06-24,2021-07-11
+594,Champions Tour LATAM Stage 3: Challengers 2,50,2021-07-14,2021-08-01
+595,Champions Tour LATAM Stage 3: Challengers Playoffs,16,2021-08-03,2021-08-20
+596,Champions Tour LATAM/BR Stage 1: Last Chance Qualifier,1,2022-04-01,2022-04-01
+597,Champions Tour LATAM/BR Stage 2: Last Chance Qualifier,1,2022-06-30,2022-06-30
+598,Champions Tour Latin America North Stage 1: Challengers,36,2022-01-23,2022-03-11
+599,Champions Tour Latin America North Stage 2: Challengers,23,2022-04-26,2022-06-10
+600,Champions Tour Latin America South Stage 1: Challengers,36,2022-01-23,2022-03-13
+601,Champions Tour Latin America South Stage 2: Challengers,23,2022-04-29,2022-06-12
+602,Champions Tour Latin America Stage 1: Playoffs,6,2022-03-24,2022-03-28
+603,Champions Tour Latin America Stage 2: Playoffs,6,2022-06-23,2022-06-26
+604,Champions Tour Malaysia & Singapore Stage 1: Challengers,96,2022-01-29,2022-02-27
+605,Champions Tour Malaysia & Singapore Stage 1: Challengers 1,40,2021-01-29,2021-02-07
+606,Champions Tour Malaysia & Singapore Stage 1: Challengers 2,41,2021-02-19,2021-02-28
+607,Champions Tour Malaysia & Singapore Stage 1: Challengers 3,41,2021-03-05,2021-03-14
+608,Champions Tour Malaysia & Singapore Stage 2: Challengers,126,2022-04-30,2022-05-28
+609,Champions Tour Malaysia & Singapore Stage 2: Challengers 1,43,2021-03-26,2021-04-03
+610,Champions Tour Malaysia & Singapore Stage 2: Challengers 2,49,2021-04-09,2021-04-17
+611,Champions Tour Malaysia & Singapore Stage 2: Challengers 3,10,2021-04-22,2021-04-25
+612,Champions Tour Malaysia & Singapore Stage 3: Challengers 1,32,2021-07-03,2021-07-10
+613,Champions Tour Malaysia & Singapore Stage 3: Challengers 2,26,2021-07-17,2021-07-25
+614,Champions Tour Malaysia & Singapore Stage 3: Challengers 3,29,2021-07-31,2021-08-08
+615,Champions Tour North America Stage 1: Challengers,352,2022-01-27,2022-03-27
+616,Champions Tour North America Stage 1: Challengers 1,141,2021-01-27,2021-02-07
+617,Champions Tour North America Stage 1: Challengers 2,138,2021-02-11,2021-02-23
+618,Champions Tour North America Stage 1: Challengers 3,138,2021-02-25,2021-03-07
+619,Champions Tour North America Stage 1: Masters,14,2021-03-11,2021-03-21
+620,Champions Tour North America Stage 2: Challengers,302,2022-04-28,2022-06-26
+621,Champions Tour North America Stage 2: Challengers 1,134,2021-04-01,2021-04-11
+622,Champions Tour North America Stage 2: Challengers 2,138,2021-04-15,2021-04-25
+623,Champions Tour North America Stage 2: Challengers Finals,14,2021-04-29,2021-05-02
+624,Champions Tour North America Stage 3: Challengers 1,128,2021-07-01,2021-07-11
+625,Champions Tour North America Stage 3: Challengers 2,138,2021-07-22,2021-08-01
+626,Champions Tour North America Stage 3: Challengers Playoffs,14,2021-08-11,2021-08-15
+627,Champions Tour North America: Last Chance Qualifier,28,2021-10-12,2022-08-14
+628,Champions Tour Philippines Stage 1: Challengers,48,2022-01-29,2022-02-26
+629,Champions Tour Philippines Stage 1: Challengers 1,7,2021-02-05,2021-02-07
+630,Champions Tour Philippines Stage 1: Challengers 2,35,2021-02-13,2021-02-21
+631,Champions Tour Philippines Stage 1: Challengers 3,37,2021-02-27,2021-03-07
+632,Champions Tour Philippines Stage 2: Challengers,88,2022-05-01,2022-05-29
+633,Champions Tour Philippines Stage 2: Challengers 1,34,2021-03-27,2021-04-06
+634,Champions Tour Philippines Stage 2: Challengers 2,36,2021-04-10,2021-04-18
+635,Champions Tour Philippines Stage 2: Challengers 3,7,2021-04-23,2021-04-25
+636,Champions Tour Philippines Stage 3: Challengers 1,50,2021-07-02,2021-07-11
+637,Champions Tour Philippines Stage 3: Challengers 2,51,2021-07-16,2021-07-25
+638,Champions Tour Philippines Stage 3: Challengers 3,51,2021-07-30,2021-08-08
+639,Champions Tour SEA Stage 1: Masters,7,2021-03-19,2021-03-21
+640,Champions Tour SEA Stage 2: Challengers Finals,18,2021-04-29,2021-05-02
+641,Champions Tour SEA Stage 3: Challengers Playoffs,38,2021-08-12,2021-08-22
+642,Champions Tour South America: Last Chance Qualifier,26,2021-10-11,2022-08-14
+643,Champions Tour Stage 1: EMEA Challengers,40,2022-02-11,2022-03-27
+644,Champions Tour Stage 1: EMEA Promotion,18,2022-04-01,2022-04-09
+645,Champions Tour Stage 2: EMEA Challengers Playoffs,13,2021-04-23,2021-05-02
+646,Champions Tour Stage 3: EMEA Challengers Playoffs,22,2021-08-12,2021-08-22
+647,Champions Tour Thailand Stage 1: Challengers,84,2022-01-22,2022-02-27
+648,Champions Tour Thailand Stage 1: Challengers 1,21,2021-01-29,2021-02-07
+649,Champions Tour Thailand Stage 1: Challengers 2,21,2021-02-19,2021-02-28
+650,Champions Tour Thailand Stage 1: Challengers 3,22,2021-03-06,2021-03-14
+651,Champions Tour Thailand Stage 2: Challengers,80,2022-04-30,2022-05-29
+652,Champions Tour Thailand Stage 2: Challengers 1,21,2021-03-27,2021-04-04
+653,Champions Tour Thailand Stage 2: Challengers 2,21,2021-04-10,2021-04-25
+654,Champions Tour Thailand Stage 3: Challengers 1,36,2021-07-03,2021-07-11
+655,Champions Tour Thailand Stage 3: Challengers 2,25,2021-07-17,2021-07-25
+656,Champions Tour Thailand Stage 3: Challengers 3,25,2021-07-31,2021-08-08
+657,Champions Tour Turkey Stage 1: Challengers 1,103,2021-02-12,2022-01-16
+658,Champions Tour Turkey Stage 1: Challengers 2,107,2021-02-24,2022-01-23
+659,Champions Tour Turkey Stage 1: Challengers 3,32,2021-03-03,2021-03-07
+660,Champions Tour Turkey Stage 1: Masters,13,2021-03-12,2021-03-21
+661,Champions Tour Turkey Stage 2: Challengers 1,67,2021-03-31,2021-04-09
+662,Champions Tour Turkey Stage 2: Challengers 2,67,2021-04-11,2021-04-18
+663,Champions Tour Turkey Stage 3: Challengers 1,90,2021-06-29,2021-07-10
+664,Champions Tour Turkey Stage 3: Challengers 2,96,2021-07-21,2021-07-31
+665,Champions Tour Vietnam Stage 1: Challengers,34,2022-02-10,2022-02-27
+666,Champions Tour Vietnam Stage 2: Challengers,84,2021-04-20,2022-05-29
+667,Champions Tour Vietnam Stage 3: Challengers 1,33,2021-07-02,2021-07-11
+668,Champions Tour Vietnam Stage 3: Challengers 2,29,2021-07-16,2021-07-25
+669,Champions Tour Vietnam Stage 3: Challengers 3,31,2021-07-30,2021-08-08
+670,Charge Gaming Cup #2,16,2020-12-05,2020-12-13
+671,Chiefs Men Expert Invitational,18,2020-11-06,2020-11-07
+672,China Esports Festival Super Champions Cup,10,2025-11-29,2025-11-30
+673,China Evolution Series 2026: Act 1,12,2026-03-16,2026-03-22
+674,China Evolution Series 2026: Act 2,16,2026-05-21,2026-05-31
+675,China Evolution Series 2026: Act 3,16,2026-09-03,2026-09-13
+676,China Evolution Series Act 1: Variation,65,2023-09-07,2023-10-01
+677,China Evolution Series Act 2: Selection,70,2023-10-05,2023-10-29
+678,China Evolution Series Act 3: Heritability,72,2023-11-02,2023-11-26
+679,China Evolution Series: Act 1,12,2025-02-08,2025-02-16
+680,China Evolution Series: Act 2 X Asian Champions League,12,2025-05-07,2025-05-12
+681,China Evolution Series: Act 3,12,2025-08-28,2025-09-07
+682,China Evolution Series: Epilogue,8,2025-11-12,2025-11-16
+683,China National Tournament 2025 Split Alpha: Pro Division,50,2025-11-04,2025-11-23
+684,China National Tournament 2026 Split Alpha: Platform Division,8,2026-04-28,2026-05-04
+685,China National Tournament 2026 Split Alpha: Pro Division,56,2026-04-01,2026-05-04
+686,China National Tournament 2026: Pro Qualifier,53,2026-07-09,2026-07-30
+687,China-ASEAN Esports Competition 2025,16,2025-09-16,2025-09-18
+688,Chroma Cup,15,2021-01-28,2021-01-29
+689,Chroma Cup #09,15,2021-09-15,2021-09-16
+690,Chroma Cup #10,14,2021-10-14,2021-10-15
+691,Chroma Cup #11,15,2021-11-11,2021-11-12
+692,Chroma Cup #12,15,2021-12-04,2021-12-05
+693,Chroma Cup #13,30,2022-03-19,2022-03-21
+694,Chroma Cup #2,15,2021-02-25,2021-02-26
+695,Chroma Cup #3,15,2021-03-18,2021-03-19
+696,Chroma Cup #4,15,2021-04-29,2021-04-30
+697,Chroma Cup #5,15,2021-05-20,2021-05-21
+698,Chroma Cup #6,15,2021-06-15,2021-06-16
+699,Chroma Cup #7,15,2021-07-22,2021-07-23
+700,Chroma Cup #8,15,2021-08-18,2021-08-19
+701,Circuito De Elite - Finals,7,2021-11-15,2021-11-28
+702,Circuito Tormenta 2024 Italy: Split 1 - Blooming Talents League,6,2024-03-21,2024-04-10
+703,Circuito Tormenta 2024 Italy: Split 2 - Blooming Talents League,5,2024-06-27,2024-07-11
+704,Circuito Tormenta 2026 Play Córdoba - Generation Cup,12,2026-03-14,2026-03-21
+705,Circuito Tormenta 2026 PowerShield Cup,13,2026-04-18,2026-04-19
+706,Circuito Tormenta 2026 SANDISK OPTIMUS Evolution Cup,15,2026-06-17,2026-06-23
+707,Circuito Tormenta 2026: Esports Series Madrid,15,2026-07-11,2026-07-12
+708,Circuito Tormenta 2026: Kings of Barcelona,7,2026-08-29,2026-08-29
+709,Circuito Tormenta Back on Track - Premium Cup,7,2026-08-22,2026-08-23
+710,Circuito Tormenta Finales 2025,18,2025-06-12,2025-07-17
+711,Circuito Tormenta Italy - Blooming Talents League,5,2023-06-07,2023-06-18
+712,Circuito Tormenta Italy 2025: Project Blender Qualifier,17,2025-08-31,2025-09-14
+713,Circuito Tormenta Spain 2025: Project Blender Qualifier,14,2025-09-20,2025-09-21
+714,Circuito Tormenta: Alicante Digital Gaming,1,2023-01-14,2023-01-14
+715,Circuito Tormenta: Asobu Esports 22/23,3,2022-10-23,2022-10-23
+716,Circuito Tormenta: Challenge #1,4,2021-05-15,2021-05-16
+717,Circuito Tormenta: Challenge #2,4,2021-05-29,2021-05-30
+718,Circuito Tormenta: Gamegune 2022,3,2022-11-13,2022-11-25
+719,Circuito Tormenta: Gamergy 2022,3,2022-12-18,2022-12-18
+720,Circuito Tormenta: Granada Gaming,3,2023-04-23,2023-04-23
+721,Circuito Tormenta: Liga Radiante 2021 S1,59,2021-09-15,2021-12-19
+722,Circuito Tormenta: Liga Radiante 2022 S1,31,2022-02-28,2022-04-05
+723,Circuito Tormenta: Liga Radiante 22/23 S1,33,2022-10-10,2022-12-05
+724,Circuito Tormenta: Secret Tournament 2023,6,2023-03-12,2023-04-01
+725,Circuito Tormenta: TRIFORC3 2023,3,2023-02-26,2023-02-26
+726,Circuito Tormenta: TRIFORC3 Final Phase,3,2023-05-07,2023-05-07
+727,Circuito de Elite - Round #1,86,2021-06-05,2021-06-19
+728,Circuito de Elite - Round #2,119,2021-06-26,2021-08-11
+729,Circuito de Elite - Round #3,83,2021-09-04,2021-10-06
+730,Clan Battle Act 2,108,2020-10-06,2020-10-28
+731,Clan Masters,19,2020-06-23,2020-08-19
+732,Claro Gaming Spike Cup - Apertura,9,2023-04-04,2023-04-22
+733,Claro Gaming Spike Cup - Clausura,3,2023-09-21,2023-09-23
+734,Claro Gaming Spike Cup - Showdown,1,2023-12-22,2023-12-22
+735,Climbing Series #2: Playoffs,14,2024-11-01,2024-11-09
+736,Climbing Series: Playoffs,14,2024-07-10,2024-07-18
+737,Cloud9 To The Skyes Invitational,7,2020-12-19,2020-12-20
+738,Cloudy Tournament: Malaysia and Singapore Rivalry,12,2023-12-07,2023-12-30
+739,Coliseum: Hora da Batalha,3,2024-06-27,2024-06-28
+740,College VALORANT 2024-2025: East,22,2025-02-27,2025-04-13
+741,College VALORANT 2024-2025: Eastern College Athletic Conference,8,2025-03-09,2025-04-10
+742,College VALORANT 2024-2025: Mid-Atlantic Esports Conference,14,2025-03-29,2025-04-12
+743,College VALORANT 2024-2025: Midwest Esports Conference,14,2025-03-29,2025-04-13
+744,College VALORANT 2024-2025: Mountain West Conference,7,2025-03-12,2025-03-29
+745,College VALORANT 2024-2025: National Esports Collegiate Conference,8,2025-03-15,2025-04-12
+746,College VALORANT 2024-2025: National Junior College Athletic Association,7,2025-03-27,2025-04-10
+747,College VALORANT 2024-2025: North,22,2025-02-26,2025-04-12
+748,College VALORANT 2024-2025: Peach Belt Conference,7,2025-04-04,2025-04-05
+749,College VALORANT 2024-2025: South,22,2025-02-28,2025-04-12
+750,College VALORANT 2024-2025: West,22,2025-02-28,2025-04-12
+751,College VALORANT 2024-2025: Wolverine-Hoosier Athletic Conference,5,2025-04-06,2025-04-06
+752,College VALORANT 2025-2026: East,7,2026-03-21,2026-04-11
+753,College VALORANT 2025-2026: Eastern College Athletic Conference,1,2026-04-11,2026-04-11
+754,College VALORANT 2025-2026: Esports Collegiate Conference,1,2026-03-29,2026-03-29
+755,College VALORANT 2025-2026: Midwest Esports Conference,1,2026-04-05,2026-04-05
+756,College VALORANT 2025-2026: Mountain West Conference,1,2026-03-28,2026-03-28
+757,College VALORANT 2025-2026: National Junior College Athletic Association,1,2026-04-09,2026-04-09
+758,College VALORANT 2025-2026: North,7,2026-03-21,2026-04-11
+759,College VALORANT 2025-2026: Peach Belt Conference,1,2026-03-28,2026-03-28
+760,College VALORANT 2025-2026: South,7,2026-03-21,2026-04-11
+761,College VALORANT 2025-2026: West,7,2026-03-21,2026-04-11
+762,College VALORANT 2025-2026: Wolverine-Hoosier Athletic Conference,1,2026-04-11,2026-04-11
+763,College VALORANT Championship 2023,38,2023-05-06,2023-06-07
+764,College VALORANT Championship 2024,38,2024-05-09,2024-06-09
+765,College VALORANT Championship 2025,46,2025-04-17,2025-06-01
+766,College VALORANT Championship 2026,46,2026-04-18,2026-05-31
+767,College VALORANT East: Fall 2022,70,2022-11-09,2022-12-11
+768,College VALORANT East: Fall 2023,38,2023-11-11,2023-12-10
+769,College VALORANT East: Spring 2023,38,2023-03-29,2023-04-30
+770,College VALORANT East: Spring 2024,38,2024-04-13,2024-05-05
+771,College VALORANT East: Winter 2023,38,2023-02-08,2023-03-05
+772,College VALORANT East: Winter 2024,14,2024-02-17,2024-03-03
+773,College VALORANT North: Fall 2022,38,2022-11-10,2022-12-11
+774,College VALORANT North: Fall 2023,38,2023-11-11,2023-12-10
+775,College VALORANT North: Spring 2023,38,2023-04-01,2023-04-30
+776,College VALORANT North: Spring 2024,38,2024-04-13,2024-05-05
+777,College VALORANT North: Winter 2023,38,2023-02-08,2023-03-05
+778,College VALORANT North: Winter 2024,38,2024-02-07,2024-03-03
+779,College VALORANT South: Fall 2022,38,2022-11-09,2022-12-11
+780,College VALORANT South: Fall 2023,38,2023-11-11,2023-12-10
+781,College VALORANT South: Spring 2023,38,2023-03-29,2023-04-30
+782,College VALORANT South: Spring 2024,38,2024-04-13,2024-05-05
+783,College VALORANT South: Winter 2023,38,2023-02-07,2023-03-05
+784,College VALORANT South: Winter 2024,38,2024-02-10,2024-03-03
+785,College VALORANT West: Fall 2022,38,2022-11-09,2022-12-11
+786,College VALORANT West: Fall 2023,38,2023-11-11,2023-12-10
+787,College VALORANT West: Spring 2023,38,2023-03-30,2023-04-30
+788,College VALORANT West: Spring 2024,38,2024-04-13,2024-05-05
+789,College VALORANT West: Winter 2023,38,2023-02-09,2023-03-05
+790,College VALORANT West: Winter 2024,38,2024-02-10,2024-03-03
+791,Collegiate VAL Hub: Summer Showdown Finals,14,2023-08-11,2023-08-13
+792,Collegiate VALORANT Conference Fall Series 2025 - Finals,8,2025-11-18,2025-12-05
+793,Collegiate Valorant Hub Winter Warmup Invitational,55,2023-01-04,2023-01-06
+794,Comic Con Baltics 2026,1,2026-05-22,2026-05-22
+795,Community Gaming Premier Series #1,31,2021-03-29,2021-03-30
+796,Community Gaming Premier Series #2,31,2021-05-08,2021-05-09
+797,Community Gaming Premier Series: Finale,62,2021-08-28,2021-08-29
+798,Community Gaming SERIES #10,46,2023-11-10,2023-11-12
+799,Community Gaming SERIES #12,62,2024-02-23,2024-02-25
+800,Community Gaming SERIES #13,36,2024-03-15,2024-03-17
+801,Community Gaming SERIES #14,48,2024-04-19,2024-04-21
+802,Community Gaming SERIES #15,10,2024-06-22,2024-06-23
+803,Community Gaming SERIES #17,58,2024-09-02,2024-10-10
+804,Community Gaming SERIES #8,38,2023-09-25,2023-09-25
+805,Community Gaming SERIES #9,54,2023-10-20,2023-10-22
+806,Complexity Paradox Invitational,14,2023-03-25,2023-03-26
+807,Complexity x NSG Invitational,28,2021-01-09,2021-01-10
+808,Conkmodo Spring Valorant Slam,14,2020-09-15,2020-09-17
+809,Connecta The Ultimate Battle,25,2023-10-29,2023-11-20
+810,Contenders Legion: Athena Series,7,2022-09-03,2022-09-04
+811,Convergence 2023,18,2023-11-29,2023-12-17
+812,Copa Bravíssima,30,2023-12-14,2023-12-16
+813,Copa ELV Expresso,30,2026-06-05,2026-06-14
+814,Copa Gamergy,6,2020-11-29,2020-12-06
+815,Copa Rakin #1,14,2020-06-12,2021-06-13
+816,Copa Rakin #2,14,2020-10-04,2020-10-06
+817,Copa Rakin 2022,14,2022-11-15,2022-12-04
+818,Copa Rakin: Season 1,44,2021-06-02,2021-06-20
+819,Copa Rakin: Season 2,14,2021-10-19,2021-10-31
+820,Copa Rakin: Season 3,14,2021-11-15,2021-11-30
+821,Copa brMalls,7,2020-11-19,2020-11-27
+822,Copenhagen Flames Curveball Cup,3,2020-07-18,2020-07-18
+823,Cordoba Generation Cup,3,2024-03-02,2024-03-17
+824,Cordoba Generation Cup 2025,7,2025-02-23,2025-03-30
+825,Corsair Championship 2024,13,2024-02-05,2024-02-09
+826,Coupe Québécoise de Valorant,10,2023-05-05,2023-05-20
+827,Crazy Raccoon Cup #9,6,2024-11-25,2024-11-26
+828,CriticalX Valorant Milestone,17,2022-04-25,2022-05-03
+829,Cross-Fire Latin America North,14,2023-11-13,2023-11-19
+830,Cross-Fire Latin America South,8,2023-11-24,2023-11-26
+831,Crossfire Cup 2022,42,2022-09-15,2022-11-12
+832,Crossfire Cup 2023,65,2023-09-17,2023-11-11
+833,Cyber Games Arena Pacific Open,32,2020-08-17,2020-08-23
+834,D2 Esports Europe 1k,14,2020-07-19,2020-07-19
+835,D2E Series Brazil,7,2021-01-19,2021-01-24
+836,DGWIB Valorant Season 3,14,2023-06-15,2023-06-25
+837,DVAG Community Cup #1,4,2026-05-16,2026-05-16
+838,Daejeon Valorant Invitational,4,2022-10-14,2022-10-16
+839,DeftFox Invitational,15,2021-08-21,2021-08-21
+840,Dell Gaming Challenge,31,2020-10-05,2020-10-10
+841,Dell Gaming Cup,22,2020-07-24,2020-07-26
+842,Denmark National League 2024 - Division 1,29,2024-09-10,2024-11-02
+843,Denmark National League Autumn 2025,31,2025-09-09,2025-11-15
+844,Denmark National League Spring 2025,3,2025-06-10,2025-06-15
+845,Denmark National League Spring 2026,3,2026-04-24,2026-04-25
+846,Denmark National League Spring 2026 - VCL Qualifier,9,2026-03-14,2026-03-15
+847,Denmark National League Winter 2025,31,2025-01-14,2025-03-04
+848,Desafío Legión,15,2020-09-08,2020-09-10
+849,Devil Clutch Cup Hi #3,4,2025-08-04,2025-08-04
+850,Devil Clutch Cup Hi #4,4,2025-11-02,2025-11-02
+851,Devil Clutch Cup Hi #5,2,2025-12-10,2025-12-11
+852,Discord Gaming: Snowsgiving Zero Dark Thirty,8,2022-12-22,2022-12-22
+853,DouYu Bie Zhuang Cup Winter,40,2021-01-19,2021-01-24
+854,Douyu Bie Zhuang Cup Season 1,14,2020-09-23,2020-09-27
+855,Draguignan Gaming Festival 2025,1,2025-11-22,2025-11-22
+856,Draguignan Gaming Festival 2026,1,2026-10-31,2026-10-31
+857,DreamHack Beyond: Europe,62,2021-07-29,2021-08-01
+858,DreamHack Melbourne 2023,16,2023-04-28,2023-04-30
+859,DreamHack Summer 2022 - BEACON Split 1,14,2022-06-19,2022-06-19
+860,DreamHack Valencia 2023,10,2023-07-08,2023-07-09
+861,DreamHack Winter 2022 - BEACON Split 2,14,2022-11-25,2022-11-26
+862,Dreamhack 2025 Stockholm,7,2025-11-29,2025-11-29
+863,Dreamhack Atlanta 2025 Collegiate Invitational,18,2025-10-31,2025-11-02
+864,Dreamhack Atlanta 2026 Collegiate Invitational,19,2026-05-15,2026-05-17
+865,Dreamhack Atlanta Fall Open 2023,38,2023-09-24,2023-12-17
+866,Dreamhack Showdown: Valorant Presented by Circles.Life,65,2022-11-07,2022-11-13
+867,Drop the Spike,8,2020-10-26,2020-10-26
+868,Dubai Police Esports Tournament 2023,8,2023-12-12,2023-12-13
+869,Dubai Police Esports Tournament 2025,4,2025-08-15,2025-08-16
+870,Dubai Police Game Safe Tournament,4,2023-04-22,2023-04-22
+871,E-GO App Cup Valorant Finals,14,2021-10-03,2021-10-03
+872,EDION VALORANT CUP,5,2020-10-01,2020-10-04
+873,EMEA Clash 2026,20,2026-02-19,2026-02-25
+874,EMG Series: Middle East and North Africa,73,2023-07-21,2023-08-26
+875,EMG Series: South Asia,51,2023-07-20,2023-08-27
+876,EPIC.LAN #36 - BEACON Split 1,30,2022-07-08,2022-07-10
+877,EPIC.LAN #37 - BEACON Split 2,22,2022-10-28,2022-10-30
+878,EPIC.LAN #38 - BEACON Split 1,22,2023-02-24,2023-02-26
+879,EPIC.LAN #39,6,2023-07-29,2023-07-30
+880,EPIC.LAN #40,8,2023-10-28,2023-10-29
+881,EPIC.LAN #41,14,2024-02-23,2024-02-25
+882,EPIC.LAN #42,14,2024-07-19,2024-07-21
+883,EPIC.LAN #43,14,2024-10-25,2024-10-27
+884,EPIC.LAN #44,14,2025-02-21,2025-02-23
+885,EPIC.LAN #45,12,2025-07-18,2025-07-20
+886,EPIC.LAN #46,14,2025-11-01,2025-11-02
+887,EPIC.LAN #47,14,2026-02-20,2026-02-22
+888,EPIC.LAN #48,6,2026-07-18,2026-07-19
+889,EPIC.LAN #49,10,2026-10-31,2026-11-01
+890,EPICENTER 2025,4,2025-09-14,2025-09-14
+891,EPULZE Royal SEA Cup,38,2020-09-20,2020-09-27
+892,ESA Open Fire All Stars,18,2021-08-24,2021-09-03
+893,ESA Open Fire All Stars 2022,34,2022-11-03,2022-12-04
+894,ESA Open Fire All Stars 2023,14,2023-12-17,2023-12-30
+895,ESA Open Fire Rebels,13,2021-11-01,2021-11-03
+896,ESA Open Fire Stand United,13,2022-10-03,2022-10-09
+897,ESF 2026 VALORANT HongKong OPEN,4,2026-08-21,2026-08-22
+898,ESL Clash of Nations 2023,57,2023-10-22,2023-11-26
+899,ESL Clash of Nations: KR/JP,18,2022-11-12,2022-12-11
+900,ESL Clash of Nations: OCE,18,2022-10-28,2022-12-10
+901,ESL Clash of Nations: SEA,84,2022-10-27,2022-12-11
+902,ESL SEA Community Clash,34,2020-10-23,2020-11-27
+903,ESL Thailand Championship 2020,28,2020-11-08,2020-12-06
+904,ESM 2025 SPLIT 2 FINAL PHASE,3,2025-11-21,2025-11-29
+905,ESSL Champions Cup 2026,3,2026-04-25,2026-05-23
+906,ESTAZ Valorant Elite League,32,2021-11-24,2022-01-04
+907,EURAT Valorant Vanquisher Series,19,2021-04-18,2021-05-09
+908,EURAT Valorant Vengeance Series,19,2021-06-13,2021-06-26
+909,EVC Finnish League Split 3,16,2025-10-21,2025-11-22
+910,EVC x Crunch: The Surge #1,7,2024-09-01,2024-09-01
+911,EVC: Legacy NE #2,15,2025-07-26,2025-07-27
+912,EVC: The Surge #2,62,2024-11-30,2024-12-01
+913,EVC: The Surge #3,15,2025-03-01,2025-03-04
+914,EVC: The Surge #4,7,2025-06-01,2025-06-15
+915,EVC: The Surge #5,31,2025-08-22,2025-08-24
+916,EVC: The Surge #6,31,2025-10-17,2025-10-19
+917,EVC: The Surge #7,31,2025-11-28,2025-11-30
+918,EVC: The Surge #8,31,2026-01-09,2026-01-11
+919,EVC: The Surge #9,31,2026-03-13,2026-03-15
+920,EVC: The Surge 11,31,2026-05-01,2026-05-31
+921,EVC: The Surge 12,31,2026-07-24,2026-07-26
+922,EVC: The Surge 13,38,2026-09-04,2026-09-06
+923,EVC: The Surge 14,31,2026-10-09,2026-10-11
+924,EVC: The Surge X,31,2026-04-24,2026-04-26
+925,EVNIA Showdown 2025: Fall Season,32,2025-09-29,2025-10-03
+926,EVNIA Showdown 2025: Spring Season,8,2025-07-12,2025-07-13
+927,EVOlution Open - Brazil,30,2020-09-20,2020-09-30
+928,EVOlution Open - North America,8,2020-09-12,2020-09-14
+929,EZmode Turbo Tuesdays 2026,34,2026-08-18,2026-09-08
+930,Easter Egg Invitational,14,2021-01-07,2021-01-09
+931,Egypt Valorant Community Tournament,6,2021-01-13,2021-01-15
+932,El Olimpo 2025,28,2025-11-21,2025-12-06
+933,Elevate Play: Avalanche,40,2026-09-18,2026-09-23
+934,Elite Invitational,27,2020-12-15,2020-12-25
+935,Empire Play North Africa Invitational,8,2020-06-26,2020-06-28
+936,Energy Vision,34,2021-07-29,2021-08-15
+937,Epic.LAN34,30,2021-10-29,2021-10-31
+938,Epulze Valorant Prodigies,31,2020-05-23,2020-06-28
+939,Equal Esports Queens 2025: Contenders S2 Qualifier,13,2025-07-05,2025-07-06
+940,Equal Esports Queens 2025: Project Blender Qualifier,24,2025-09-05,2025-09-07
+941,Equal Esports Queens 2025: Split 2,30,2025-03-22,2025-05-04
+942,Equal Esports Queens 2025: Split 3,47,2025-05-15,2025-08-16
+943,Equal Esports Queens 2025: Split 3 - Relegation,9,1969-12-31,2025-08-30
+944,Equal Esports Queens 2025: Split 4,52,2025-09-16,2025-10-13
+945,Equal Esports Queens 2026: Split 1,166,2026-01-06,2026-03-01
+946,Equal Esports Queens 2026: Split 1 - Closed Qualifier,11,2025-12-27,2025-12-29
+947,Equal Esports Queens 2026: Split 1 - Relegation,5,2026-03-10,2026-03-12
+948,Esports Nations Cup 2026: Asia Qualifier,15,2026-06-27,2026-06-28
+949,Esports Nations Cup 2026: Europe Qualifier,54,2026-06-26,2026-06-28
+950,Esports Nations Cup 2026: Middle East & North Africa Qualifier,36,2026-06-26,2026-06-28
+951,Esports Nations Cup 2026: North America Qualifier,21,2026-06-26,2026-06-28
+952,Esports Nations Cup 2026: South America Qualifier,5,2026-06-28,2026-06-28
+953,Esports Nations Cup 2026: Southeast Asia & Oceania Qualifier,13,2026-06-27,2026-06-28
+954,Esports Nations Cup 2026: Sub-Saharan Africa Qualifier,20,2026-06-26,2026-06-28
+955,Esports Scotland Minor - BEACON Split 1,5,2023-03-18,2023-03-19
+956,Esports Series Madrid 2023,7,2023-11-19,2023-12-03
+957,Esports Series Madrid 2024,7,2024-10-27,2024-11-16
+958,Esports Series Madrid 2025,7,2025-05-25,2025-06-07
+959,Esports Series Madrid 2026,15,2026-05-30,2026-06-06
+960,Esports World Cup 2025,77,2025-05-16,2025-07-13
+961,Esports World Cup 2026,28,2026-07-02,2026-07-12
+962,Esports World Cup 2026: Americas Qualifier,17,2026-05-12,2026-05-31
+963,Esports World Cup 2026: China Qualifier,19,2026-05-12,2026-05-20
+964,Esports World Cup 2026: EMEA Qualifier,16,2026-05-11,2026-05-31
+965,Esports World Cup 2026: Pacific Qualifier,17,2026-05-11,2026-05-31
+966,EsportsDoug x eUnited Charity Clash,7,2020-07-18,2020-07-18
+967,Esportsmaker Spike Ladies #2,7,2022-02-17,2022-02-20
+968,Esportsmaker Spike Ladies #3,8,2022-06-16,2022-06-19
+969,Esportsmaker Spike Ladies #4,8,2022-10-26,2022-10-29
+970,Esportsmaker Spike Ladies #5,8,2023-04-06,2023-04-09
+971,Esportsmaker Spike Ladies #7,8,2023-11-17,2023-11-25
+972,Esportsmaker Spike Series,16,2020-10-26,2020-10-30
+973,Esportsmaker Spike Series II,16,2021-04-08,2021-04-16
+974,Esportsmaker Spike Series Invitational,7,2022-11-05,2022-11-11
+975,Esportz Premier Series,3,2021-12-08,2021-12-10
+976,ExitLag ChampZ,7,2026-05-30,2026-05-31
+977,ExitLag: Champs,31,2025-03-29,2025-03-29
+978,ExitLag: Champs 2,31,2025-04-26,2025-04-26
+979,ExitLag: Champs 3,63,2025-06-07,2025-06-09
+980,ExitLag: Champz,113,2025-08-16,2025-08-31
+981,ExitLag: Champz - Qualifier,63,2026-05-23,2026-05-23
+982,ExitLag: Champz - Qualifier 2,7,2026-05-24,2026-05-24
+983,ExitLag: Champz - Qualifier 3,15,2026-05-25,2026-05-25
+984,Exsto Athena Series,44,2025-03-28,2025-04-19
+985,FEL Finnish Minor - BEACON Split 1,22,2023-04-09,2023-04-09
+986,FEL Finnish Minor - BEACON Split 2,30,2022-11-11,2022-11-12
+987,FEL Major - BEACON Split 1,30,2023-04-22,2023-04-23
+988,FEL Valorant Cup,14,2020-11-13,2020-12-02
+989,FEL Valorant Cup #2,14,2021-02-05,2021-05-05
+990,FEL Valorant Cup #3,14,2021-11-08,2021-11-26
+991,FEL Valorant Cup #4,14,2022-05-12,2022-05-30
+992,FEL Valorant Cup #5,8,2022-11-21,2022-12-02
+993,FGC 2026 Qualifier: LATAM,40,2026-08-15,2026-08-25
+994,FGC Invitational 2024,18,2024-10-30,2024-11-10
+995,FGC VALORANT Invitational 2022: Act 1,42,2022-02-21,2022-03-09
+996,FGC VALORANT Invitational 2022: Act 2,35,2022-05-21,2022-06-10
+997,FGC VALORANT Invitational 2022: Act 3,30,2022-06-28,2022-07-09
+998,FGC VALORANT Invitational 2022: Epilogue,26,2022-11-10,2022-12-25
+999,FGC VALORANT Invitational 2023: Act 1,40,2023-03-22,2023-04-16
+1000,FGC VALORANT Invitational 2023: Act 1 Qualifiers,92,2023-02-14,2023-03-19
+1001,FGC VALORANT Invitational 2023: Act 2,30,2023-05-03,2023-05-21
+1002,FGC VALORANT Invitational 2023: Act 2 Qualifiers,75,2023-04-04,2023-04-30
+1003,FGC Valorant Invitational,40,2021-08-19,2021-09-06
+1004,FICZONE Granada Gaming 2024,3,2024-04-07,2024-04-07
+1005,FPSThailand August 2022,3,2022-08-28,2022-08-28
+1006,FPSThailand Tournament,7,2022-01-19,2022-01-27
+1007,FPSThailand VALORANT Series: Season 1,31,2021-10-04,2021-10-31
+1008,FSE Ramadan Men's Cup 2026,10,2026-02-23,2026-03-15
+1009,FSE Ramadan Women's Cup,6,2026-02-25,2026-03-15
+1010,FSE Ruby League 2025-26,3,2026-01-29,2026-01-30
+1011,FTW Summer Showdown,38,2020-09-11,2020-09-13
+1012,FaZe Clan Invitational,34,2020-08-06,2020-08-09
+1013,FaZe Smeag All Star Weekend,14,2022-11-05,2022-11-06
+1014,Fase Final 2023,3,2023-12-17,2023-12-17
+1015,Fase Final Circuito Tormenta 2022 S2,3,2022-07-31,2022-08-06
+1016,Fight Night,4,2021-09-23,2021-09-26
+1017,Fight Night Arena,4,2020-07-07,2020-07-14
+1018,Fighter's Cup - Week 2,8,2023-11-12,2023-11-12
+1019,Fighter's Cup - Week 6,7,2023-12-17,2023-12-17
+1020,Finde Gamer: AGS 2025,7,2025-10-04,2025-10-12
+1021,Finest Invitational,6,2021-11-09,2021-11-10
+1022,Finland National League 2024 - Division 1,63,2024-09-17,2024-10-26
+1023,Finland National League 2026 Split 1 : Division 1,14,2026-02-08,2026-03-07
+1024,Finland National League Spring 2025: Division 1,38,2025-04-14,2025-06-03
+1025,Finland National League Winter 2025: Division 1,27,2025-01-14,2025-03-04
+1026,First Strike: Brazil,127,2020-10-17,2020-12-06
+1027,First Strike: CIS,182,2020-11-09,2020-12-06
+1028,First Strike: Europe,668,2020-11-09,2020-12-06
+1029,First Strike: Hong Kong & Taiwan,6,2020-12-03,2020-12-06
+1030,First Strike: Indonesia,16,2020-12-02,2020-12-06
+1031,First Strike: Japan,32,2020-11-14,2020-12-06
+1032,First Strike: Korea,23,2020-11-12,2020-12-06
+1033,First Strike: Latin America,78,2020-11-26,2020-12-06
+1034,First Strike: MENA,48,2020-11-07,2020-12-06
+1035,First Strike: Malaysia & Singapore,58,2020-11-20,2020-12-06
+1036,First Strike: North America,282,2020-10-26,2020-12-06
+1037,First Strike: Oceania,120,2020-10-24,2020-12-06
+1038,First Strike: Turkey,66,2020-10-24,2020-12-06
+1039,Flipkart BTC Cup S1,14,2024-05-15,2024-05-22
+1040,Flipkart Pro Gaming Showdown,3,2020-09-12,2020-09-13
+1041,Fly High Invitational,14,2021-11-20,2021-11-21
+1042,FlyQuest Trailblazer Tournament - Championship,13,2024-01-16,2024-01-17
+1043,FlyQuest Trailblazer Tournament - December,19,2023-12-12,2023-12-13
+1044,FlyQuest Trailblazer Tournament - November,25,2023-11-21,2023-11-22
+1045,FlyQuest Trailblazer Tournament - October,27,2023-10-17,2023-10-18
+1046,Fnatic Proving Grounds,15,2020-05-08,2020-05-08
+1047,For Those Who Dare,29,2023-09-30,2023-11-04
+1048,For Those Who Dare 2024,17,2024-11-18,2024-11-26
+1049,For Those Who Dare 2025,3,2025-12-15,2025-12-15
+1050,Fortress (touch)Grassroots Esports 2025,30,2025-05-09,2025-05-18
+1051,Fortress (touch)Grassroots Esports 2026: Series 1 Qualifiers,100,2026-05-22,2026-06-07
+1052,Fortress (touch)Grassroots Esports 2026: Series 1 Regional Finals,18,2026-06-12,2026-06-20
+1053,Fortress (touch)Grassroots Esports 2026: Series 2,54,2026-09-11,2026-09-13
+1054,Frag Valorant Major - Fullerton,54,2021-12-18,2021-12-19
+1055,Frag Valorant Major - Philadelphia,31,2021-12-18,2021-12-19
+1056,Fragleague Cup #3 - Nordic,8,2021-05-28,2021-05-28
+1057,Fragleague Cup #4 - Nordic,8,2021-06-18,2021-06-18
+1058,Fragleague Cup #5 - Nordic,4,2021-11-26,2021-11-26
+1059,Fragleague Cup #6 - Nordic,4,2021-12-29,2021-12-29
+1060,Fragleague Cup #7 - Nordic,8,2022-06-04,2022-06-04
+1061,Fragleague S5 Cup Nordic,32,2020-10-30,2020-11-27
+1062,Fragster Valorant Invitational,3,2020-06-14,2020-06-14
+1063,Frausto's Creator Cup Revival,8,2025-09-13,2025-09-14
+1064,Frenzy Rage Series,6,2023-04-28,2023-04-29
+1065,Frost Classic : Season 1,14,2026-10-23,2026-10-25
+1066,FunPay Clutch Masters,13,2026-02-19,2026-02-22
+1067,Funhaver x ROK: Run It Back,102,2024-07-08,2024-07-10
+1068,Funhaver x ROK: Run It Back 2,111,2024-07-19,2024-07-21
+1069,FunhaverGG 2025: Winter Roundup 1,85,2025-12-05,2025-12-07
+1070,FunhaverGG 2025: Winter Roundup 3,37,2025-12-20,2025-12-21
+1071,FunhaverGG WILD//WEST: LAN,69,2026-07-23,2026-07-26
+1072,FunhaverGG x HyperX Momentum Series: Last Chance Qualifier,75,2025-02-28,2025-03-03
+1073,FunhaverGG x HyperX Momentum Series: Qualifier 1,95,2025-01-10,2025-01-12
+1074,FunhaverGG x HyperX Momentum Series: Qualifier 2,111,2025-01-24,2025-01-26
+1075,FunhaverGG x HyperX Momentum Series: Qualifier 3,101,2025-02-07,2025-02-09
+1076,FunhaverGG x HyperX Momentum Series: Qualifier 4,97,2025-02-21,2025-02-23
+1077,FunhaverGG: 2026 Lock N Load,118,2026-01-02,2026-01-04
+1078,FunhaverGG: 2026 WILD//WEST Qualifier 1,106,2026-02-20,2026-02-22
+1079,FunhaverGG: 2026 WILD//WEST Qualifier 2,101,2026-02-26,2026-02-28
+1080,FunhaverGG: 2026 WILD//WEST Qualifier 3,111,2026-03-06,2026-03-08
+1081,FunhaverGG: 2026 WILD//WEST Qualifier 4,85,2026-03-13,2026-03-15
+1082,FunhaverGG: 2026 WILD//WEST Qualifier 5,101,2026-03-20,2026-03-22
+1083,FunhaverGG: 2026 WILD//WEST Qualifier 6,111,2026-03-27,2026-03-29
+1084,FunhaverGG: 2026 WILD//WEST Qualifier 7,101,2026-04-02,2026-04-04
+1085,FunhaverGG: 2026 WILD//WEST Qualifier 8,94,2026-04-10,2026-04-12
+1086,FunhaverGG: 2026 WILD//WEST Stage 1,46,2026-04-15,2026-04-19
+1087,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 1,73,2026-05-07,2026-05-09
+1088,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 2,78,2026-05-15,2026-05-17
+1089,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 3,78,2026-05-22,2026-05-24
+1090,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 4,83,2026-05-29,2026-05-31
+1091,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 5,101,2026-06-05,2026-06-07
+1092,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 6,96,2026-06-12,2026-06-14
+1093,FunhaverGG: 2026 WILD//WEST Stage 2 - Qualifier 7,101,2026-06-19,2026-06-21
+1094,FunhaverGG: 2026 WILD//WEST Stage 2 Showdown,30,2026-06-29,2026-07-07
+1095,FunhaverGG: 2026 WIND//DOWN,83,2026-04-23,2026-04-25
+1096,FunhaverGG: Back to Basics 1,68,2025-08-14,2025-08-17
+1097,FunhaverGG: Back to Basics 10,87,2025-11-21,2025-11-23
+1098,FunhaverGG: Back to Basics 11,66,2026-01-09,2026-01-11
+1099,FunhaverGG: Back to Basics 12,76,2026-01-16,2026-01-18
+1100,FunhaverGG: Back to Basics 13,83,2026-01-23,2026-01-25
+1101,FunhaverGG: Back to Basics 14,83,2026-01-30,2026-02-01
+1102,FunhaverGG: Back to Basics 2,78,2025-08-29,2025-08-31
+1103,FunhaverGG: Back to Basics 2.0 #1,96,2026-08-07,2026-08-09
+1104,FunhaverGG: Back to Basics 2.0 #2,96,2026-08-14,2026-08-16
+1105,FunhaverGG: Back to Basics 2.0 #3,99,2026-08-28,2026-08-30
+1106,FunhaverGG: Back to Basics 2.0 #4,83,2026-09-04,2026-09-06
+1107,FunhaverGG: Back to Basics 2.0 #5,111,2026-09-18,2026-09-20
+1108,FunhaverGG: Back to Basics 2.0 #6,111,2026-10-02,2026-10-04
+1109,FunhaverGG: Back to Basics 2.0 #7,83,2026-10-16,2026-10-18
+1110,FunhaverGG: Back to Basics 3,96,2025-09-05,2025-09-07
+1111,FunhaverGG: Back to Basics 4,106,2025-09-26,2025-09-28
+1112,FunhaverGG: Back to Basics 5,31,2025-10-04,2025-10-05
+1113,FunhaverGG: Back to Basics 6,101,2025-10-10,2025-10-12
+1114,FunhaverGG: Back to Basics 7,55,2025-10-31,2025-11-02
+1115,FunhaverGG: Back to Basics 8,94,2025-11-07,2025-11-09
+1116,FunhaverGG: Back to Basics 9,73,2025-11-14,2025-11-16
+1117,FunhaverGG: Back to Basics: FINALE,23,2026-02-07,2026-02-08
+1118,FunhaverGG: DOUBLE//DOWN,55,2026-09-11,2026-09-13
+1119,FunhaverGG: DOUBLE//DOWN 2,49,2026-09-25,2026-09-27
+1120,FunhaverGG: DOUBLE//DOWN 2.0,50,2026-10-09,2026-10-11
+1121,FunhaverGG: FOMO 1,73,2025-10-17,2025-10-19
+1122,FunhaverGG: Free 4 All,63,2026-08-22,2026-08-23
+1123,FunhaverGG: LOCK-N-LOAD 3.0 #1,31,2026-10-24,2026-10-25
+1124,FunhaverGG: LOCK-N-LOAD 3.0 #2,31,2026-10-31,2026-11-01
+1125,FunhaverGG: Mad Science - BOUNTY,27,2026-05-02,2026-05-03
+1126,FunhaverGG: Mad Science - Draft,62,2025-03-07,2025-03-09
+1127,FunhaverGG: Mad Science - Draft 2,115,2025-04-04,2025-04-06
+1128,FunhaverGG: Mad Science - Draft 3,127,2025-04-11,2025-04-13
+1129,FunhaverGG: Mad Science - Draft 4,68,2025-08-08,2025-08-10
+1130,FunhaverGG: Mad Science - Draft 5,73,2025-10-24,2025-10-26
+1131,FunhaverGG: Mad Science - Draft 6,41,2025-11-28,2025-11-30
+1132,FunhaverGG: Mad Science - Draft 7,31,2026-06-27,2026-06-28
+1133,FunhaverGG: Mad Science - LOCKED,31,2026-08-01,2026-08-02
+1134,FunhaverGG: Mad Science - Mirror,73,2025-01-31,2025-02-02
+1135,FunhaverGG: Mad Science - SABOTAGE,37,2025-12-13,2025-12-14
+1136,FunhaverGG: Plain 2.0 #1,55,2026-07-03,2026-07-05
+1137,FunhaverGG: Plain 2.0 #2,78,2026-07-10,2026-07-12
+1138,FunhaverGG: Plain 2.0 #3,80,2026-07-17,2026-07-19
+1139,FunhaverGG: Plain Jane 1,55,2025-01-17,2025-01-19
+1140,FunhaverGG: Plain Jane 2,45,2025-02-14,2025-02-16
+1141,FunhaverGG: Plain Jane 3,69,2025-06-13,2025-06-15
+1142,FunhaverGG: Plain Jane 4,55,2025-07-18,2025-07-20
+1143,FunhaverGG: Plain Jane 5,68,2025-07-25,2025-07-27
+1144,FunhaverGG: Winter Roundup 1,105,2024-11-22,2024-11-24
+1145,FunhaverGG: Winter Roundup 2,71,2024-11-29,2024-12-01
+1146,FunhaverGG: Winter Roundup 3,155,2024-12-06,2024-12-08
+1147,FunhaverGG: Winter Roundup 4,73,2024-12-13,2024-12-15
+1148,FunhaverGG: Winter Roundup Finals,55,2024-12-21,2024-12-29
+1149,FunhaverGG: ZERO//IN - Final Qualifier,101,2025-07-11,2025-07-13
+1150,FunhaverGG: ZERO//IN - Qualifier 1,101,2025-04-24,2025-04-26
+1151,FunhaverGG: ZERO//IN - Qualifier 2,101,2025-05-02,2025-05-04
+1152,FunhaverGG: ZERO//IN - Qualifier 3,96,2025-05-23,2025-05-25
+1153,FunhaverGG: ZERO//IN - Qualifier 4,111,2025-05-30,2025-06-01
+1154,FunhaverGG: ZERO//IN - Qualifier 5,91,2025-06-06,2025-06-08
+1155,FunhaverGG: ZERO//IN - Qualifier 6,96,2025-06-27,2025-06-29
+1156,FunhaverGG: ZERO//IN - Qualifier 7,54,2025-07-04,2025-07-07
+1157,FunhaverGG: ZERO//IN LAN,48,2025-08-01,2025-08-03
+1158,Fusion New Rivals,9,2020-06-24,2020-06-25
+1159,G League 2025 Episode 1,68,2025-02-22,2025-02-23
+1160,G League 2025 Episode 2,8,2025-05-09,2025-05-10
+1161,G-Loot VALORANT Clash,192,2022-10-19,2022-11-27
+1162,G2 Esports Invitational,17,2020-06-19,2020-06-21
+1163,G2-Sentinels Showmatch,1,2023-10-26,2023-10-26
+1164,G4 Rumble,7,2022-10-01,2022-10-01
+1165,GALLERIA GLOBAL CHALLENGE 2020,6,2020-08-14,2020-08-16
+1166,GAMEON Productivity and Technology Tournament 2026,3,2026-04-17,2026-04-18
+1167,GAMEON VALORANT Tournament,13,2023-09-04,2023-09-16
+1168,GAMEON VALORANT Tournament #2,6,2024-09-20,2024-09-28
+1169,GAMERGY 2024,10,2024-12-14,2024-12-15
+1170,GARMIN Thailand Valorant Tournament,8,2021-06-23,2021-06-25
+1171,GFUEL Energy Games,8,2020-09-10,2020-09-10
+1172,GG VASARA 2025,3,2025-08-24,2025-08-24
+1173,GGTech Invitational 2 LA-N,24,2020-09-07,2020-09-18
+1174,GGTech Invitational 2 LA-S,32,2020-09-07,2020-09-17
+1175,GGTech Invitational LA-N,8,2020-06-28,2020-07-03
+1176,GGTech Invitational LA-S,8,2020-06-28,2020-07-02
+1177,GIRLK1D CUP 2025,14,2025-07-02,2025-07-06
+1178,GLA Baku Summer Cup 2021,14,2021-08-24,2021-08-31
+1179,GLG - Pit of Valor #100,15,2022-10-05,2022-10-05
+1180,GLG - VAL-AM PlayerzZone invitational,27,2021-03-11,2021-03-13
+1181,GLG Radiant Arena Series,88,2021-06-25,2021-07-17
+1182,GLL Orbital Strike Cup,15,2020-07-29,2020-08-05
+1183,GLX Elite Series,147,2020-08-03,2020-10-11
+1184,GO2DEN Snow Cup,16,2020-12-26,2020-12-28
+1185,GUNS AND MASTERS,8,2021-06-02,2021-06-13
+1186,Gamdias OneTap 3,4,2022-06-04,2022-06-04
+1187,Game Changers 2022 EMEA: Series I,302,2022-01-24,2022-02-06
+1188,Game Changers 2022 EMEA: Series II,338,2022-04-25,2022-05-08
+1189,Game Changers 2022 EMEA: Series III,440,2022-09-19,2022-10-02
+1190,Game Changers 2023 Asia Pacific: Elite,14,2023-10-09,2023-10-15
+1191,Game Changers 2023 Asia Pacific: Last Chance Qualifier,127,2023-08-24,2023-09-03
+1192,Game Changers 2023 Asia Pacific: Open 1,224,2023-03-09,2023-03-19
+1193,Game Changers 2023 Asia Pacific: Open 2,218,2023-05-30,2023-06-10
+1194,Game Changers 2023 Asia Pacific: Open 3,182,2023-07-20,2023-07-30
+1195,Game Changers 2023 Brazil: Series 1,101,2023-01-23,2023-03-28
+1196,Game Changers 2023 Brazil: Series 2,59,2023-06-23,2023-10-01
+1197,Game Changers 2023 Championship: São Paulo,14,2023-11-28,2023-12-03
+1198,Game Changers 2023 China: Qualifier,10,2023-10-11,2023-10-14
+1199,Game Changers 2023 East Asia,10,2023-10-25,2023-10-29
+1200,Game Changers 2023 Japan: Split 1,48,2023-07-14,2023-07-30
+1201,Game Changers 2023 Japan: Split 2,42,2023-09-09,2023-10-09
+1202,Game Changers 2023 Korea: Stage 1,20,2023-07-22,2023-07-30
+1203,Game Changers 2023 Korea: Stage 2,18,2023-09-02,2023-09-10
+1204,Game Changers 2023 LATAM: Finals,9,2023-09-02,2023-10-15
+1205,Game Changers 2023 LATAM: Last Chance Qualifier,6,2023-08-28,2023-08-30
+1206,Game Changers 2023 LATAM: Qualifiers,89,2023-01-23,2023-02-05
+1207,Game Changers 2023 Latin America: Split 1,60,2023-03-05,2023-07-27
+1208,Game Changers 2023 Series I: North America,110,2023-04-04,2023-04-14
+1209,Game Changers 2023 Series II: North America,126,2023-07-13,2023-07-30
+1210,Game Changers 2023 Series III: North America,110,2023-09-28,2023-10-08
+1211,Game Changers 2023 Stage I: EMEA,193,2023-04-05,2023-05-21
+1212,Game Changers 2023 Stage II: EMEA,68,2023-07-03,2023-07-30
+1213,Game Changers 2023 Stage III: EMEA,68,2023-09-11,2023-10-08
+1214,Game Changers 2024 BEACON Contenders: Series 1,10,2024-03-23,2024-03-24
+1215,Game Changers 2024 BEACON Contenders: Series 2,10,2024-06-08,2024-06-09
+1216,Game Changers 2024 Brazil: Series 1,76,2024-03-14,2024-05-16
+1217,Game Changers 2024 Brazil: Series 2,44,2024-06-16,2024-08-21
+1218,Game Changers 2024 Brazil: Series 3,43,2024-09-05,2024-10-13
+1219,Game Changers 2024 Championship: Berlin,18,2024-11-08,2024-11-17
+1220,Game Changers 2024 China,34,2024-02-07,2024-10-20
+1221,Game Changers 2024 DACH: Series 1,10,2024-03-23,2024-03-24
+1222,Game Changers 2024 EMEA: Contenders Series 1,65,2024-03-30,2024-04-07
+1223,Game Changers 2024 EMEA: Contenders Series 2,181,2024-06-21,2024-07-14
+1224,Game Changers 2024 EMEA: Kickoff,140,2024-01-27,2024-02-04
+1225,Game Changers 2024 EMEA: Stage 1,34,2024-02-16,2024-03-11
+1226,Game Changers 2024 EMEA: Stage 2,34,2024-05-24,2024-06-17
+1227,Game Changers 2024 EMEA: Stage 3,34,2024-09-06,2024-10-06
+1228,Game Changers 2024 France: Series 1,27,2024-03-18,2024-03-22
+1229,Game Changers 2024 France: Series 2,13,2024-06-16,2024-06-16
+1230,Game Changers 2024 Italy Genesi: Split 1,3,2024-03-22,2024-03-27
+1231,Game Changers 2024 Italy Genesi: Split 2,4,2024-06-06,2024-06-22
+1232,Game Changers 2024 Japan: Split 1,44,2024-04-12,2024-05-02
+1233,Game Changers 2024 Japan: Split 2,52,2024-07-05,2024-07-24
+1234,Game Changers 2024 Korea: Stage 1,26,2024-05-10,2024-05-22
+1235,Game Changers 2024 Korea: Stage 2,18,2024-07-19,2024-07-28
+1236,Game Changers 2024 LATAM North: Closing,26,2024-07-29,2024-10-01
+1237,Game Changers 2024 LATAM North: Mid Season Tournament,16,2024-06-29,2024-07-10
+1238,Game Changers 2024 LATAM North: Opening,26,2024-04-10,2024-06-16
+1239,Game Changers 2024 LATAM North: Swift Cup 1,28,2024-03-30,2024-04-05
+1240,Game Changers 2024 LATAM North: Swift Cup 2,26,2024-04-22,2024-05-01
+1241,Game Changers 2024 LATAM North: Swift Cup 3,36,2024-07-16,2024-07-25
+1242,Game Changers 2024 LATAM North: Swift Cup 4,26,2024-08-11,2024-08-22
+1243,Game Changers 2024 LATAM South: Closing,26,2024-07-29,2024-09-30
+1244,Game Changers 2024 LATAM South: Mid Season Tournament,16,2024-06-29,2024-07-10
+1245,Game Changers 2024 LATAM South: Opening,26,2024-04-10,2024-06-15
+1246,Game Changers 2024 LATAM South: Swift Cup 1,16,2024-03-30,2024-04-05
+1247,Game Changers 2024 LATAM South: Swift Cup 2,20,2024-04-22,2024-05-01
+1248,Game Changers 2024 LATAM South: Swift Cup 3,18,2024-07-16,2024-07-26
+1249,Game Changers 2024 LATAM South: Swift Cup 4,22,2024-08-11,2024-08-22
+1250,Game Changers 2024 LATAM: Kickoff,64,2024-03-02,2024-03-10
+1251,Game Changers 2024 LATAM: Open Qualifiers,58,2024-02-17,2024-02-22
+1252,Game Changers 2024 LATAM: Regional Finals,1,2024-10-11,2024-10-11
+1253,Game Changers 2024 North America: Series 1,176,2024-01-23,2024-03-10
+1254,Game Changers 2024 North America: Series 2,212,2024-04-02,2024-06-16
+1255,Game Changers 2024 North America: Series 3,166,2024-07-23,2024-10-20
+1256,Game Changers 2024 Oceania: Stage 1,48,2024-05-03,2024-05-25
+1257,Game Changers 2024 Oceania: Stage 2,42,2024-06-21,2024-07-06
+1258,Game Changers 2024 Pacific,13,2024-10-01,2024-10-06
+1259,Game Changers 2024 South Asia: Split 1,8,2024-03-29,2024-04-07
+1260,Game Changers 2024 South Asia: Split 2,9,2024-06-27,2024-07-11
+1261,Game Changers 2024 Southeast Asia: Stage 1,190,2024-03-26,2024-04-05
+1262,Game Changers 2024 Southeast Asia: Stage 2,218,2024-07-02,2024-07-28
+1263,Game Changers 2024 Spain: Split 2,17,2024-05-24,2024-05-26
+1264,Game Changers 2024: Turkey Series 1,14,2024-02-28,2024-03-01
+1265,Game Changers 2024: Turkey Series 2,10,2024-06-07,2024-06-09
+1266,Game Changers 2025: Americas Last Chance Qualifier,4,2025-11-01,2025-11-02
+1267,Game Changers 2025: Brazil Finals,14,2025-09-08,2025-10-11
+1268,Game Changers 2025: Brazil Kickoff,34,2025-01-28,2025-02-17
+1269,Game Changers 2025: Brazil Last Chance Qualifier,38,2025-08-08,2025-08-20
+1270,Game Changers 2025: Brazil Stage 1,64,2025-03-07,2025-05-16
+1271,Game Changers 2025: Brazil Stage 2,32,2025-06-03,2025-07-24
+1272,Game Changers 2025: Championship Seoul,18,2025-11-20,2025-11-30
+1273,Game Changers 2025: China Stage 1,32,2025-04-27,2025-05-18
+1274,Game Changers 2025: China Stage 2,14,2025-10-05,2025-10-26
+1275,Game Changers 2025: EMEA Contenders Series 1,422,2025-04-19,2025-05-04
+1276,Game Changers 2025: EMEA Contenders Series 2,420,2025-07-26,2025-08-10
+1277,Game Changers 2025: EMEA Kickoff,420,2025-01-24,2025-02-02
+1278,Game Changers 2025: EMEA Stage 1,53,2025-02-15,2025-03-19
+1279,Game Changers 2025: EMEA Stage 2,53,2025-05-26,2025-06-19
+1280,Game Changers 2025: EMEA Stage 3,53,2025-09-30,2025-11-02
+1281,Game Changers 2025: Italy Genesi Split 1,59,2025-03-05,2025-05-04
+1282,Game Changers 2025: Italy Genesi Split 2,29,2025-07-01,2025-07-23
+1283,Game Changers 2025: Japan Split 1,34,2025-04-15,2025-04-30
+1284,Game Changers 2025: Japan Split 2,47,2025-05-29,2025-06-29
+1285,Game Changers 2025: Korea Split 1,36,2025-04-14,2025-05-15
+1286,Game Changers 2025: Korea Split 2,36,2025-06-09,2025-07-04
+1287,Game Changers 2025: LATAM Main Event,17,2025-08-18,2025-10-12
+1288,Game Changers 2025: LATAM Mid Season,54,2025-05-21,2025-05-30
+1289,Game Changers 2025: LATAM North Stage 1,68,2025-02-01,2025-05-01
+1290,Game Changers 2025: LATAM North Stage 2,51,2025-05-06,2025-07-29
+1291,Game Changers 2025: LATAM South Stage 1,54,2025-02-01,2025-04-30
+1292,Game Changers 2025: LATAM South Stage 2,46,2025-05-06,2025-07-28
+1293,Game Changers 2025: LATAM Swift Cup 1,30,2025-04-05,2025-04-11
+1294,Game Changers 2025: LATAM Swift Cup 2,54,2025-08-04,2025-08-11
+1295,Game Changers 2025: North America Kickoff,74,2025-01-28,2025-02-16
+1296,Game Changers 2025: North America Stage 1,180,2025-03-04,2025-06-01
+1297,Game Changers 2025: North America Stage 2,192,2025-07-01,2025-10-12
+1298,Game Changers 2025: Oceania Split 1,30,2025-03-18,2025-03-22
+1299,Game Changers 2025: Oceania Split 2,54,2025-06-17,2025-06-28
+1300,Game Changers 2025: Pacific,14,2025-10-06,2025-10-12
+1301,Game Changers 2025: South Asia Split 1,14,2025-05-04,2025-05-13
+1302,Game Changers 2025: South Asia Split 2,22,2025-07-15,2025-07-23
+1303,Game Changers 2025: Southeast Asia Split 1,178,2025-03-04,2025-03-16
+1304,Game Changers 2025: Southeast Asia Split 2,194,2025-05-20,2025-07-06
+1305,Game Changers 2025: Türkiye Elemeleri Stage 1,22,2025-04-05,2025-04-06
+1306,Game Changers 2026 Italy Genesi: Split 1,23,2026-03-02,2026-03-14
+1307,Game Changers 2026 Italy Genesi: Split 2,28,2026-06-15,2026-06-17
+1308,Game Changers 2026: Americas Last Chance Qualifier,4,2026-10-14,2026-10-15
+1309,Game Changers 2026: Brazil Finals,14,2026-08-10,2026-09-11
+1310,Game Changers 2026: Brazil Kickoff,29,2026-01-23,2026-02-17
+1311,Game Changers 2026: Brazil Last Chance Qualifier,36,2026-07-17,2026-08-02
+1312,Game Changers 2026: Brazil Stage 1,50,2026-03-06,2026-04-30
+1313,Game Changers 2026: Brazil Stage 2,46,2026-05-15,2026-07-08
+1314,Game Changers 2026: Championship São Paulo,18,2026-10-22,2026-11-01
+1315,Game Changers 2026: China,14,2026-09-13,2026-09-20
+1316,Game Changers 2026: EMEA Cash Cup April,31,2026-04-16,2026-04-19
+1317,Game Changers 2026: EMEA Cash Cup August,62,2026-08-22,2026-08-29
+1318,Game Changers 2026: EMEA Cash Cup February,172,2026-02-06,2026-02-15
+1319,Game Changers 2026: EMEA Cash Cup July,10,2026-07-17,2026-07-19
+1320,Game Changers 2026: EMEA Cash Cup June,30,2026-06-11,2026-06-14
+1321,Game Changers 2026: EMEA Cash Cup March,21,2026-03-04,2026-03-12
+1322,Game Changers 2026: EMEA Cash Cup May,31,2026-05-16,2026-05-19
+1323,Game Changers 2026: EMEA Cash Cup September,31,2026-09-25,2026-09-27
+1324,Game Changers 2026: EMEA Kickoff,419,2026-01-12,2026-01-18
+1325,Game Changers 2026: EMEA Stage 1,53,2026-01-26,2026-02-22
+1326,Game Changers 2026: EMEA Stage 1 - Promotion/Relegation,38,2026-03-20,2026-03-29
+1327,Game Changers 2026: EMEA Stage 2,53,2026-04-27,2026-05-24
+1328,Game Changers 2026: EMEA Stage 2 - Promotion/Relegation,48,2026-06-25,2026-07-05
+1329,Game Changers 2026: EMEA Stage 3,65,2026-07-20,2026-08-30
+1330,Game Changers 2026: Japan Split 1,22,2026-04-10,2026-05-06
+1331,Game Changers 2026: Japan Split 2,22,2026-06-12,2026-07-04
+1332,Game Changers 2026: Korea Split 1,41,2026-04-06,2026-05-06
+1333,Game Changers 2026: Korea Split 2,46,2026-06-15,2026-07-20
+1334,Game Changers 2026: LATAM Kickoff,20,2026-01-30,2026-02-08
+1335,Game Changers 2026: LATAM Main Event,13,2026-08-03,2026-09-13
+1336,Game Changers 2026: LATAM North Stage 1,22,2026-02-11,2026-04-24
+1337,Game Changers 2026: LATAM North Stage 2,65,2026-04-10,2026-07-14
+1338,Game Changers 2026: LATAM North Swift Cup 2,30,2026-07-22,2026-07-29
+1339,Game Changers 2026: LATAM South Stage 1,22,2026-02-11,2026-04-24
+1340,Game Changers 2026: LATAM South Stage 2,51,2026-04-10,2026-07-13
+1341,Game Changers 2026: LATAM South Swift Cup 2,26,2026-07-21,2026-07-28
+1342,Game Changers 2026: North America Kickoff,74,2026-02-04,2026-03-01
+1343,Game Changers 2026: North America Stage 1,180,2026-03-17,2026-06-05
+1344,Game Changers 2026: North America Stage 2,167,2026-06-16,2026-09-17
+1345,Game Changers 2026: Oceania Split 1,30,2026-03-27,2026-04-23
+1346,Game Changers 2026: Oceania Split 2,35,2026-06-16,2026-07-12
+1347,Game Changers 2026: Pacific,14,2026-09-14,2026-09-20
+1348,Game Changers 2026: South Asia Split 1,19,2026-04-15,2026-04-28
+1349,Game Changers 2026: South Asia Split 2,20,2026-07-01,2026-07-15
+1350,Game Changers 2026: Southeast Asia Split 1,104,2026-03-27,2026-04-23
+1351,Game Changers 2026: Southeast Asia Split 2,95,2026-06-16,2026-07-12
+1352,Game Changers Academy 2022 - April,7,2022-04-23,2022-04-24
+1353,Game Changers Academy 2022 - August,63,2022-08-26,2022-08-28
+1354,Game Changers Academy 2022 - December,63,2022-12-16,2022-12-18
+1355,Game Changers Academy 2022 - February,31,2022-02-25,2022-02-27
+1356,Game Changers Academy 2022 - June,63,2022-06-24,2022-06-26
+1357,Game Changers Academy 2022 - March,31,2022-03-25,2022-03-27
+1358,Game Changers Academy 2022 - May,63,2022-05-27,2022-05-29
+1359,Game Changers Academy 2022 - October,52,2022-10-28,2022-10-30
+1360,Game Changers Academy 2022 - September,63,2022-09-30,2022-10-02
+1361,Game Changers Brazil - Series 2,59,2022-08-18,2022-10-22
+1362,Game Changers EMEA Contenders Series 1,61,2023-05-24,2023-05-29
+1363,Game Changers EMEA Contenders Series 2,61,2023-07-31,2023-08-05
+1364,Game Changers EMEA Contenders Series 3,61,2023-10-11,2023-10-16
+1365,Game Changers LATAM: Open 1,28,2022-01-11,2022-01-23
+1366,Game Changers LATAM: Open 2,28,2022-03-08,2022-03-19
+1367,Game Changers LATAM: Open 3,28,2022-06-14,2022-07-03
+1368,Game Gang Show 2023,4,2023-04-01,2023-04-01
+1369,Game Gang Show 2024,4,2024-04-06,2024-04-06
+1370,Game on Masters,14,2021-01-14,2021-02-14
+1371,Game on Masters #4,14,2021-05-16,2021-05-16
+1372,GameGune 2022,24,2022-11-05,2022-11-26
+1373,GameGune 2024,1,2024-11-30,2024-11-30
+1374,GameGune 2025,1,2025-07-25,2025-07-25
+1375,GameGune 22,13,2020-11-23,2020-11-28
+1376,GameGune 24,13,2021-11-22,2021-11-27
+1377,GameHers 2025,12,2025-08-16,2025-08-17
+1378,GameHers 2025: Colombia,6,2025-08-01,2025-08-03
+1379,GameRED Infinity Cup,7,2021-10-05,2021-10-13
+1380,Gamemode 2023,6,2023-12-28,2023-12-30
+1381,Gamer.no Major - BEACON Split 1,15,2023-04-01,2023-04-02
+1382,Gamer.no Norway Minor - BEACON Split 1,15,2023-03-18,2023-03-19
+1383,Gamer.no Norway Minor - BEACON Split 2,7,2022-11-19,2022-11-20
+1384,GamerFest 2022 Irish Minor - BEACON Split 2,7,2022-10-06,2022-10-22
+1385,Gamers Club - Elite Cup 2022,73,2022-07-25,2022-08-28
+1386,Gamers Club - Elite Cup 2023,73,2023-06-07,2023-07-30
+1387,Gamers Club Challengers League 2024 Brazil: Split 1,149,2024-01-17,2024-05-07
+1388,Gamers Club Challengers League 2024 Brazil: Split 2,87,2024-05-21,2024-08-06
+1389,Gamers Club Challengers League 2024 Brazil: Split 3,49,2024-11-08,2024-12-08
+1390,Gamers Club Ultimate,37,2020-07-15,2020-07-19
+1391,Gamers Club Ultimate II,37,2020-09-21,2020-09-27
+1392,Gamers Galaxy,7,2021-12-25,2022-01-09
+1393,Gaming Culture - Girl Power #2,8,2021-04-15,2021-04-18
+1394,Gaming Culture - Girl Power #3,8,2021-11-24,2021-11-27
+1395,Gaming Culture - Girl Power #4,8,2022-04-28,2022-05-01
+1396,Gaming Culture - Girl Power #5,8,2022-08-29,2022-09-01
+1397,Gaming Culture - Girl Power #6,8,2023-01-12,2023-01-15
+1398,Gaming Nation Valorant Thailand Championship Season 2,15,2023-03-22,2023-03-25
+1399,Garuda Valorant Invitational: Season 3,18,2022-09-24,2022-10-02
+1400,Geek Lounge Star League: Valorant Invitational,15,2023-11-28,2023-12-09
+1401,Geekay Esports Scouting Tournament 2021,4,2021-08-24,2021-08-28
+1402,Gençlik Kupası,3,2022-03-29,2022-04-01
+1403,Get On My Level!,14,2022-12-16,2022-12-18
+1404,Gigantti Valorant Cup,3,2022-08-04,2022-08-05
+1405,GirlGamer North America Challenge Invitational,14,2021-12-05,2021-12-06
+1406,GirlK1d Cup 2026 - Fall,8,2026-09-18,2026-09-20
+1407,Girls On Fire #2,8,2022-03-20,2022-04-06
+1408,Gladiators Taiwan Invitational,13,2021-05-20,2021-05-24
+1409,Glitched Invitational 2025,15,2025-06-14,2025-06-15
+1410,Global Esports' 2025 Fight Night #2,4,2025-04-15,2025-04-15
+1411,Global Esports' 2025 Fight Night #3,4,2025-05-06,2025-05-08
+1412,Global Esports' 2025 Fight Night: Academy,4,2025-02-18,2025-02-18
+1413,Global Esports: Face Off,5,2024-11-18,2024-11-23
+1414,Global Esports: Face Off Corrode,1,2025-06-23,2025-06-23
+1415,GoNxt Asia Clash Invitational,7,2025-04-16,2025-04-18
+1416,Golden Goose,7,2022-08-26,2022-08-26
+1417,Golden Goose #10,8,2023-05-27,2023-05-27
+1418,Golden Goose #11,8,2023-06-17,2023-06-17
+1419,Golden Goose #12,8,2023-07-01,2023-07-01
+1420,Golden Goose #13,8,2023-07-21,2023-07-22
+1421,Golden Goose #14,8,2023-09-02,2023-09-02
+1422,Golden Goose #15,8,2023-09-30,2023-09-30
+1423,Golden Goose #16,8,2023-10-28,2023-10-28
+1424,Golden Goose #2,8,2022-10-01,2022-10-01
+1425,Golden Goose #3,8,2022-10-22,2022-10-22
+1426,Golden Goose #4,15,2022-11-19,2022-11-19
+1427,Golden Goose #5,8,2022-12-10,2022-12-10
+1428,Golden Goose #6,8,2023-01-28,2023-01-28
+1429,Golden Goose #7,8,2023-03-18,2023-03-18
+1430,Golden Goose #8,8,2023-04-01,2023-04-01
+1431,Golden Goose #9,8,2023-04-29,2023-04-29
+1432,Good Game Ligaen 2026: Winter - Division 1,45,2026-01-25,2026-03-12
+1433,GoodGameWP Valorant Series #1,34,2021-10-02,2021-11-21
+1434,Granada Gaming 2023,1,2023-10-22,2023-10-22
+1435,Granada Gaming 2025,15,2025-04-26,2025-04-27
+1436,GriziCup,5,2020-04-26,2020-04-26
+1437,GroundZero Heatwave #1,15,2023-05-19,2023-05-20
+1438,GroundZero x Outlast Invitational,15,2023-06-17,2023-06-18
+1439,Grunex Challenge,7,2022-08-17,2022-08-18
+1440,Grunex Challenge #2,7,2022-12-17,2022-12-18
+1441,Grunex Challenge #3,4,2023-09-16,2023-09-17
+1442,Guardianes GG Series,60,2020-07-11,2020-08-26
+1443,Guild Academy - BEACON Split 1,30,2022-07-16,2022-07-17
+1444,Guild Academy - BEACON Split 2,34,2022-11-29,2022-12-03
+1445,Gwangju Esports Series Asia,4,2022-11-25,2022-11-27
+1446,Gwangju Esports Series Asia 2024,4,2024-11-02,2024-11-03
+1447,Gyeonggi International Esports Festival 2025,23,2025-11-22,2025-12-06
+1448,HER Galaxy $10K Valorant Open,16,2023-02-26,2023-02-26
+1449,HERO ESPORTS ASIAN CHAMPIONS LEAGUE 2025,7,2025-05-14,2025-05-18
+1450,HL TAURI SERIES: SOVEREIGN Edition 1,10,2026-07-31,2026-08-02
+1451,HUE Invitational 2023,31,2023-09-15,2023-09-17
+1452,HUE Invitational 2024,31,2024-09-20,2024-09-22
+1453,HUTECH Esports Championship,4,2026-05-31,2026-06-12
+1454,Happy Birthday Cup,7,2020-09-11,2020-09-12
+1455,Harbor's Crest #1,4,2023-12-02,2023-12-02
+1456,Harbor's Crest #2,4,2023-12-16,2023-12-16
+1457,Harbor's Crest #3,4,2024-01-13,2024-01-13
+1458,Harbor's Crest #7,4,2024-06-08,2024-06-08
+1459,Haste Cup 2026,16,2026-09-26,2026-09-27
+1460,HerLan 3,4,2025-10-19,2025-10-19
+1461,HerLan 4,2,2026-10-18,2026-10-18
+1462,HereticsXP,1,2023-12-15,2023-12-15
+1463,HereticsXP #2,1,2024-12-13,2024-12-13
+1464,Hojo Cup 2024,14,2024-05-25,2024-06-05
+1465,HopLan 2025,6,2025-07-20,2025-07-20
+1466,HopLan 2026,8,2026-07-18,2026-07-19
+1467,HornyBox Arena 2025,4,2025-10-27,2025-10-28
+1468,Hunter Fury,14,2020-09-21,2020-09-29
+1469,Huntress Trials February,15,2022-02-19,2022-02-20
+1470,Huya FMWH PangHu Cup: Summer,54,2021-06-03,2021-06-16
+1471,Huya PangHu Cup: Spring,54,2021-04-15,2021-05-14
+1472,Huya Summer Festival,40,2020-09-03,2020-09-13
+1473,Hype Up Tour Japan,4,2023-10-02,2023-11-11
+1474,HyperX Valorant Nightcup,7,2020-12-07,2020-12-07
+1475,ICEBOX Northern Classic,92,2021-10-18,2021-11-21
+1476,IGLeague Open Division #1,14,2023-03-18,2023-03-22
+1477,IGLeague Open Division #2,6,2023-06-10,2023-06-13
+1478,IGLeague Open Division #3,6,2023-09-23,2023-09-25
+1479,IGNITE Cup,16,2022-10-02,2022-10-02
+1480,INZONE London Clash,1,2025-11-09,2025-11-09
+1481,Ignis Invitational,16,2022-07-03,2022-08-22
+1482,Ignition Cup,8,2023-04-14,2023-04-14
+1483,ImbaTV Fearless Invitational Cup,49,2021-06-24,2021-07-25
+1484,Immortals First Light,8,2020-06-15,2020-06-15
+1485,Imperium Elite Series 1,8,2023-07-22,2023-07-23
+1486,India Today League Valorant Cup,16,2020-09-22,2020-09-27
+1487,Indonesia Esports League Campus Festival,8,2023-03-12,2023-03-26
+1488,Insomnia 68,14,2022-04-16,2022-04-17
+1489,Insomnia 69,14,2022-08-27,2022-08-28
+1490,Insomnia 70 iSeries Challenge,14,2023-04-08,2023-04-09
+1491,Insomnia 71 iSeries Challenge,14,2023-09-09,2023-09-10
+1492,Insomnia 72 Women's Cup,4,2024-03-30,2024-03-30
+1493,Insomnia 72 iSeries Challenge,14,2024-03-30,2024-03-31
+1494,Insomnia Gaming Festival,14,2022-02-17,2022-02-19
+1495,Insomnia Gaming Festival 2023,16,2023-01-23,2023-02-18
+1496,Insomnia Gaming Festival 2025,6,2025-04-17,2025-04-25
+1497,Insomnia Gaming Festival 2026,15,2026-03-20,2026-04-17
+1498,Intel Arabian Cup Playground 2022,16,2022-07-13,2022-07-23
+1499,Intel Arabian Cup Playground 2022 - Season 2,24,2022-09-12,2022-10-09
+1500,Intel Arabian Cup Playground 2023: Season 1,16,2023-03-23,2023-03-31
+1501,Intel Arabian Cup Playground 2023: Season 2,41,2023-09-02,2023-09-29
+1502,Intel Arabian Cup Playground 2023: Season 3,28,2023-11-18,2023-11-28
+1503,Intel Arabian Cup Playground 2024: Season 1,22,2024-06-28,2024-07-02
+1504,Intel Campus Cup 2025,8,2025-12-04,2025-12-19
+1505,Intel Gamers Day: ROG Lan Fest - Mumbai,3,2023-09-09,2023-09-09
+1506,Intel Gaming Fest 2020,1,2020-09-27,2020-09-27
+1507,Intel Rivals Series,9,2021-12-18,2022-01-16
+1508,Into Winter's Den,7,2022-12-04,2022-12-04
+1509,JBL Quantum Cup,15,2020-12-12,2020-12-13
+1510,JD Cup,6,2020-12-11,2020-12-18
+1511,JSpotter: The Ninjutso Chronicles,106,2025-07-14,2025-08-03
+1512,Jack Link's Wild Side Rumble,7,2022-06-11,2022-06-12
+1513,Jazba Pro Invitational #7,3,2021-05-05,2021-06-06
+1514,Jizzakh Cup 2025,30,2025-03-24,2025-03-31
+1515,Joshin Cup 2020 Summer Tournament,1,2020-08-09,2020-08-09
+1516,K&H Magyar Nemzeti E-sport Bajnokság #3,60,2021-07-27,2021-09-26
+1517,KCX3: Karmine Corp vs. The World,2,2023-09-16,2023-09-16
+1518,KCX4: Forever Rivals,2,2024-11-09,2024-11-09
+1519,KING OF THE HILL #1,40,2023-08-12,2023-08-13
+1520,KJC Updraft: Season One,42,2022-02-28,2022-05-12
+1521,KJC eSports VALORANT Invitational,36,2021-09-29,2021-10-10
+1522,KJC eSports VALORANT Tournament: One,63,2021-06-21,2021-06-26
+1523,KOICON 2024,1,2024-12-06,2024-12-06
+1524,KOV Ascend League 2026: Final,4,2026-10-25,2026-11-01
+1525,KOV Masters 2026: Summer,6,2026-08-22,2026-08-29
+1526,KR Cup,63,2023-09-26,2023-09-28
+1527,KYZYK Community Cup,14,2025-09-21,2025-09-21
+1528,KaBuM! Challenge,7,2022-03-12,2022-03-13
+1529,Kabum! Super Stars,7,2023-03-15,2023-03-19
+1530,King's Arena Vol. 2 Gaming Tournament,1,2023-03-03,2023-03-03
+1531,Kingdom Calling,10,2020-11-06,2020-11-06
+1532,Kingdom Calling #2,4,2021-05-07,2021-05-08
+1533,Kingdom Calling #3,4,2021-08-07,2021-08-08
+1534,Kingdom Calling #4,4,2021-09-24,2021-09-25
+1535,Kingdom Calling #5,4,2021-11-26,2021-11-27
+1536,Kingdom Calling #6,4,2021-12-17,2021-12-18
+1537,Kirihana Academy Cup vol.1,9,2025-09-20,2025-10-04
+1538,Kirihana Academy Cup vol.2,18,2026-10-10,2026-10-31
+1539,Knights Before Christmas,64,2020-12-19,2020-12-20
+1540,Knights Circuit Championship,55,2022-06-27,2022-06-29
+1541,Knights Circuit Monthly #1,111,2022-04-20,2022-04-21
+1542,Knights Circuit Monthly #2,127,2022-05-25,2022-05-26
+1543,Knights Circuit Weekly #1,63,2022-04-04,2022-04-05
+1544,Knights Circuit Weekly #2,63,2022-05-11,2022-05-12
+1545,Knights Circuit Weekly #3,31,2022-05-18,2022-05-19
+1546,Knights Circuit Weekly #4,31,2022-06-01,2022-06-02
+1547,Knights Circuit Weekly #5,63,2022-06-08,2022-06-09
+1548,Knights Invitational,38,2020-06-13,2020-06-13
+1549,Knights Invitational Gauntlet Series,38,2020-08-16,2020-08-16
+1550,Knights Monthly Gauntlet 2022: August,111,2022-08-24,2022-08-25
+1551,Knights Monthly Gauntlet 2022: February,56,2022-02-23,2022-02-24
+1552,Knights Monthly Gauntlet 2022: July,111,2022-07-29,2022-07-31
+1553,Knights Monthly Gauntlet 2022: March,112,2022-03-21,2022-03-23
+1554,Knights Monthly Gauntlet 2022: November,111,2022-11-28,2022-11-30
+1555,Knights Monthly Gauntlet 2022: October,111,2022-10-20,2022-10-21
+1556,Knights Monthly Gauntlet 2022: September,111,2022-09-28,2022-09-29
+1557,Knights Monthly Gauntlet 2023: April,111,2023-04-22,2023-04-23
+1558,Knights Monthly Gauntlet 2023: August,63,2023-08-28,2023-08-30
+1559,Knights Monthly Gauntlet 2023: February,111,2023-02-11,2023-02-12
+1560,Knights Monthly Gauntlet 2023: January,111,2023-01-28,2023-01-29
+1561,Knights Monthly Gauntlet 2023: July,111,2023-07-11,2023-07-12
+1562,Knights Monthly Gauntlet 2023: June,63,2023-06-28,2023-06-30
+1563,Knights Monthly Gauntlet 2023: March,111,2023-03-18,2023-03-19
+1564,Knights Monthly Gauntlet 2023: May,111,2023-05-23,2023-05-24
+1565,Knights Monthly Gauntlet 2023: November,97,2023-11-14,2023-11-16
+1566,Knights Monthly Gauntlet 2023: October,111,2023-10-20,2023-10-22
+1567,Knights Monthly Gauntlet: April,56,2021-04-21,2021-04-22
+1568,Knights Monthly Gauntlet: August,56,2021-08-30,2021-08-31
+1569,Knights Monthly Gauntlet: December,56,2021-12-29,2021-12-30
+1570,Knights Monthly Gauntlet: February,30,2021-02-15,2021-02-16
+1571,Knights Monthly Gauntlet: January,90,2021-01-22,2021-01-24
+1572,Knights Monthly Gauntlet: July,56,2021-07-28,2021-07-29
+1573,Knights Monthly Gauntlet: June,56,2021-06-12,2021-06-13
+1574,Knights Monthly Gauntlet: March,64,2021-03-22,2021-03-23
+1575,Knights Monthly Gauntlet: May,56,2021-05-15,2021-05-16
+1576,Knights Monthly Gauntlet: October,128,2021-10-09,2021-10-10
+1577,Knights Monthly Gauntlet: September,56,2021-09-27,2021-09-28
+1578,Knights VALORAMPAGE,119,2022-01-14,2022-01-23
+1579,Knights VALORANT Freezeout,63,2022-12-15,2022-12-18
+1580,Knights Weekly #1,15,2022-02-25,2022-02-25
+1581,Knights Weekly #10,15,2022-09-02,2022-09-02
+1582,Knights Weekly #11,31,2022-09-09,2022-09-09
+1583,Knights Weekly #12,15,2022-09-16,2022-09-16
+1584,Knights Weekly #13,15,2022-09-23,2022-09-23
+1585,Knights Weekly #14,15,2022-10-07,2022-10-07
+1586,Knights Weekly #15,15,2022-10-14,2022-10-14
+1587,Knights Weekly #2,15,2022-03-04,2022-03-04
+1588,Knights Weekly #3,7,2022-03-11,2022-03-11
+1589,Knights Weekly #4,7,2022-03-18,2022-03-18
+1590,Knights Weekly #5,7,2022-03-25,2022-03-25
+1591,Knights Weekly #6,15,2022-07-22,2022-07-22
+1592,Knights Weekly #7,7,2022-08-05,2022-08-05
+1593,Knights Weekly #8,7,2022-08-12,2022-08-12
+1594,Knights Weekly #9,7,2022-08-19,2022-08-19
+1595,KombatKlub League - Season 1,15,2020-08-12,2020-08-26
+1596,Komplettligaen 2026: Spring Division 1,51,2026-04-20,2026-05-31
+1597,Kotex Torneo Femenino,7,2022-05-22,2022-05-29
+1598,Krokoboss Invitational 2026,3,2026-10-30,2026-10-30
+1599,Kuwait Eleagues 2022,3,2022-11-07,2022-11-10
+1600,LAVA Series,15,2020-08-29,2020-08-30
+1601,LEAGUES.GG - BEACON Split 1,27,2022-06-25,2022-06-26
+1602,LEAGUES.GG - BEACON Split 2,27,2022-10-15,2022-10-16
+1603,LEAGUES.GG Danish Minor - BEACON Split 1,6,2023-03-18,2023-03-18
+1604,LEAGUES.GG Danish Minor - BEACON Split 2,6,2022-10-23,2022-10-23
+1605,LEAGUES.GG Major - BEACON Split 1,7,2023-04-15,2023-04-16
+1606,LEAGUES.GG Swedish Minor - BEACON Split 1,1,2023-03-18,2023-03-18
+1607,LEAGUES.GG Swedish Minor - BEACON Split 2,3,2022-10-23,2022-10-23
+1608,LG Life's Good Tournament 2026,15,2026-07-18,2026-08-15
+1609,LPL Autumn Cup Legends 2021,31,2021-05-17,2021-07-12
+1610,LPL Challenger Season 3,14,2020-09-27,2020-11-24
+1611,LPL Pathfinder Season 1,86,2024-01-19,2024-04-12
+1612,LPL Pathfinder Season 2,55,2024-06-17,2024-08-16
+1613,LPL Pathfinder Season 3,62,2024-10-09,2024-12-23
+1614,LPL Spring Cup Legends 2021,31,2021-10-18,2021-12-13
+1615,LPL Summer Cup Legends 2021,31,2021-02-22,2021-04-19
+1616,LPL Summer Cup Legends 2022,15,2022-04-18,2022-05-10
+1617,LPL Summer Cup Legends 2023,31,2023-05-25,2023-07-21
+1618,LPL Valorant Overtime Cup,27,2022-12-01,2022-12-13
+1619,LPL Winter Cup Legends 2021,31,2021-08-02,2021-09-27
+1620,LPL Winter Cup Legends 2022,15,2022-08-22,2022-09-13
+1621,LVL Clash 2,27,2020-08-28,2020-08-29
+1622,LVL Clash Regional #1,28,2020-12-09,2020-12-12
+1623,LVL Clash Regional #2,7,2021-01-22,2021-01-24
+1624,LVP FPS All-Star,7,2020-09-02,2020-09-03
+1625,LVP Genesis Cup Fuego,20,2020-10-03,2020-10-15
+1626,LVP Genesis Cup Radiants,42,2020-11-25,2020-12-10
+1627,LVP Genesis Cup Sombras,19,2020-11-07,2020-11-26
+1628,LVP Genesis Cup Viento,20,2020-10-17,2020-10-29
+1629,LVP Genesis Cup Visión,19,2020-10-31,2020-11-12
+1630,LVP Rising Series #1,75,2021-01-16,2021-01-29
+1631,LVP Rising Series #2,59,2021-05-18,2021-06-18
+1632,LVP Rising Series #3,59,2021-08-25,2021-09-07
+1633,LVP Rising Series #4,59,2021-09-22,2021-10-22
+1634,LVP Rising Series - Finale,13,2021-10-25,2021-11-13
+1635,La Copa Radiante 2023,27,2023-10-31,2023-11-28
+1636,Laop Cup 2026: Season 3,14,2026-08-01,2026-08-14
+1637,Lapak Gaming Battle Arena: Season 2,4,2026-01-24,2026-01-24
+1638,LeStream x BMW: The 2 Gran Coupé,1,2020-05-27,2020-05-27
+1639,League Ego - Challengers Series,8,2021-12-03,2021-12-11
+1640,League Trolli: 5th Year Anniversary,4,2026-09-30,2026-10-01
+1641,Legend Series,3,2020-07-30,2020-07-31
+1642,Legion Cup 2023,4,2023-09-27,2023-09-28
+1643,Legion Defiance Christmas Cup,3,2020-12-21,2020-12-23
+1644,Legion Defiance Cup,3,2020-10-19,2020-10-21
+1645,Legion Legends,5,2023-01-14,2023-01-15
+1646,Lethal Esports Invitational - Season 1,30,2021-06-03,2021-06-22
+1647,Levian Skirmish 2025,7,2025-11-28,2025-12-01
+1648,Lidoma Esports - 2022 NEW ERA,8,2022-06-23,2022-06-27
+1649,Lidoma Esports - Reborn 2023,6,2023-07-28,2023-07-30
+1650,Lidoma Esports - Reborn 2023 #2,6,2023-09-22,2023-09-24
+1651,Liga CB - Série A,36,2024-10-11,2024-10-26
+1652,Liga CrackinGG: 2025,59,2025-03-18,2025-05-11
+1653,Liga GG - Playmatch Circuit,1,2024-10-27,2024-10-27
+1654,Liga Gamers Club - Série A: 2023,200,2023-02-04,2023-05-12
+1655,Liga Gamers Club - Série A: Abril,51,2022-04-11,2022-05-04
+1656,Liga Gamers Club - Série A: Agosto,42,2022-09-09,2022-09-21
+1657,Liga Gamers Club - Série A: Julho,42,2022-07-12,2022-07-22
+1658,Liga Gamers Club - Série A: Junho,68,2022-06-06,2022-06-20
+1659,Liga Gamers Club - Série A: Maio,61,2022-05-09,2022-06-01
+1660,Liga Movistar - Fibra Pro Shot,55,2021-06-07,2021-10-02
+1661,Liga Paulista,1,2026-05-16,2026-05-16
+1662,Liga Radiante Female: Season 2,18,2025-02-12,2025-04-02
+1663,Liga Radiante Female: Season 3,18,2025-06-23,2025-07-14
+1664,Liga Radiante: Season 10,30,2024-12-18,2025-03-06
+1665,Liga Radiante: Season 11,32,2025-04-30,2025-05-28
+1666,Liga Radiante: Season 12,4,2025-06-18,2025-06-25
+1667,Liga Radiante: Season 3,33,2022-05-09,2022-07-28
+1668,Liga Radiante: Season 5,36,2023-02-01,2023-04-26
+1669,Liga Radiante: Season 6,33,2023-05-03,2023-05-28
+1670,Liga Radiante: Season 7,61,2024-01-31,2024-04-10
+1671,Liga Radiante: Season 8,33,2024-05-15,2024-06-17
+1672,Liga Radiante: Season 9,24,2024-10-29,2024-11-29
+1673,Lioness Cup,7,2022-10-08,2022-10-09
+1674,Lioness Cup 2023,14,2023-11-19,2023-11-26
+1675,Lioness Cup 2024,110,2024-10-19,2024-10-27
+1676,Lioness Cup 2025,200,2025-12-08,2025-12-12
+1677,Liquid Open 2022 - BEACON Split 2,22,2022-09-24,2022-09-25
+1678,Liquid Open 2022 - North America,14,2022-09-21,2022-09-22
+1679,Liquid Open 2023: Europe,46,2023-10-03,2023-10-15
+1680,Liquid Open 2023: North America,34,2023-10-03,2023-10-15
+1681,Liquid Open 2023: Oceania,14,2023-10-19,2023-10-22
+1682,Locked N' Loaded Philippines 2025: Split 1,47,2025-03-02,2025-03-16
+1683,Locked N' Loaded Philippines 2025: Split 2,83,2025-06-18,2025-07-06
+1684,Lof x DTS Invitational Series,14,2020-06-08,2020-06-17
+1685,Logitech G Beyond,52,2020-08-08,2020-08-10
+1686,Logitech G Contenders Cup,7,2020-08-22,2020-08-23
+1687,Logitech G Invitational,30,2020-12-11,2020-12-11
+1688,Logitech G Pacific Open+,31,2020-12-19,2021-01-24
+1689,LogitechG x Loco Invitational,11,2021-12-02,2021-12-26
+1690,Lucca Comics & Games 2025,38,2025-10-10,2025-10-31
+1691,Ludwig x Tarik Invitational,7,2023-01-14,2023-01-15
+1692,Ludwig x Tarik Invitational 2,7,2024-01-13,2024-01-14
+1693,Ludwig x Tarik Invitational 3,6,2024-10-12,2024-10-13
+1694,Luxe Invitational Europe,8,2023-11-25,2023-11-26
+1695,Lyon e-Sport 2022,10,2022-11-12,2022-11-13
+1696,Lyon e-Sport 2025,31,2025-11-08,2025-11-09
+1697,MCOM Open Invitational,6,2023-09-22,2023-10-07
+1698,MCT Contenders Division,92,2022-07-27,2022-08-30
+1699,MCT Premiership S3,73,2022-06-08,2022-08-29
+1700,MEDUSA Series,30,2022-07-06,2022-07-08
+1701,MENA Cups,15,2021-11-20,2021-11-30
+1702,MENA Regional Championship 2025,59,2025-10-26,2025-11-15
+1703,MGE North Africa,8,2021-03-26,2021-03-28
+1704,MSI Beat up Tournament,7,2021-06-14,2021-06-16
+1705,MSI Gaming Arena Summer Finals,14,2020-09-26,2020-09-27
+1706,MSI Valorant Invitational,14,2021-09-18,2021-09-19
+1707,MTB Game Changers,8,2025-10-25,2025-10-26
+1708,MVT 2: Finals,18,2024-03-12,2024-03-23
+1709,MVT 3: Finals,16,2025-01-20,2025-01-31
+1710,MVT 3: Stage 1,16,2024-09-02,2024-09-13
+1711,MVT 3: Stage 2,9,2024-11-12,2024-11-15
+1712,MVT 4: Stage 1,13,2025-05-16,2025-05-30
+1713,MVT One: Finals,6,2023-09-26,2023-09-28
+1714,MagicShot Leiria Valorant Cup,7,2022-09-17,2022-09-24
+1715,MagicShot TechDays Aveiro Valorant Clash,7,2022-10-10,2022-10-14
+1716,Magyar Esport Kupa,6,2020-12-14,2020-12-22
+1717,Magyar Esport Kupa #2,6,2021-06-06,2021-06-27
+1718,Magyar Esport Kupa #3,6,2021-11-28,2021-12-19
+1719,Magyar Nemzeti Valorant Kupa - Major,14,2022-10-17,2022-10-28
+1720,Magyar Nemzeti Valorant Kupa - Nyári minor,14,2022-07-18,2022-07-28
+1721,Malaga Open 2021,3,2021-03-27,2021-03-28
+1722,Mandatory.gg Cup #1,16,2020-05-09,2020-05-10
+1723,Mandatory.gg Cup #2,52,2020-07-31,2020-08-02
+1724,Mandatory.gg Cup #3,22,2023-12-10,2023-12-19
+1725,Marbella Generation Cup 2025,7,2025-05-11,2025-05-17
+1726,Marca Sport Weekend,3,2020-11-15,2020-11-15
+1727,Marcos Invitational Cup,7,2022-01-18,2022-02-09
+1728,Masters Cup,1,2020-07-12,2020-07-12
+1729,Masters Pro League - Season 1,14,2022-02-18,2022-02-26
+1730,Masters Pro League - Season 2,14,2022-08-05,2022-08-13
+1731,Masters Pro League - Season 3,28,2022-12-23,2023-01-14
+1732,MediaMarkt Spring Cup,15,2026-05-16,2026-05-17
+1733,Mentora Finals,15,2024-11-02,2024-11-02
+1734,Meta Open Valorant,13,2021-10-08,2021-10-10
+1735,Metafy Masters #1,4,2022-04-30,2022-05-01
+1736,Metafy Masters #2,8,2022-05-20,2022-05-22
+1737,Metafy Masters #3,4,2022-06-25,2022-06-26
+1738,Milan Games Week 2025,38,2025-11-15,2025-11-29
+1739,Mildom Masters,31,2020-08-20,2020-10-15
+1740,MilkTeaBoards All-Stars,11,2025-04-05,2025-04-06
+1741,MilkTeaBoards Invitational x Arbiter Studio,8,2024-10-19,2024-10-20
+1742,Minerva Series 1 - Finals,1,2023-05-17,2023-05-17
+1743,Minerva Series: Split 3,1,2023-10-02,2023-10-02
+1744,Mineski VxV,31,2020-11-21,2020-12-06
+1745,Mineski VxV 2021: Invitational,7,2021-11-09,2021-11-12
+1746,Mineski VxV 2022,22,2022-11-24,2022-12-10
+1747,Misfits Gaming Invitational,14,2022-08-22,2022-08-23
+1748,MissHarvey Invitational,9,2021-11-27,2021-11-29
+1749,MissHarvey Invitational #2,15,2023-03-18,2023-03-19
+1750,Mockern Masters Gamers Clash,15,2021-09-11,2021-09-18
+1751,Momentum Gaming: Detonation Series,17,2025-09-06,2026-05-16
+1752,Monsters Reloaded 2024,19,2024-11-13,2024-12-01
+1753,Monsters Reloaded 2025,19,2025-11-03,2025-11-23
+1754,Monsters Reloaded 2025: EMEA Qualifier,17,2025-10-24,2025-11-06
+1755,Monsters Reloaded 2025: Turkish Qualifier,34,2025-10-02,2025-10-30
+1756,Monsters Reloaded 2026,20,2026-09-26,2026-10-25
+1757,Monsters Reloaded 2026: EMEA Qualifier,31,2026-09-06,2026-09-21
+1758,Monsters Reloaded 2026: Turkish Qualifier,32,2026-09-03,2026-09-23
+1759,Moroccan Spike Tournament,6,2020-12-20,2020-12-27
+1760,Morocco Gaming Expo 2025,4,2025-07-05,2025-07-06
+1761,Morocco Gaming Expo 2026,4,2026-05-20,2026-05-24
+1762,Moscow Cybersport Series #3,64,2021-03-27,2021-06-27
+1763,Moscow Cybersport Series #4,78,2021-08-07,2021-11-21
+1764,Moscow Cybersport Series #6 - Superfinal,18,2022-10-21,2022-10-30
+1765,Moscow Five Open Tournament,2,2020-07-03,2020-07-03
+1766,Mount Phenom Zero: Valorant Weekend,15,2020-10-17,2020-10-18
+1767,Movistar Fibra: LATAM Gods,6,2022-12-02,2022-12-04
+1768,Multiplatform Esports Game 2023,90,2023-10-12,2023-11-05
+1769,Mystic Singularity Series #1,62,2022-08-05,2022-08-07
+1770,Mystic Singularity Series #2,112,2022-11-04,2022-11-06
+1771,Mystic Singularity Series #3,31,2023-02-17,2023-02-19
+1772,Mystic Singularity Series #4,111,2023-03-24,2023-03-26
+1773,Mystic Singularity Series #5,31,2023-04-28,2023-04-30
+1774,Mystic Singularity Series #6,109,2023-06-23,2023-06-25
+1775,Mystic Singularity Series #7,31,2023-07-28,2023-07-30
+1776,Mystic Singularity Series #8,77,2023-09-01,2023-09-03
+1777,NACE Starleague - Fall 2022,30,2022-11-15,2022-11-30
+1778,NACE Starleague - Fall 2023,30,2023-11-08,2023-11-29
+1779,NACE Starleague - Spring 2023,30,2023-04-12,2023-04-26
+1780,NACE Starleague - Spring 2024,30,2024-04-03,2024-04-24
+1781,NAVI VALORANT Autumn Cup 2023,3,2023-11-11,2023-11-11
+1782,NAVI VALORANT SPRING STANDOFF,6,2024-03-24,2024-03-30
+1783,NECC 2026 Nationals: Division I,12,2026-05-14,2026-05-18
+1784,NECC Fall 2024 - Div I Playoffs,14,2024-11-11,2024-12-02
+1785,NECC Legends: Championship,3,2024-05-03,2024-05-04
+1786,NECC Legends: Fall 2023,28,2023-11-13,2023-12-04
+1787,NECC Valorant Champions Finals - Spring 2023,97,2023-04-17,2023-05-01
+1788,NECC Valorant Champions Qualifiers - Fall 2022,49,2022-11-14,2022-12-05
+1789,NECC Valorant Nationals - Champions,3,2023-06-12,2023-06-13
+1790,NESO Summer Invitational - Final,7,2022-08-20,2022-08-21
+1791,NGES Elite Cup,4,2021-08-28,2021-08-29
+1792,NGL Open Cup,102,2020-10-16,2020-11-06
+1793,NODWIN Agni Series,3,2020-11-04,2020-11-04
+1794,NOM Invitational #1,6,2022-07-19,2022-07-20
+1795,NOM Invitational #2,6,2022-08-03,2022-08-04
+1796,NOM Invitational #3,6,2022-08-24,2022-08-25
+1797,NOM Overwolf Juniors: 2022,4,2022-04-21,2022-04-21
+1798,NRG Neon Dream Invitational 2022,14,2022-09-26,2022-09-27
+1799,NRG Neon Dream Invitational 2023,36,2023-09-06,2023-09-10
+1800,NRG Neon Dream Invitational 2024,19,2024-09-16,2024-09-17
+1801,NRG Neon Dream Invitational 2025,19,2025-11-08,2025-11-09
+1802,NSG YUDDHA PHASE 2: All India Championship,30,2022-11-01,2022-11-13
+1803,"NUEL England, Wales and Ireland Minor - BEACON Split 1",14,2023-05-13,2023-05-14
+1804,NVIDIA Geforce Festival 2022,3,2022-07-16,2022-07-29
+1805,National ShotVAL Pride,27,2021-11-01,2021-11-16
+1806,National Women's League - Fall 2025,3,2025-11-01,2025-11-21
+1807,Nativz Collegiate Valorant Spring Series 2023,4,2023-04-03,2023-04-10
+1808,Nativz Collegiate Valorant Winter Series 2022,8,2022-12-05,2023-01-23
+1809,Negative's Showdown #3,4,2024-06-01,2024-06-01
+1810,Nerd St. Gamers Open #15,7,2020-07-19,2020-07-19
+1811,Nerd Street Gamers December Monthly,56,2020-12-26,2020-12-27
+1812,Nerd Street Gamers January Open,62,2021-01-02,2021-01-03
+1813,Nerd Street Gamers March Monthly,86,2021-03-14,2021-03-28
+1814,Nerd Street Gamers Monthly #1,14,2020-06-06,2020-06-06
+1815,Nerd Street Gamers Monthly #2,14,2020-08-30,2020-08-30
+1816,Nerd Street Gamers November Monthly,70,2020-11-01,2020-11-29
+1817,Nerd Street Gamers October Monthly,62,2020-10-04,2020-10-25
+1818,Nerd Street Gamers September Monthly,56,2020-09-26,2020-09-27
+1819,Nerd Street Gamers Summer Championship,55,2021-08-18,2021-08-22
+1820,Nerd Street Gamers Summer Championship - April Qualifier,55,2021-04-26,2021-04-27
+1821,Nerd Street Gamers Summer Championship - July Qualifier,55,2021-07-26,2021-07-27
+1822,Nerd Street Gamers Summer Championship - June Qualifier,55,2021-06-28,2021-06-29
+1823,Nerd Street Gamers Summer Championship - Last Chance Qualifier,48,2021-08-09,2021-08-10
+1824,Nerd Street Gamers Summer Championship - May Qualifier,55,2021-05-22,2021-05-23
+1825,Nerd Street Gamers Summer Championship - Open 1,55,2021-04-05,2021-04-06
+1826,Nerd Street Gamers Summer Championship - Open 10,55,2021-07-05,2021-07-06
+1827,Nerd Street Gamers Summer Championship - Open 11,55,2021-07-12,2021-07-13
+1828,Nerd Street Gamers Summer Championship - Open 12,55,2021-07-19,2021-07-20
+1829,Nerd Street Gamers Summer Championship - Open 2,55,2021-04-12,2021-04-13
+1830,Nerd Street Gamers Summer Championship - Open 3,55,2021-04-19,2021-04-20
+1831,Nerd Street Gamers Summer Championship - Open 4,55,2021-05-03,2021-05-04
+1832,Nerd Street Gamers Summer Championship - Open 5,55,2021-05-10,2021-05-11
+1833,Nerd Street Gamers Summer Championship - Open 6,55,2021-05-17,2021-05-18
+1834,Nerd Street Gamers Summer Championship - Open 7,55,2021-06-07,2021-06-08
+1835,Nerd Street Gamers Summer Championship - Open 8,55,2021-06-14,2021-06-15
+1836,Nerd Street Gamers Summer Championship - Open 9,55,2021-06-21,2021-06-22
+1837,Nerd Street Gamers Winter Championship,28,2021-01-13,2021-01-17
+1838,Nerd Street Gamers Winter Championship - Finals,47,2022-02-07,2022-02-09
+1839,Nerd Street Gamers Winter Championship - Last Chance Qualifier,104,2022-01-31,2022-02-01
+1840,Nerd Street Gamers Winter Championship - Open 1,63,2021-10-18,2021-10-19
+1841,Nerd Street Gamers Winter Championship - Open 10,63,2021-12-20,2021-12-21
+1842,Nerd Street Gamers Winter Championship - Open 11,63,2021-12-27,2021-12-28
+1843,Nerd Street Gamers Winter Championship - Open 12,63,2022-01-03,2022-01-04
+1844,Nerd Street Gamers Winter Championship - Open 13,63,2022-01-10,2022-01-11
+1845,Nerd Street Gamers Winter Championship - Open 14,111,2022-01-17,2022-01-19
+1846,Nerd Street Gamers Winter Championship - Open 15,111,2022-01-24,2022-01-26
+1847,Nerd Street Gamers Winter Championship - Open 2,63,2021-10-25,2021-10-26
+1848,Nerd Street Gamers Winter Championship - Open 3,63,2021-11-01,2021-11-02
+1849,Nerd Street Gamers Winter Championship - Open 8,63,2021-12-06,2021-12-07
+1850,Nerd Street Gamers Winter Championship - Open 9,63,2021-12-13,2021-12-14
+1851,Nerd Street Gamers Winter Championship - Regional LAN Denver,13,2022-01-22,2022-01-22
+1852,Nerd Street Gamers Winter Championship - Regional LAN Philadelphia,20,2022-01-08,2022-01-09
+1853,Nerd Street Gamers Winter Championship: Open 4,63,2021-11-08,2021-11-09
+1854,Nerd Street Gamers Winter Championship: Open 5,63,2021-11-15,2021-11-16
+1855,Nerd Street Gamers Winter Championship: Open 6,63,2021-11-22,2021-11-23
+1856,Nerd Street Gamers Winter Championship: Open 7,63,2021-11-29,2021-11-30
+1857,Nerd Street Summer Championship 2022 - Bakersfield LAN,3,2022-06-25,2022-06-25
+1858,Nerd Street Summer Championship 2022 - Brentwood LAN #1,2,2022-04-23,2022-04-23
+1859,Nerd Street Summer Championship 2022 - Brentwood LAN #2,9,2022-07-23,2022-07-23
+1860,Nerd Street Summer Championship 2022 - Chicago Scrims LAN,49,2022-06-04,2022-06-05
+1861,Nerd Street Summer Championship 2022 - Finals,48,2022-08-19,2022-08-21
+1862,Nerd Street Summer Championship 2022 - Fullerton LAN #1,55,2022-05-14,2022-05-15
+1863,Nerd Street Summer Championship 2022 - Fullerton LAN #2,27,2022-07-09,2022-07-10
+1864,Nerd Street Summer Championship 2022 - Georgetown LAN,27,2022-06-11,2022-06-12
+1865,Nerd Street Summer Championship 2022 - Last Chance Qualifier,16,2022-08-18,2022-08-18
+1866,Nerd Street Summer Championship 2022 - North Brunswick LAN,18,2022-05-21,2022-05-22
+1867,Nerd Street Summer Championship 2022 - Online Qualifier,112,2022-07-05,2022-07-07
+1868,Nerd Street Summer Championship 2022 - Open 1,111,2022-04-11,2022-04-13
+1869,Nerd Street Summer Championship 2022 - Open 10,111,2022-06-13,2022-06-15
+1870,Nerd Street Summer Championship 2022 - Open 11,55,2022-06-20,2022-06-21
+1871,Nerd Street Summer Championship 2022 - Open 12,111,2022-07-11,2022-07-13
+1872,Nerd Street Summer Championship 2022 - Open 13,111,2022-07-18,2022-07-21
+1873,Nerd Street Summer Championship 2022 - Open 14,111,2022-07-25,2022-07-27
+1874,Nerd Street Summer Championship 2022 - Open 2,55,2022-04-18,2022-04-19
+1875,Nerd Street Summer Championship 2022 - Open 3,111,2022-04-25,2022-04-27
+1876,Nerd Street Summer Championship 2022 - Open 4,111,2022-05-02,2022-05-04
+1877,Nerd Street Summer Championship 2022 - Open 5,55,2022-05-09,2022-05-10
+1878,Nerd Street Summer Championship 2022 - Open 6,55,2022-05-16,2022-05-17
+1879,Nerd Street Summer Championship 2022 - Open 7,55,2022-05-23,2022-05-24
+1880,Nerd Street Summer Championship 2022 - Open 8,55,2022-05-30,2022-05-31
+1881,Nerd Street Summer Championship 2022 - Open 9,55,2022-06-06,2022-06-07
+1882,Nerd Street Summer Championship 2022 - Philadelphia LAN,13,2022-04-16,2022-04-17
+1883,Nerd Street Summer Championship 2022 - The Big L,13,2022-08-21,2022-08-21
+1884,Nerd Street VALORANT Lockdown - Finals,18,2023-01-14,2023-01-15
+1885,Nerd Street VALORANT Lockdown - Last Chance Qualifier,20,2023-01-13,2023-01-14
+1886,Nerd Street VALORANT Lockdown - Open 1,111,2022-12-05,2022-12-07
+1887,Nerd Street VALORANT Lockdown - Open 2,55,2022-12-12,2022-12-13
+1888,Nerd Street VALORANT Lockdown - Open 3,111,2022-12-19,2022-12-21
+1889,Nerd Street VALORANT Lockdown 2 - Finals,37,2023-08-05,2023-08-06
+1890,Nerd Street VALORANT Lockdown 2 - Last Chance Qualifier,15,2023-08-04,2023-08-04
+1891,Nerd Street VALORANT Lockdown 2 - Open 1,127,2023-04-17,2023-04-19
+1892,Nerd Street VALORANT Lockdown 2 - Open 2,127,2023-04-24,2023-04-26
+1893,Nerd Street VALORANT Lockdown 2 - Open 3,94,2023-04-30,2023-05-02
+1894,Nerd Street VALORANT Lockdown 2 - Open 4,91,2023-05-08,2023-05-10
+1895,Nerd Street VALORANT Lockdown 2 - Open 5,98,2023-05-14,2023-05-16
+1896,Nerd Street VALORANT Lockdown 2 - Open 6,98,2023-05-20,2023-05-22
+1897,Nerd Street VALORANT Lockdown 2 - Open 7,119,2023-05-28,2023-05-30
+1898,Nerd Street VALORANT Lockdown 2 - Open 8,119,2023-06-04,2023-06-06
+1899,Nerd Street VALORANT Lockdown 2 - Resurrection Qualifier,12,2023-06-10,2023-06-11
+1900,Nerd Street VALORANT Lockdown 3 - Open 1,79,2023-09-18,2023-10-04
+1901,Nerd Town Masters 2021,7,2021-08-13,2021-09-05
+1902,Neverest Experience Cup Invitational,12,2021-09-30,2021-10-02
+1903,Nicecactus Christmas Trophy,48,2020-12-13,2020-12-27
+1904,Nicecactus Fall Trophy #1,58,2020-10-17,2020-10-31
+1905,Nicecactus Fall Trophy #2,104,2020-11-08,2020-12-06
+1906,Nicecactus February Trophy,80,2021-02-14,2021-03-27
+1907,Nicecactus March Trophy,80,2021-03-14,2021-04-25
+1908,Nicecactus New Year Trophy,80,2021-01-10,2021-02-21
+1909,Nicecactus Summer Trophy #1,7,2020-08-30,2020-08-30
+1910,Nicecactus Summer Trophy #2,36,2020-09-27,2020-10-04
+1911,No Tilt Cup: Latin America North,15,2020-12-08,2020-12-18
+1912,No Tilt Cup: Latin America South,3,2020-10-24,2020-10-25
+1913,NorQuest Esports Series Featuring Valorant - Champions Division,7,2021-07-31,2021-08-01
+1914,NorQuest Esports Series Grand Finale,7,2022-06-25,2022-06-26
+1915,Norway National League 2024 - Division 1,34,2024-08-22,2024-10-27
+1916,Norway National League Autumn 2025: Division 1,49,2025-09-02,2025-11-16
+1917,Norway National League Spring 2025: Division 1,51,2025-03-31,2025-06-01
+1918,Norway National League Winter 2025: Division 1,45,2025-01-28,2025-02-25
+1919,Norwegian Valorant League,48,2023-05-02,2023-06-11
+1920,Norwegian Valorant League Høsten 2023,39,2023-10-19,2023-12-14
+1921,Norwegian Valorant League Spring 2024,39,2024-04-11,2024-06-02
+1922,Nuvy Circuit 2026 - Season 1,14,2026-06-02,2026-07-25
+1923,Nuvy Ignite,8,2026-09-22,2026-10-03
+1924,OCE Showdown,38,2025-02-18,2025-02-23
+1925,OCE.gg Community Cup Finals,1,2020-06-14,2020-06-14
+1926,OMEN Challengers League 2024 South Asia: Split 1,87,2024-01-23,2024-05-19
+1927,OMEN LEAGUE - NOVEMBER CUP #1,2,2021-11-14,2021-11-14
+1928,ON Live Valorant Series 2024: Week 1,32,2024-11-18,2024-11-24
+1929,ON Live Valorant Series 2024: Week 2,32,2024-11-24,2024-12-01
+1930,ON Live Valorant Series 2024: Week 3,32,2024-12-01,2024-12-08
+1931,ON Live Valorant Series 2024: Week 4,24,2024-12-14,2024-12-21
+1932,ON Live Valorant Series 2025: Season 2,44,2025-02-22,2025-03-15
+1933,ON Live Valorant Series 2025: Season 3,16,2025-06-25,2025-07-06
+1934,ORA eSports Circuit: Season 1,22,2026-02-01,2026-02-09
+1935,ORDER Nova Invitational,25,2021-04-13,2021-04-18
+1936,ORDER Oceanic Open,27,2020-07-17,2020-07-26
+1937,OXO Series,3,2026-02-13,2026-02-14
+1938,Occitanie Esports 2020,30,2020-09-20,2020-09-27
+1939,Oceania Tour: Championship,22,2021-09-08,2022-07-10
+1940,Oceania Tour: Stage 01,63,2021-02-12,2021-03-21
+1941,Oceania Tour: Stage 02,74,2021-04-08,2021-06-06
+1942,Oceania Tour: Stage 03,70,2021-06-25,2021-08-15
+1943,Oceania Tour: Stage 1,46,2022-01-13,2022-02-19
+1944,Oceania Tour: Stage 2,46,2022-04-14,2022-05-22
+1945,Odyssey Warpros Volume 3,14,2020-12-10,2020-12-16
+1946,Odyssey Warpros Volume 4,6,2021-03-27,2021-03-30
+1947,Odyssey Warpros Volume 5,6,2021-10-19,2021-10-21
+1948,Odyssey Warpros Volume 6,6,2022-01-05,2022-01-09
+1949,Odyssey Warpros Volume 7,6,2022-04-26,2022-04-28
+1950,Odyssey Warpros Volume 8,14,2023-01-12,2023-01-14
+1951,Odyssey Warpros Volume 9,14,2025-06-16,2025-06-27
+1952,OnFire Cup,40,2020-09-14,2020-09-20
+1953,One Game Showdown,25,2024-11-29,2024-12-08
+1954,OneShot Master Series Valorant,13,2021-10-25,2021-11-09
+1955,Onslaught Valorant League,13,2020-12-10,2020-12-20
+1956,Open Air Esports ninexT RISE,13,2023-06-08,2023-06-24
+1957,Open Fire,8,2021-01-13,2021-01-15
+1958,Open Fire 2,14,2021-06-18,2021-06-21
+1959,Open Fire Last Call,14,2021-11-23,2021-11-30
+1960,Open Fire Legacy,35,2021-12-18,2021-12-26
+1961,Oredoo Nation Gamers' Land Seasonal Championship,38,2024-07-14,2024-07-26
+1962,Our Party,3,2023-05-11,2023-05-14
+1963,OutKing Series Stage 3,14,2025-11-01,2025-12-01
+1964,Outking Series 2026: Stage 1,14,2026-04-24,2026-05-30
+1965,"PAX Arena ""Almost Pro"" 2021 Open",58,2021-07-10,2021-07-17
+1966,PAX Arena Invitational,47,2020-07-22,2020-07-26
+1967,PBX Winter Bash,4,2020-12-29,2020-12-29
+1968,PC Factory Master Play 2022,7,2022-12-13,2022-12-18
+1969,PCYARD CUP - Season 1,8,2026-09-07,2026-09-27
+1970,PDS FPS Elite 1,8,2023-04-03,2023-04-05
+1971,PL4ZMA Cup,15,2021-09-18,2021-09-18
+1972,PLAY! FESTIVAL Trondheim 2026,5,2026-02-28,2026-03-01
+1973,PLAYER1 SERIES: Hera,16,2022-01-04,2022-01-08
+1974,PLAYER1 SERIES: Hera #2,16,2022-01-25,2022-01-29
+1975,PLAYER1 SERIES: Hera #3,11,2022-05-10,2022-05-14
+1976,PLE.GG Valorant Nations Circuit,33,2021-04-17,2021-06-06
+1977,PLE.GG Valorant Nations Circuit Season 2,33,2021-11-07,2021-12-19
+1978,POP Esports Masters Season 6,2,2025-05-28,2025-06-07
+1979,POP Gaming Festival - Season 7,8,2026-07-18,2026-09-20
+1980,PROJECT V 2023: Endboss Clash - Final Scouting Cup,3,2023-12-13,2023-12-13
+1981,PROJECT V: 2026 Split 2,128,2026-03-24,2026-05-02
+1982,PVP Esports Final 2020,15,2020-12-12,2020-12-13
+1983,Peak of Legends 2026,8,2026-07-22,2026-07-31
+1984,Penta Challenge,7,2021-10-22,2021-10-24
+1985,Penta Esports - All Stars Showdown,6,2022-09-23,2022-09-25
+1986,Penta Esports Invitational,7,2021-06-11,2021-06-13
+1987,Penta Pro Series,21,2022-12-12,2022-12-24
+1988,Penta Pro Series Season 2,13,2024-10-21,2024-10-27
+1989,Phoenix Series 2026,21,2026-09-23,2026-10-10
+1990,Pierwiastek X - Refleks,8,2021-07-23,2021-07-24
+1991,Pizza Hut Champions Cup,8,2022-06-15,2022-06-23
+1992,PlayVS College League Fall 2025,3,2025-12-14,2025-12-14
+1993,PlayerzZone $2K Invitational Presented By GLG,56,2021-09-04,2021-09-05
+1994,Polish Esport Cup 2020,14,2020-10-14,2020-11-06
+1995,Polish Invitational,3,2020-08-31,2020-08-31
+1996,Polish Open #FRAMESWINGAMES,8,2020-09-02,2020-09-03
+1997,Pop Flash Invitational,16,2020-08-26,2020-08-30
+1998,Porto de Mós Gaming Fest 2026,3,2026-05-09,2026-05-10
+1999,Power Up India,27,2021-02-13,2021-02-28
+2000,Predator Esports Circuit,9,2021-09-16,2021-10-24
+2001,Predator Kings of PH 2022,15,2022-04-02,2022-04-10
+2002,Predator League 2022 - Philippines,15,2022-08-31,2022-09-17
+2003,Predator League 2025 India,14,2024-11-19,2024-12-27
+2004,Predator League 2025 Indonesia,41,2024-10-23,2024-11-10
+2005,Predator League 2025 Japan,13,2024-10-11,2024-10-13
+2006,Predator League 2025 Malaysia,42,2024-08-31,2024-11-17
+2007,Predator League 2025 Oceania,14,2024-11-08,2024-11-16
+2008,Predator League 2025 Philippines,17,2024-10-08,2024-11-10
+2009,Predator League 2025 Singapore,8,2024-10-26,2024-10-27
+2010,Predator League 2025 Thailand,23,2024-10-10,2024-10-27
+2011,Predator League 2025 Vietnam,16,2024-10-17,2024-10-27
+2012,Predator League 2026: Asia-Pacific,27,2026-01-08,2026-01-10
+2013,Predator League 2026: Hong Kong,8,2025-08-29,2025-08-31
+2014,Predator League 2026: India,14,2025-09-05,2025-10-11
+2015,Predator League 2026: Indonesia,23,2025-10-29,2025-11-16
+2016,Predator League 2026: Japan,7,2025-11-01,2025-11-09
+2017,Predator League 2026: Korea,7,2025-12-09,2025-12-14
+2018,Predator League 2026: Malaysia,29,2025-10-11,2025-11-16
+2019,Predator League 2026: Oceania,32,2025-10-31,2025-11-01
+2020,Predator League 2026: Philippines,34,2025-09-20,2025-11-16
+2021,Predator League 2026: Singapore,22,2025-10-28,2025-11-02
+2022,Predator League 2026: Thailand,42,2025-10-28,2025-11-15
+2023,Predator League 2026: Vietnam,71,2025-10-24,2025-12-07
+2024,Predator League Asia Pacific 2024,27,2024-01-10,2024-01-14
+2025,Predator League Asia-Pacific 2025,27,2025-01-08,2025-01-11
+2026,Predator League Bangladesh 2024,8,2023-09-28,2023-10-12
+2027,Predator League India 2024,14,2023-09-25,2023-10-15
+2028,Predator League Indonesia 2024,23,2023-11-07,2023-11-19
+2029,Predator League Japan 2024,17,2023-10-14,2023-10-22
+2030,Predator League Malaysia 2024,2,2023-09-30,2023-10-01
+2031,Predator League Oceania 2024,14,2023-10-12,2023-11-17
+2032,Predator League Philippines 2024,15,2023-10-21,2023-11-12
+2033,Predator League Singapore 2024,4,2023-10-14,2023-10-28
+2034,Predator League Thailand 2024,7,2023-09-23,2023-10-08
+2035,Predator League Vietnam 2024,6,2023-10-17,2023-10-21
+2036,Predator Shot 2022,14,2022-03-22,2022-03-31
+2037,Project Blender 2025,265,2025-10-11,2025-12-14
+2038,Project Blender 2025: Spotlight,14,2025-10-27,2025-11-04
+2039,Project Blender 2026,0,,
+2040,Project DACH: Gamescom LAN,34,2025-02-22,2025-02-22
+2041,Project Queens,15,2022-06-19,2022-07-02
+2042,Project Queens 2025: Split 1,31,2025-01-21,2025-02-16
+2043,Project Queens 2026: Split 2,43,2026-03-23,2026-05-10
+2044,Project Queens League,29,2022-09-22,2022-11-13
+2045,Project V 2023: OrcusV2,14,2023-10-14,2023-10-14
+2046,Project V 2023: OrcusV2 QUEENS,8,2023-09-16,2023-09-16
+2047,Project V 2023: Split 1 Finals,3,2023-05-13,2023-05-13
+2048,Project V 2023: Split 2 Finals,3,2023-09-02,2023-09-23
+2049,Project V 2023: THE POKAL,63,2023-10-03,2023-11-04
+2050,Project V 2024 Division 1 - Split 1 - Playoffs,7,2024-04-13,2024-05-03
+2051,Project V 2024 Division 1 - Split 1: Stage 1,28,2024-02-06,2024-02-20
+2052,Project V 2024 Division 1 - Split 1: Stage 2,28,2024-02-27,2024-03-12
+2053,Project V 2024 Division 1 - Split 1: Stage 3,27,2024-03-26,2024-04-09
+2054,Project V 2024 Division 1 - Split 2 - Playoffs,7,2024-07-07,2024-07-13
+2055,Project V 2024 Division 1 - Split 2: Stage 1,28,2024-05-28,2024-06-12
+2056,Project V 2024 Division 1 - Split 2: Stage 2,28,2024-06-18,2024-07-02
+2057,Project V Division 1 - Split 2: Stage 1,28,2023-06-26,2023-07-15
+2058,Project V Division 1 - Split 2: Stage 2,28,2023-07-17,2023-08-05
+2059,Project V Division 1 - Split 2: Stage 3,28,2023-07-31,2023-08-26
+2060,Project V: 2024 Split 1 - Stage 1 Cup,8,2024-02-18,2024-02-18
+2061,Project V: 2024 Split 1 - Stage 2 Cup,8,2024-03-10,2024-03-10
+2062,Project V: 2024 Split 1 - Stage 3 Cup,8,2024-04-07,2024-04-07
+2063,Project V: 2025 Split 1,3,2025-02-22,2025-02-23
+2064,Project V: 2025 Split 2 - Relegation,24,2025-05-31,2025-06-23
+2065,Project V: 2025 Split 3 Pro Series,119,2025-08-27,2025-10-19
+2066,Project V: 2025 Split 3 Relegation,10,2025-10-31,2025-11-02
+2067,Project V: 2026 Split 1,169,2026-01-14,2026-02-22
+2068,Project V: 2026 Split 1 Relegation,10,2026-03-13,2026-03-15
+2069,Project V: A1 eSports Cup,32,2022-05-09,2022-10-29
+2070,Project V: A1 eSports Valorant Cup #3,36,2023-03-17,2023-05-27
+2071,Project V: BLINDED RUMATHRAS,17,2022-06-03,2022-06-06
+2072,Project V: Boutgamers - Cup 1,7,2022-09-29,2022-09-29
+2073,Project V: Boutgamers - Cup 2,7,2022-10-20,2022-10-20
+2074,Project V: Clutch Kings #2,16,2022-06-05,2022-06-12
+2075,Project V: Clutch Kings 2023 #1,15,2023-04-22,2023-04-30
+2076,Project V: Crown The Champs,4,2022-03-13,2022-03-13
+2077,Project V: OrcusV,3,2022-09-25,2022-10-08
+2078,Project V: PRO Weekly #1,14,2023-02-08,2023-02-08
+2079,Project V: PRO Weekly #10,14,2023-04-12,2023-04-12
+2080,Project V: PRO Weekly #11,14,2023-04-19,2023-04-19
+2081,Project V: PRO Weekly #12,14,2023-04-26,2023-04-26
+2082,Project V: PRO Weekly #13,14,2023-05-03,2023-05-03
+2083,Project V: PRO Weekly #3,14,2023-02-22,2023-02-22
+2084,Project V: PRO Weekly #4,14,2023-03-01,2023-03-01
+2085,Project V: PRO Weekly #5,14,2023-03-08,2023-03-08
+2086,Project V: PRO Weekly #6,14,2023-03-15,2023-03-15
+2087,Project V: PRO Weekly #7,14,2023-03-22,2023-03-22
+2088,Project V: PRO Weekly #8,14,2023-03-29,2023-03-29
+2089,Project V: PRO Weekly #9,14,2023-04-05,2023-04-05
+2090,Project V: Project Queens - Split 1 Finals,4,2023-05-14,2023-05-18
+2091,Project V: Project Queens - Split 2 Finals,7,2023-07-11,2023-07-22
+2092,Project V: Project Queens - Split 3 Finals,70,2023-08-22,2023-09-23
+2093,Project V: Project Queens 2024 - Split 1 Playoffs,3,2024-05-05,2024-05-05
+2094,Project V: Project Queens 2024 - Split 2,31,2024-05-30,2024-07-20
+2095,Project V: Project Queens 2024 - Split 3,32,2024-09-10,2024-11-07
+2096,Project V: RCADIA United - Spring 2022,7,2022-05-21,2022-05-22
+2097,Project V: RUSH.GG - HOT Future Cup #1,7,2022-05-06,2022-05-06
+2098,Project V: RUSH.GG - HOT Future Cup #2,7,2022-05-13,2022-05-13
+2099,Project V: RUSH.GG - HOT Future Cup #3,7,2022-05-27,2022-05-27
+2100,Project V: SEL Fall Cup,14,2022-10-22,2022-10-23
+2101,Project V: SEL Ignition Cup,15,2022-05-28,2022-06-04
+2102,Project V: Split 1 Finals,4,2022-03-26,2022-04-03
+2103,Project V: Split 2 Finals,4,2022-07-01,2022-07-02
+2104,Project V: Split 3 Finals,4,2022-11-12,2022-11-17
+2105,Project V: Stage 1 Division 1,45,2023-02-09,2023-03-06
+2106,Project V: Stage 2 Division 1,45,2023-03-09,2023-04-06
+2107,Project V: Stage 3 Division 1,45,2023-04-10,2023-05-02
+2108,Project V: SwitzerLAN,8,2022-10-15,2022-10-16
+2109,Project V: Weekly Tournament 1,35,2022-05-12,2022-09-14
+2110,Project V: Weekly Tournament 2,42,2022-05-19,2022-09-21
+2111,Project V: Weekly Tournament 3,35,2022-05-26,2022-09-28
+2112,Project V: Weekly Tournament 4,28,2022-06-02,2022-10-05
+2113,Project V: Weekly Tournament 5,28,2022-06-09,2022-10-12
+2114,Project V: Weekly Tournament 6,28,2022-06-16,2022-10-19
+2115,Project V: Weekly Tournament 7,14,2022-10-26,2022-10-26
+2116,Project V: Weekly Tournament 8,14,2022-11-02,2022-11-02
+2117,Project V: XMG Fusion Cup,7,2022-12-07,2022-12-07
+2118,Project V: XMG Neo Cup #2,7,2022-12-21,2022-12-21
+2119,Project V: XMG Offseason Clash,3,2023-01-25,2023-01-25
+2120,Project V: XMG Sector Cup #2,7,2023-01-04,2023-01-04
+2121,Project V: XMG Trinity Cup,7,2023-01-18,2023-01-18
+2122,Protocolo: Evolução 2021,74,2021-08-05,2021-11-14
+2123,Protocolo: Gêneses 2021,74,2021-03-25,2021-06-20
+2124,Protocolo: Gêneses 2022,74,2022-02-24,2022-07-09
+2125,Puchar Sławy,7,2022-07-03,2022-07-09
+2126,Puchar Sławy #2,7,2023-06-30,2023-07-07
+2127,Pulse Invitational,32,2020-07-10,2020-07-12
+2128,Pulse Series,46,2020-09-10,2020-09-13
+2129,R2 New Dawn 2026,16,2026-09-07,2026-09-18
+2130,RAGE Autumn 2022,6,2022-10-08,2022-10-09
+2131,RAGE Invitational,16,2020-06-20,2020-06-21
+2132,RAGE Japan Tournament,8,2020-08-01,2020-08-02
+2133,RBCORP Tournament #1,3,2026-03-08,2026-03-08
+2134,RBCORP Tournament #2,3,2026-05-17,2026-05-17
+2135,RBCORP Tournament #3,31,2026-09-25,2026-09-27
+2136,RCADIA Valorant United,3,2021-12-05,2021-12-05
+2137,REBELS 2026 #2,7,2026-06-15,2026-06-18
+2138,RECON 2026 #1,3,2026-06-13,2026-06-14
+2139,REFLEX Challenge OCE,34,2023-01-06,2023-01-07
+2140,RESF Premium Tournament,16,2020-10-04,2020-11-02
+2141,RESF Premium Tournament #2,8,2021-02-28,2021-02-28
+2142,RIVALS LEAGUE 2026: S1 Promotion,15,2026-02-28,2026-03-05
+2143,RIVALS LEAGUE 2026: Season 1,41,2026-01-31,2026-04-11
+2144,ROG Cup,7,2020-07-09,2020-07-09
+2145,ROG North Africa,8,2021-07-10,2021-07-17
+2146,ROG RUSH Invitational,3,2022-05-21,2022-05-29
+2147,ROG x ThinkPro Valorant Championship,80,2021-05-06,2021-05-16
+2148,ROK Run It Back,52,2024-08-02,2024-08-04
+2149,ROK Valorant South Beach Series,7,2025-01-05,2025-01-05
+2150,ROK x FunhaverGG Miami LAN,32,2025-10-17,2025-10-19
+2151,ROK x FunhaverGG Miami LAN: Qualifier 1,91,2025-09-12,2025-09-14
+2152,ROK x FunhaverGG Miami LAN: Qualifier 2,106,2025-09-19,2025-09-21
+2153,RTBF iXPé - Online Sessions 2022,8,2022-10-22,2022-10-23
+2154,RTBF iXPé - Online Sessions 2023,8,2023-11-25,2023-11-26
+2155,RUMBLE ROYALE X Riot Community Brawl: Week 2,8,2022-11-26,2022-11-27
+2156,RUMBLE ROYALE X Riot Community Brawl: Week 4,8,2022-12-17,2022-12-18
+2157,RUMBLE ROYALE X Riot Community Brawl: Week 6,8,2023-01-14,2023-01-15
+2158,RUSH Gaming Festival #3,2,2022-11-22,2022-11-27
+2159,RUSH X-MAS CUP #1,8,2021-12-24,2021-12-24
+2160,RUSH X-MAS CUP #2,8,2021-12-25,2021-12-25
+2161,RUSH X-MAS CUP #3,8,2021-12-26,2021-12-26
+2162,RUSH to Glory #1,16,2021-10-09,2021-10-09
+2163,RUSH to Glory #10,8,2021-12-18,2021-12-18
+2164,RUSH to Glory #2,8,2021-10-16,2021-10-16
+2165,RUSH to Glory #3,8,2021-10-23,2021-10-23
+2166,RUSH to Glory #4,8,2021-10-30,2021-10-30
+2167,RUSH to Glory #5,8,2021-11-06,2021-11-06
+2168,RUSH to Glory #6,8,2021-11-13,2021-11-13
+2169,RUSH to Glory #7,8,2021-11-20,2021-11-20
+2170,RUSH to Glory #8,8,2021-11-27,2021-11-27
+2171,RUSH to Glory #9,8,2021-12-04,2021-12-04
+2172,Radiance Angels: Luminance Debut,7,2026-01-28,2026-01-30
+2173,Radiance Angels: RE;Ignite #2,3,2026-06-13,2026-06-14
+2174,Radiant Academy,13,2020-11-23,2020-12-13
+2175,Radiant Academy 2025,7,2025-11-28,2025-12-08
+2176,Radiantku Series Malaysia 2026,4,2026-10-26,2026-10-29
+2177,Raidiant Academy 2024: 101,44,2024-03-02,2024-03-03
+2178,Raidiant Academy 2024: 102,48,2024-05-04,2024-05-05
+2179,Raidiant Academy 2024: 103,47,2024-06-29,2024-06-30
+2180,Raidiant Academy 2024: 104,15,2024-09-21,2024-09-22
+2181,Raidiant Academy 2024: 105,45,2024-10-26,2024-10-27
+2182,Raidiant Academy 2024: 106,29,2024-11-09,2024-11-10
+2183,Raidiant Academy 2024: 107,42,2024-11-30,2024-12-01
+2184,Raidiant Academy 2025: 108,39,2025-01-18,2025-01-19
+2185,Raidiant Academy 2025: 201,57,2025-05-03,2025-05-04
+2186,Raidiant Academy 2025: 202,51,2025-06-07,2025-06-08
+2187,Raidiant Academy 2025: 203,60,2025-08-02,2025-08-03
+2188,Raidiant Academy 2025: 204,54,2025-09-20,2025-09-21
+2189,Raidiant Academy 2025: 205,51,2025-12-06,2025-12-07
+2190,Raidiant Academy 2026: 301,27,2026-05-23,2026-05-24
+2191,Raidiant Academy 2026: 302,29,2026-07-25,2026-07-26
+2192,Raidiant Academy 2026: 303,14,2026-08-29,2026-08-30
+2193,Raidiant Academy 2026: 304,12,2026-10-17,2026-10-18
+2194,Ralovant Showmatches,3,2020-11-12,2020-11-26
+2195,Ramazan Topluluk Turnuvası,21,2026-02-21,2026-03-10
+2196,Rapid LAN 2022,3,2022-07-24,2022-07-24
+2197,RapidLAN Series: Xmas Edition,3,2022-12-28,2022-12-28
+2198,Rarity Found Summer Invitational,8,2020-10-10,2020-10-10
+2199,RawaxVLR Championship,31,2021-02-24,2021-02-27
+2200,RawaxVLR Championship #2,13,2021-03-12,2021-03-21
+2201,Razer Invitational Europe,32,2021-11-05,2021-11-07
+2202,Razer Invitational Middle East - Egypt,8,2021-08-17,2021-08-19
+2203,Razer Invitational Middle East - GCC,8,2021-08-17,2021-08-19
+2204,Rebels #1,20,2022-04-18,2023-04-18
+2205,Rebels #2,20,2022-05-18,2023-06-27
+2206,Rebels #3,19,2022-06-15,2023-09-06
+2207,Rebels #4,7,2022-07-05,2022-07-08
+2208,Rebels Final,16,2022-08-12,2022-08-20
+2209,Red Bull Campus Clutch - World Final Stage,33,2021-07-17,2021-07-18
+2210,Red Bull Campus Clutch 2022 - Argentina National Finals,3,2022-10-20,2022-11-04
+2211,Red Bull Campus Clutch 2022 - Asia-Pacific Last Chance Qualifier,1,2022-11-13,2022-11-13
+2212,Red Bull Campus Clutch 2022 - Austria National Finals,3,2022-11-05,2022-11-05
+2213,Red Bull Campus Clutch 2022 - Belgium National Finals,3,2022-11-16,2022-11-16
+2214,Red Bull Campus Clutch 2022 - Bosnia & Herzegovina National Finals,1,2022-10-27,2022-10-27
+2215,Red Bull Campus Clutch 2022 - Brazil National Finals,1,2022-12-10,2022-12-10
+2216,Red Bull Campus Clutch 2022 - Bulgaria National Finals,4,2022-10-29,2022-10-29
+2217,Red Bull Campus Clutch 2022 - Canada National Finals,8,2022-10-15,2022-10-16
+2218,Red Bull Campus Clutch 2022 - Chile National Finals,3,2022-11-04,2022-12-11
+2219,Red Bull Campus Clutch 2022 - Colombia National Finals,3,2022-10-24,2022-10-28
+2220,Red Bull Campus Clutch 2022 - Czech Republic National Finals,4,2022-11-15,2022-11-15
+2221,Red Bull Campus Clutch 2022 - Denmark National Finals,3,2022-10-16,2022-10-16
+2222,Red Bull Campus Clutch 2022 - Dominican Republic National Finals,1,2022-11-05,2022-11-05
+2223,Red Bull Campus Clutch 2022 - Egypt National Finals,4,2022-10-11,2022-11-16
+2224,Red Bull Campus Clutch 2022 - Europe Last Chance Qualifier,1,2022-11-20,2022-11-20
+2225,Red Bull Campus Clutch 2022 - Germany National Finals,3,2022-11-06,2022-11-06
+2226,Red Bull Campus Clutch 2022 - Guatemala National Finals,1,2022-11-12,2022-11-12
+2227,Red Bull Campus Clutch 2022 - India National Finals,3,2022-09-24,2022-09-24
+2228,Red Bull Campus Clutch 2022 - Indonesia National Finals,3,2022-11-06,2022-11-07
+2229,Red Bull Campus Clutch 2022 - Ireland National Finals,4,2022-10-29,2022-11-12
+2230,Red Bull Campus Clutch 2022 - Italy National Finals,3,2022-10-27,2022-11-10
+2231,Red Bull Campus Clutch 2022 - Japan National Finals,3,2022-11-05,2022-11-06
+2232,Red Bull Campus Clutch 2022 - Latin America Last Chance Qualifier,1,2022-11-27,2022-11-27
+2233,Red Bull Campus Clutch 2022 - Lithuania National Finals,1,2022-11-19,2022-11-19
+2234,Red Bull Campus Clutch 2022 - Montenegro National Finals,1,2022-11-20,2022-11-20
+2235,Red Bull Campus Clutch 2022 - Netherlands National Finals,3,2022-11-05,2022-11-05
+2236,Red Bull Campus Clutch 2022 - New Zealand National Finals,1,2022-09-17,2022-09-17
+2237,Red Bull Campus Clutch 2022 - North America Last Chance Qualifier,31,2022-11-25,2022-11-27
+2238,Red Bull Campus Clutch 2022 - North Macedonia National Finals,1,2022-11-06,2022-11-06
+2239,Red Bull Campus Clutch 2022 - Norway National Finals,3,2022-11-04,2022-11-11
+2240,Red Bull Campus Clutch 2022 - Peru National Finals,3,2022-10-22,2022-10-22
+2241,Red Bull Campus Clutch 2022 - Poland National Finals,3,2022-10-23,2022-10-23
+2242,Red Bull Campus Clutch 2022 - Portugal National Finals,1,2022-11-12,2022-11-12
+2243,Red Bull Campus Clutch 2022 - Romania National Finals,3,2022-11-06,2022-11-06
+2244,Red Bull Campus Clutch 2022 - Slovakia National Finals,7,2022-11-12,2022-11-12
+2245,Red Bull Campus Clutch 2022 - Slovenia National Finals,7,2022-10-13,2022-10-13
+2246,Red Bull Campus Clutch 2022 - Spain National Finals,3,2022-11-13,2022-11-24
+2247,Red Bull Campus Clutch 2022 - Sweden National Finals,5,2022-10-30,2022-10-30
+2248,Red Bull Campus Clutch 2022 - Turkey National Finals,7,2022-11-06,2022-11-11
+2249,Red Bull Campus Clutch 2022 - USA National Finals,13,2022-11-20,2022-11-20
+2250,Red Bull Campus Clutch 2022 - United Kingdom National Finals,3,2022-11-20,2022-11-20
+2251,Red Bull Campus Clutch 2022 - World Final Stage,131,2022-12-13,2022-12-16
+2252,Red Bull Campus Clutch 2023 - World Finals,72,2023-11-21,2023-11-24
+2253,Red Bull Double Agent,2,2023-10-02,2023-10-02
+2254,Red Bull Home Ground,74,2021-01-23,2021-01-31
+2255,Red Bull Home Ground #2,39,2021-10-20,2021-11-07
+2256,Red Bull Home Ground #3,227,2022-08-25,2022-12-11
+2257,Red Bull Home Ground #4,37,2023-09-13,2023-11-05
+2258,Red Bull Home Ground #5,39,2024-09-29,2024-11-23
+2259,Red Bull Home Ground #5 Qualifiers,101,2024-08-06,2024-11-02
+2260,Red Bull Home Ground 2025,27,2025-11-13,2025-11-16
+2261,Red Bull Home Ground 2025 Americas Qualifiers,8,2025-05-18,2025-10-25
+2262,Red Bull Home Ground 2025 EMEA Qualifiers,132,2025-04-12,2025-10-18
+2263,Red Bull Home Ground 2025 Egypt Qualifier,3,2025-09-12,2025-10-09
+2264,Red Bull Home Ground 2025 Japan Qualifiers,43,2025-09-03,2025-10-23
+2265,Red Bull Home Ground UKRAINE FINAL STAGE,8,2025-11-26,2025-11-26
+2266,Red Bull Instalock 2024,6,2024-04-20,2024-04-21
+2267,Red Bull Instalock 2025,6,2025-05-02,2025-05-03
+2268,Renegades x NSG Invitational,56,2020-10-10,2020-10-18
+2269,Reroot Gaming - Valorant Balkan Showdown #1,8,2022-10-15,2022-10-29
+2270,Resistance Cup by G-SHOCK,7,2023-09-12,2023-09-14
+2271,Return of The Titans - End of The Chaos Final,14,2023-09-25,2023-10-02
+2272,Return of The Titans - FIRE,7,2023-04-25,2023-04-26
+2273,Return of The Titans - ICE,7,2023-03-21,2023-03-22
+2274,Return of The Titans - NATURE,7,2023-07-25,2023-07-26
+2275,Return of The Titans - RAIN,7,2023-07-03,2023-07-04
+2276,Return of The Titans - THUNDER,7,2023-05-25,2023-05-26
+2277,Riot Games ONE 2023,8,2023-12-02,2023-12-03
+2278,Riot Games ONE 2024,7,2024-12-14,2024-12-15
+2279,Riot Games ONE 2025: Quadrathlon,3,2025-12-05,2025-12-07
+2280,Riot Games ONE Pro Invitational 2022,6,2022-12-23,2022-12-24
+2281,Riot Games ONE Pro Invitational Online 2022,3,2022-12-10,2022-12-18
+2282,Riot Games ONE THE DEFIERS,1,2022-12-23,2022-12-23
+2283,Rise of Titans,31,2020-06-29,2020-07-01
+2284,Rise of Valour,62,2020-09-18,2020-09-24
+2285,Rise to Supremacy #5,22,2026-04-26,2026-04-26
+2286,Rising Stars 2025,14,2025-12-20,2025-12-21
+2287,Rising Stars Showdown #1,15,2023-09-16,2023-09-17
+2288,Rival 1,63,2021-11-26,2021-11-27
+2289,Rivals Contenders,63,2020-08-08,2020-09-13
+2290,Rive Fresh Cup,1,2020-06-28,2020-06-28
+2291,Rix.GG April Open,15,2021-04-24,2021-04-25
+2292,Rix.GG Cup,30,2020-09-26,2020-09-27
+2293,Rix.GG Huntress Trials August,15,2021-08-14,2021-08-15
+2294,Rix.GG Huntress Trials July,15,2021-07-10,2021-07-11
+2295,Rix.GG Kick-Off Community Tournament,30,2021-02-06,2021-02-07
+2296,Rix.GG March Open,15,2021-04-03,2021-04-04
+2297,Rix.GG May Open,15,2021-05-22,2021-05-23
+2298,Rix.GG NE Open July,15,2021-07-17,2021-07-18
+2299,Rix.GG Open August,15,2021-08-28,2021-08-29
+2300,Road 2 Invitational 2026,18,2026-07-23,2026-07-31
+2301,Road to VCL 2026: North Africa League,58,2026-03-02,2026-03-07
+2302,Road to VCL MENA: North Africa and Levant #1,14,2025-04-15,2025-04-18
+2303,Road to VCT 2022,77,2021-12-23,2022-01-30
+2304,Road to VCT 2022: Stage 2,12,2022-04-09,2022-04-24
+2305,Rooter Rise of Legends,28,2021-06-03,2021-06-10
+2306,Royal SEA Challenge,37,2021-11-08,2021-11-20
+2307,Rush Gaming Festival,14,2021-09-14,2021-09-16
+2308,Rush Gaming Festival #2,6,2021-10-24,2021-10-26
+2309,RÍSÍ Iceland Minor - BEACON Split 1,6,2023-03-18,2023-03-19
+2310,RÍSÍ Iceland Minor - BEACON Split 2,6,2022-11-12,2022-11-13
+2311,SBT Games VALORANT All Stars #1,15,2021-09-21,2021-09-26
+2312,SBT Games VALORANT All Stars #2,16,2022-02-28,2022-03-04
+2313,SEA Esports Championship 2021,92,2021-11-25,2022-01-16
+2314,SEA Esports Championship 2023,19,2023-03-13,2023-03-15
+2315,SEA Fire Championship 2020,38,2020-12-15,2021-01-14
+2316,SEA Kings Clash,1,2024-06-10,2024-06-10
+2317,SEN City Classic,8,2024-11-01,2024-11-03
+2318,SEN City Classic 2025,8,2025-11-06,2025-11-08
+2319,SHARK ATTACK! #1,41,2025-08-23,2025-08-24
+2320,SMU X QOR Cup,15,2022-03-19,2022-03-19
+2321,SOOP Challengers League 2024 Thailand: Split 2,70,2024-05-12,2024-07-19
+2322,SOOP Elite Cup 2024,31,2024-12-21,2024-12-30
+2323,SOOP Elite Cup 2025: Season 1,34,2025-03-08,2025-03-16
+2324,SOOP Elite Cup 2025: Season 2,50,2025-06-27,2025-07-06
+2325,SOOP Valorant League 2024,33,2024-10-12,2024-12-15
+2326,SOOP Valorant League 2025,27,2025-11-10,2025-12-07
+2327,Safe Mode Season 4,6,2022-05-05,2022-05-08
+2328,Safe Mode Season 5,6,2022-12-25,2022-12-28
+2329,Sakura Cup,14,2021-04-27,2021-04-28
+2330,Sakura Cup #10,55,2022-12-10,2022-12-11
+2331,Sakura Cup #2,41,2021-05-22,2021-05-23
+2332,Sakura Cup #3,56,2021-07-17,2021-07-18
+2333,Sakura Cup #4,56,2021-08-21,2021-08-22
+2334,Sakura Cup #5,48,2022-02-15,2022-02-16
+2335,Sakura Cup #6,16,2022-04-11,2022-04-12
+2336,Sakura Cup #7,44,2022-06-13,2022-06-14
+2337,Sakura Cup #8,49,2022-08-08,2022-08-09
+2338,Sakura Cup #9,37,2022-10-03,2022-10-04
+2339,Sakura Cup: April,31,2023-04-29,2023-04-30
+2340,Sakura Cup: August,53,2023-08-26,2023-08-27
+2341,Sakura Cup: July,95,2023-07-08,2023-07-09
+2342,Sakura Cup: June,15,2023-06-24,2023-06-25
+2343,Sakura Cup: May,15,2023-05-27,2023-05-28
+2344,Sakura Cup: November,47,2023-11-25,2023-11-26
+2345,Sakura Cup: October,64,2023-10-25,2023-10-26
+2346,Sakura Cup: September,67,2023-09-13,2023-09-14
+2347,Samurai Cup,29,2025-07-13,2025-07-27
+2348,Samurai Cup 2,22,2026-01-14,2026-01-18
+2349,Samurai Cup Series Gogatsu 2026,5,2026-07-01,2026-07-06
+2350,Samurai Cup: Winter Finals 2026,40,2026-07-23,2026-08-30
+2351,Saudi Womens eLeague 2024: Championship,6,2024-12-05,2024-12-07
+2352,Saudi Womens eLeague 2024: Major 1,31,2024-04-15,2024-04-30
+2353,Saudi Womens eLeague 2024: Major 3,31,2024-10-09,2024-10-22
+2354,Saudi Womens eLeague 2025: Major 1,19,2025-02-27,2025-03-21
+2355,Saudi Womens eLeague 2025: Major 2,27,2025-04-26,2025-05-16
+2356,Saudi Womens eLeague 2025: Major 3,34,2025-08-16,2025-08-29
+2357,Saudi Womens eLeague 2026: Major 1,14,2026-06-04,2026-06-06
+2358,Saudi eLeague 2024: Championship,6,2024-12-20,2024-12-22
+2359,Saudi eLeague 2024: Major 1,76,2024-02-21,2024-04-06
+2360,Saudi eLeague 2024: Major 2,83,2024-05-04,2024-06-08
+2361,Saudi eLeague 2024: Major 3,10,2024-09-25,2024-09-27
+2362,Saudi eLeague 2024: Major 4,55,2024-10-15,2024-11-01
+2363,Saudi eLeague 2025: Championship,6,2025-11-27,2025-11-28
+2364,Saudi eLeague 2025: Major 1,34,2025-03-24,2025-04-11
+2365,Saudi eLeague 2025: Major 2,34,2025-05-17,2025-06-19
+2366,Saudi eLeague 2025: Major 3,34,2025-09-24,2025-10-31
+2367,Saudi eLeague 2026: Major 1,14,2026-05-09,2026-05-11
+2368,Saudi eLeagues 2022: Season 1,19,2022-07-14,2022-07-23
+2369,Saudi eLeagues 2022: Season 2,19,2022-11-17,2022-11-26
+2370,Saudi eLeagues 2023: Season 1,22,2023-06-15,2023-07-05
+2371,Saudi eLeagues 2023: Season 2,22,2023-10-05,2023-10-21
+2372,Scottish Esports League - Season 5,8,2022-10-17,2022-11-19
+2373,Sean Gares OFF//SEASON Showdown,15,2023-12-09,2023-12-10
+2374,Sentinels Invitational 2023,8,2023-11-01,2023-11-03
+2375,Sentinels Invitational 2025,8,2025-12-04,2025-12-06
+2376,Sentinels Off-Season $5k Bounty Showmatch,1,2023-10-23,2023-10-23
+2377,Sentinels Showmatch 2024,2,2024-10-09,2024-10-22
+2378,Sentinels-Tarik Showmatch,1,2023-11-15,2023-11-15
+2379,Serenity Invitational,15,2021-01-02,2021-01-03
+2380,Shanghai Esports Masters 2024,3,2024-12-06,2024-12-07
+2381,Shanghai Esports Masters 2025,3,2025-12-04,2025-12-05
+2382,Shooting Stars,16,2020-10-18,2020-10-18
+2383,Show Your Valor,32,2020-09-29,2020-11-01
+2384,Showmatch Mãe x Pai,1,2023-11-04,2023-11-04
+2385,Skulls Exordium Cup,30,2023-06-17,2023-07-07
+2386,SkyNet Games 2025,4,2025-03-23,2025-03-23
+2387,Skyesports Champions Series,70,2022-05-11,2022-06-05
+2388,Skyesports Championship 2.0,26,2020-09-19,2020-10-02
+2389,Skyesports Championship 3.0,77,2021-09-22,2021-10-22
+2390,Skyesports Grand Slam,21,2022-03-03,2022-05-03
+2391,Skyesports Pro Invitational,26,2022-07-09,2022-07-21
+2392,Skyesports Pro Invitational 2.0,26,2022-08-18,2022-08-30
+2393,Skyesports SEA Championship Presented by AMD,37,2022-11-08,2022-11-25
+2394,Sneaky Major,15,2020-09-21,2020-10-16
+2395,Solary Cup,55,2020-05-12,2020-05-17
+2396,Source League 2026: Spring Split,51,2026-04-07,2026-05-24
+2397,Source League 2026: Summer Split,9,2026-08-24,2026-09-02
+2398,Source League 2026: Winter Split,51,2026-01-19,2026-03-10
+2399,Southern Esports Conference 2024: Spring Playoffs,6,2024-04-10,2024-04-22
+2400,Spike Drop 4: Momentum Series,59,2025-03-14,2025-03-16
+2401,Spike Drop: 003,33,2024-03-28,2024-03-30
+2402,Spike Drop: Operation V.E.G.A.S,55,2023-02-24,2023-02-26
+2403,Spike Drop: Vegas Heist,31,2023-10-27,2023-10-29
+2404,Spike Nations #4,18,2023-11-08,2023-12-16
+2405,Spike Nations #5,18,2024-11-18,2024-12-02
+2406,Spike Series 2026: Convergence EMEA - DACH,0,,
+2407,Spike Series 2026: LATAM South #1,8,2026-08-21,2026-08-23
+2408,Spike Series: Pulse #1,8,2026-05-06,2026-05-08
+2409,Spike Series: Pulse #2,16,2026-05-21,2026-05-24
+2410,Spike Series: Pulse #3,16,2026-07-02,2026-07-05
+2411,Spike Series: Pulse #4,16,2026-08-06,2026-08-09
+2412,Spike Series: Pulse #5,32,2026-09-18,2026-09-24
+2413,Spike Tour 2025,36,2025-04-20,2025-06-01
+2414,Spike Tour 2025: Split 2,30,2025-07-13,2025-08-24
+2415,Spike Tour 2026: Spring,44,2026-04-05,2026-07-05
+2416,Spike Tour 2026: Summer,30,2026-09-13,2026-10-25
+2417,Spike Tour 2026: Winter,37,2026-01-25,2026-03-01
+2418,Spotlight Series 2025: Americas,9,2025-12-12,2025-12-14
+2419,Spotlight Series 2025: Pacific x GES Asia,7,2025-10-30,2025-11-01
+2420,Spring Gauntlet 2023 Invitational,24,2023-05-14,2023-05-21
+2421,Spring Gauntlet Invitational,37,2022-03-25,2022-04-08
+2422,St. Petersburg Governor's Cup Valorant - Superfinal,16,2022-12-16,2022-12-18
+2423,St. Petersburg Governor's Cup Valorant - Superfinal 2023,14,2023-06-12,2023-06-14
+2424,Star Project: Season 1,8,2021-05-08,2021-05-30
+2425,SteelSeries Prime Invitational 2021 Indonesia,14,2021-06-16,2021-06-19
+2426,SteelSeries Prime Tournament Philippines,14,2021-06-16,2021-06-17
+2427,SteelSeries Prime Tournament: Vietnam,14,2021-06-09,2021-06-13
+2428,Strike Arabia Championship: Finals,14,2021-09-22,2021-09-25
+2429,Strike Arabia Championship: Season 1,42,2021-04-15,2021-04-26
+2430,Strike Arabia Championship: Season 2,42,2021-07-02,2021-07-12
+2431,Strike Arabia League: Season 1,109,2021-05-14,2021-05-23
+2432,Strike Arabia League: Season 2,112,2021-08-10,2021-08-19
+2433,Strike Arabia League: Season 3,56,2021-09-01,2021-09-07
+2434,Stryda VALORANT Nordic Clash,14,2023-12-09,2023-12-10
+2435,SubZero E-Games 2025,14,2025-03-22,2025-06-14
+2436,Summer Gauntlet Valorant Invitational,10,2022-09-21,2022-09-25
+2437,Summer Protocol 2026,9,2026-07-19,2026-08-02
+2438,Summoner Society X Game Changers 2023 Oceania,44,2023-11-10,2023-11-19
+2439,Summoners' Society: Agents of Artemis,8,2022-11-22,2022-11-27
+2440,Super Girl Gamer Pro - 2024 Championship,15,2024-08-11,2024-08-17
+2441,Super Girl Gamer Pro - Fall 2021: Championships,43,2021-10-16,2021-11-20
+2442,Super Girl Gamer Pro - Spring 2021: Championships,38,2021-05-15,2021-06-12
+2443,Super Girl Gamer Pro - Summer 2022: Championships,9,2022-09-17,2022-09-18
+2444,Super Girl Gamer Pro - Summer 2023: Championships,34,2023-09-15,2023-09-17
+2445,Super League Arena,8,2021-01-14,2021-01-21
+2446,Super League Arena - Galentine's,8,2022-02-05,2022-02-20
+2447,Super League Arena II,8,2021-07-19,2021-08-05
+2448,Superb Cup,16,2024-12-08,2024-12-15
+2449,Superdome 2022: Egypt,31,2022-10-16,2022-10-22
+2450,Superdome 2023: Colombia,6,2023-11-10,2023-11-12
+2451,Superdome 2023: Egypt,20,2023-10-23,2024-01-13
+2452,Supreme Oztdar Series 4,14,2026-02-16,2026-03-06
+2453,Surfshark Valorant Challenge,14,2022-03-05,2022-03-06
+2454,Surfshark Valorant Challenge #2,28,2023-03-04,2023-03-26
+2455,Sweden National League 2024 - Division 1,131,2024-09-07,2024-11-24
+2456,Sweden National League 2025: Division 1,51,2025-02-09,2025-06-13
+2457,Sweden National League Autumn 2025: Division 1,51,2025-09-03,2025-10-20
+2458,Swisscom Gaming Cup,4,2020-12-12,2020-12-12
+2459,SwitzerLAN 2025,3,2025-10-04,2025-10-04
+2460,SwitzerLAN 2026,3,2026-10-03,2026-10-03
+2461,Synnex FPT Gaming Tournament,14,2021-11-18,2021-11-21
+2462,T.E.N 2022 FPS SPECIAL,1,2022-12-22,2022-12-22
+2463,T1 Home Ground 2025,2,2025-07-25,2025-07-26
+2464,T1 x Nerd Street Gamers Invitational,14,2020-05-04,2020-05-04
+2465,T1 x Nerd Street Gamers Showdown,88,2020-06-20,2020-06-28
+2466,TEN 5_Valorant Korea vs. Japan,1,2022-10-03,2022-10-03
+2467,TEN Global Invitational 2023,9,2023-10-07,2023-10-08
+2468,TEN Global Invitational 2025,9,2025-11-08,2025-11-09
+2469,TEN Valorant Asia Invitational,9,2024-10-26,2024-10-27
+2470,TESFED Turkish Cup - 2023,14,2023-12-16,2023-12-24
+2471,TESFED Turkish Cup - 2024,3,2024-12-22,2024-12-27
+2472,TESFED Turkish Cup 2025,19,2025-12-04,2025-12-21
+2473,TGG Series 2022: Valorant,3,2022-07-15,2022-07-16
+2474,TGH x Beyond UK Open,15,2021-03-27,2021-03-27
+2475,TGH x Beyond UK Open #2,3,2021-08-07,2021-08-07
+2476,TGH x Birds of Prey: Episode 1,15,2021-07-25,2021-07-25
+2477,TGH x Birds of Prey: Episode 2,15,2021-09-04,2021-09-05
+2478,TGH x Birds of Prey: Episode 3,15,2022-03-15,2022-03-16
+2479,TGH x Birds of Prey: Episode 4,15,2022-09-10,2022-09-11
+2480,TGH x Birds of Prey: Episode 5,10,2023-05-07,2023-05-07
+2481,TGH x Birds of Prey: Episode 6,13,2023-07-15,2023-07-16
+2482,TGH x Birds of Prey: Episode 7,14,2023-09-23,2023-09-24
+2483,"TGH x HowToNoodle and Noizeeh Valorant UK, IE & Nordic Open",3,2021-06-06,2021-06-06
+2484,THE POKAL 2024,45,2024-10-04,2024-12-08
+2485,THE POKAL 2025,34,2025-11-08,2025-12-13
+2486,THE POKAL 2026,30,2026-08-31,2026-09-13
+2487,TLF Series Cup 2022,7,2022-07-21,2022-08-13
+2488,TOURSTAT Summer Clash,34,2020-09-07,2020-10-11
+2489,TUSOVKA CUP #2,14,2025-05-17,2025-05-18
+2490,TUSOVKA CUP AUTUMN 2025,40,2025-12-05,2025-12-07
+2491,TUSOVKA CUP SUMMER 2025,41,2025-08-29,2025-08-31
+2492,TUSOVKA CUP SUMMER 2026,3,2026-08-30,2026-08-30
+2493,TXG Valorant Circuit 2026: April,27,2026-04-17,2026-04-19
+2494,TXG Valorant Circuit 2026: February,23,2026-02-13,2026-02-15
+2495,TXG Valorant Circuit 2026: Invitational,14,2026-07-24,2026-08-02
+2496,TXG Valorant Circuit 2026: January,27,2026-01-16,2026-01-18
+2497,TXG Valorant Circuit 2026: March,27,2026-03-13,2026-03-15
+2498,TXG Valorant Circuit 2026: May,27,2026-05-29,2026-06-02
+2499,TXG Valorant Cup,14,2025-10-17,2025-10-18
+2500,Taiwan Excellence Gaming Cup - 2021,6,2021-12-09,2021-12-12
+2501,Taiwan National Youth Championship 2025 x KAOHSIUNG ESPORTS SHOWDOWN,15,2025-11-06,2025-11-16
+2502,Take the Throne,12,2020-05-04,2020-07-06
+2503,Taoyuan Esports Festival 2025,7,2025-09-04,2025-09-05
+2504,Tashbunny Cup 2026,6,2026-08-30,2026-08-31
+2505,Taça das Minas,8,2022-07-23,2022-07-31
+2506,Taça das Minas #15,7,2025-07-02,2025-07-06
+2507,Taça das Minas #16,7,2025-09-26,2025-09-28
+2508,Taça das Minas #17,7,2025-12-05,2025-12-07
+2509,Taça das Minas #18,7,2026-04-24,2026-04-26
+2510,Taça das Minas #19,7,2026-09-18,2026-09-20
+2511,Taça das Minas #2,8,2022-11-25,2022-11-27
+2512,Taça das Minas #5,31,2023-09-06,2023-09-10
+2513,Taça das Minas #6,31,2023-10-25,2023-10-29
+2514,Taça das Minas #7,21,2023-12-06,2023-12-10
+2515,Taça das Minas #8,7,2024-05-10,2024-05-12
+2516,Taça das Minas #9,7,2024-06-07,2024-06-09
+2517,Taça de Portugal 2026,3,2026-05-24,2026-05-31
+2518,TechnoBlood Climber Summit,6,2021-02-11,2021-02-14
+2519,Tenax Blitz Series 2,7,2026-03-14,2026-03-14
+2520,Tenax Blitz Series 3,7,2026-06-27,2026-06-28
+2521,Tenax Series Season 5,5,2025-10-14,2025-10-15
+2522,Tenax Series Season 6,11,2026-05-28,2026-05-29
+2523,Tenax Series Season 7,7,2026-08-22,2026-08-23
+2524,TernoisCom Games Cup 2025,3,2025-10-24,2025-11-11
+2525,TernoisCom Games Cup 2026,8,2026-10-25,2026-10-25
+2526,The 1st Championship,3,2020-06-27,2020-06-28
+2527,The A-Games,3,2023-10-08,2023-10-18
+2528,The Belgrade Fair,14,2022-11-26,2022-11-27
+2529,The Cozy Clash,80,2023-11-06,2023-12-17
+2530,The Esports Club Challenger Series 10,40,2023-10-01,2023-10-12
+2531,The Esports Club Challenger Series 2020,86,2020-08-26,2020-12-24
+2532,The Esports Club Challenger Series 6,14,2021-12-17,2021-12-24
+2533,The Esports Club Challenger Series 7,22,2022-04-11,2022-05-08
+2534,The Esports Club Challenger Series 8,34,2022-07-13,2022-08-14
+2535,The Esports Club Challenger Series 9,57,2022-09-30,2022-10-13
+2536,The Esports Club Community Cup,14,2022-06-17,2022-06-28
+2537,The Esports Club Gauntlet - Season 1,70,2021-06-12,2021-08-01
+2538,The Esports Club Gauntlet - Season 2,70,2021-08-09,2021-10-03
+2539,The Esports Club Gauntlet - Season 3,70,2021-10-10,2021-12-12
+2540,The Esports Club Gauntlet - Season 4,71,2022-01-08,2022-03-29
+2541,The Esports Club Invitational,15,2021-01-10,2021-01-24
+2542,The Esports Club Invitational: Season 3,14,2021-03-27,2021-04-04
+2543,The Esports Club Showdown,18,2021-11-16,2021-11-30
+2544,The Esports Club: The Arena Championship 2023,10,2023-11-09,2023-11-19
+2545,The Esports Club: The Arena Championship 2024,8,2024-01-17,2024-01-28
+2546,The Funhaver Invitational,83,2023-10-09,2023-10-11
+2547,The Funhaver Invitational - Fight or Flight 1,157,2024-09-13,2024-09-15
+2548,The Funhaver Invitational - Fight or Flight 2,147,2024-09-20,2024-09-22
+2549,The Funhaver Invitational - Fight or Flight 3,124,2024-09-27,2024-09-29
+2550,The Funhaver Invitational - Fight or Flight Finals,42,2024-10-11,2024-10-13
+2551,The Funhaver Invitational - Fight or Flight LCQ,64,2024-10-04,2024-10-06
+2552,The Funhaver Invitational - Initiation,97,2024-02-23,2024-02-25
+2553,The Funhaver Invitational - Lock N Load,30,2024-01-20,2024-01-21
+2554,The Funhaver Invitational - Lock N Load Pt2,91,2024-01-26,2024-01-28
+2555,The Funhaver Invitational - Qualifier 1,95,2023-10-23,2023-10-25
+2556,The Funhaver Invitational - Qualifier 2,85,2023-11-01,2023-11-03
+2557,The Funhaver Invitational - Qualifier 3,55,2023-11-06,2023-11-08
+2558,The Funhaver Invitational - Qualifier 3.5,55,2023-11-10,2023-11-12
+2559,The Funhaver Invitational - Qualifier 4,81,2023-11-17,2023-11-19
+2560,The Funhaver Invitational - Resurgence,62,2024-10-24,2024-10-27
+2561,The Funhaver Invitational - Resurgence 2,152,2024-10-31,2024-11-03
+2562,The Funhaver Invitational - Revival,27,2024-03-23,2024-03-24
+2563,The Funhaver Invitational - Revival 2,27,2024-04-06,2024-04-07
+2564,The Funhaver Invitational - Revival 3,109,2024-05-10,2024-05-12
+2565,The Funhaver Invitational - Revival 4,83,2024-05-24,2024-05-26
+2566,The Funhaver Invitational - Revival 5,83,2024-06-07,2024-06-09
+2567,The Funhaver Invitational - Slugfest,63,2024-04-21,2024-04-21
+2568,The Funhaver Invitational - Slugfest 2,31,2024-05-19,2024-05-19
+2569,The Funhaver Invitational - Summertime Slugfest,47,2024-06-01,2024-06-02
+2570,The Funhaver Invitational - Summertime Slugfest 2,31,2024-06-15,2024-06-16
+2571,The Funhaver Invitational - Summertime Slugfest 3,69,2024-06-28,2024-06-30
+2572,The Funhaver Invitational - Summertime Slugfest 4,111,2024-08-09,2024-08-11
+2573,The Funhaver Invitational - Summertime Slugfest 5,83,2024-08-16,2024-08-18
+2574,The Funhaver Invitational - Summertime Slugfest 6,112,2024-08-23,2024-08-25
+2575,The Funhaver Invitational LAN,21,2023-12-09,2023-12-10
+2576,The Funhaver Invitational: Catalyst,90,2024-03-08,2024-03-10
+2577,The Gathering 2025,4,2025-04-18,2025-04-19
+2578,The Gathering 2026,1,2026-04-04,2026-04-04
+2579,The Gathering Major - BEACON Split 1,3,2023-04-08,2023-04-08
+2580,The Genius League: Collegiate Cup,3,2026-03-21,2026-03-21
+2581,The Goose House - BEACON Split 1,15,2022-06-11,2022-06-12
+2582,The Goose House - BEACON Split 2,15,2022-11-05,2022-11-06
+2583,The Goose House Major - BEACON Split 1,15,2023-04-29,2023-04-30
+2584,The Knight's Forge,39,2023-09-21,2023-09-24
+2585,The Lil Bro Cup,4,2022-12-04,2022-12-04
+2586,The Major Six 2025,22,2025-07-06,2025-08-29
+2587,The Major Six 2026,15,2026-07-09,2026-08-15
+2588,The Reality,3,2025-09-20,2025-09-20
+2589,The Reyna's 2024 - Overdrive,4,2024-06-10,2024-06-15
+2590,TheGym Singapore Invitational,7,2020-10-03,2020-10-31
+2591,Tixinha & Sacy Invitational 2 By Bonoxs,11,2025-12-16,2025-12-21
+2592,Tixinha & Sacy Invitational By Bonoxs,9,2025-07-04,2025-07-06
+2593,Tixinha Invitational by BONOXS,14,2024-12-09,2024-12-15
+2594,TodosGamers Masters League,13,2020-10-16,2020-12-15
+2595,Toledo Matsuri 2025,7,2025-03-09,2025-04-06
+2596,Toronto VALORANT: Viper's Pit $2K Online Qualifier,55,2022-02-12,2022-02-13
+2597,Toronto VALORANT: Viper’s Pit $10K,63,2022-04-16,2022-04-17
+2598,Toronto VALORANT: Viper’s Pit $10K #2,63,2022-09-24,2022-09-25
+2599,Trinity Trials - Fall Trial,32,2022-09-03,2022-10-08
+2600,Trinity Trials - Spring Trial,36,2022-04-09,2023-04-30
+2601,Trinity Trials - Summer Trial,14,2022-07-02,2023-07-09
+2602,Trinity Trials - Winter Trial,32,2023-02-11,2023-02-26
+2603,Trovo Challenge Europe,7,2020-07-03,2020-07-05
+2604,Trovo Challenge North America,6,2020-07-03,2020-07-05
+2605,Trovo Titans Birthday Bash,6,2021-05-16,2021-05-16
+2606,Trovo Titans Smashing Beta,31,2021-12-04,2021-12-05
+2607,Tusovka Cup,30,2021-05-09,2021-05-09
+2608,"Twitch Rivals 2026: Abe's $100,000 Valorant Invitational",42,2026-07-17,2026-07-24
+2609,Twitch Rivals: VALORANT Launch Showdown,132,2020-06-05,2020-06-07
+2610,Tyler1 Money Match,1,2021-11-21,2021-11-21
+2611,Türkiye 100th Anniversary VALORANT Cup Finals,30,2023-10-27,2023-10-29
+2612,UK Circuit Spring 2025,12,2025-05-27,2025-06-18
+2613,UK Circuit Winter 2025,14,2025-02-26,2025-03-05
+2614,UNICEF x 95X Charity Tournament,31,2023-03-17,2023-03-19
+2615,USC Coliseum Cup,6,2026-10-17,2026-10-17
+2616,USC Games Expo LAN,6,2026-05-12,2026-05-12
+2617,UTAGE Season 2,13,2020-12-08,2020-12-10
+2618,UTAGE Season 3,12,2021-10-19,2021-10-21
+2619,UTAGE Season 5,14,2022-08-26,2022-08-28
+2620,UTT Arena 2025,3,2025-11-29,2025-11-30
+2621,Ultimaster AOC,31,2021-01-06,2021-01-17
+2622,Ultimasters AOC #2,15,2021-06-15,2021-06-27
+2623,Ultimasters AOC #3,31,2022-06-23,2022-07-01
+2624,Underdogs #1,7,2020-07-03,2020-07-03
+2625,Underdogs #2,13,2020-11-27,2020-11-29
+2626,Underdogs #3,13,2020-12-18,2020-12-20
+2627,Underdogs #4,13,2021-01-15,2021-01-17
+2628,Underground Womens Cup,18,2023-10-24,2023-10-28
+2629,Unified Premier League - Fall 2022,4,2022-11-10,2022-11-21
+2630,University Challengers Arena,3,2023-10-15,2023-11-18
+2631,University Esports Championship 2025,4,2025-07-18,2025-07-27
+2632,University Esports Masters 2023,8,2023-05-27,2023-07-08
+2633,V1sionaries,7,2021-06-04,2021-06-04
+2634,VAL//HALLA 2026: Season 1,3,2026-08-30,2026-08-30
+2635,VALO2ASIA Invitational,3,2021-06-27,2021-06-27
+2636,VALORANT @ LAN ETS 2022,10,2022-05-14,2022-05-15
+2637,VALORANT @ LAN ETS 2023,10,2023-05-13,2023-05-14
+2638,VALORANT ACE EP.01,6,2021-04-27,2021-04-29
+2639,VALORANT ACE EP.02,4,2021-10-22,2021-10-23
+2640,VALORANT Academy EU - Closed Series,4,2020-05-10,2020-05-10
+2641,VALORANT Academy EU - Open Series,3,2020-05-08,2020-05-08
+2642,VALORANT Academy NA - Open Series,3,2020-05-08,2020-05-08
+2643,VALORANT China National Competition: Season 2,19,2024-06-27,2024-07-14
+2644,VALORANT China National Competition: Season 2 - Wanyoo Qualifier,1,2024-06-09,2024-06-09
+2645,VALORANT China National Competition: Season 4,19,2025-06-14,2025-07-13
+2646,VALORANT China National Competition: Season 4 - 3rd Party Breakout,6,2025-06-05,2025-06-06
+2647,VALORANT Clutch,3,2021-10-24,2021-10-24
+2648,VALORANT EAST: UNITED: Season 3: Split 2 - Finals,6,2024-07-21,2024-07-24
+2649,VALORANT East: United: Season 2: Stage 2 - Finals,10,2023-06-01,2023-06-04
+2650,VALORANT East: United: Season 2: Stage 2 - Last Chance Qualifier,19,2023-05-26,2023-05-28
+2651,VALORANT East: United: Season 2: Stage 2 - Monthly Cup #1,6,2023-04-24,2023-04-25
+2652,VALORANT East: United: Season 2: Stage 2 - Monthly Cup #2,6,2023-05-24,2023-05-25
+2653,VALORANT East: United: Season 2: Stage 2 - Weekly Cup #1,7,2023-04-04,2023-04-05
+2654,VALORANT East: United: Season 2: Stage 2 - Weekly Cup #2,7,2023-04-11,2023-04-12
+2655,VALORANT East: United: Season 2: Stage 2 - Weekly Cup #3,7,2023-04-18,2023-04-19
+2656,VALORANT East: United: Season 2: Stage 2 - Weekly Cup #4,7,2023-05-02,2023-05-03
+2657,VALORANT East: United: Season 2: Stage 2 - Weekly Cup #5,7,2023-05-09,2023-05-10
+2658,VALORANT East: United: Season 2: Stage 2 - Weekly Cup #6,7,2023-05-16,2023-05-17
+2659,VALORANT East: United: Season 2: Stage 3 - Finals,14,2023-11-02,2023-11-10
+2660,VALORANT East: United: Season 2: Stage 3 - Last Chance Cup,7,2023-10-26,2023-10-29
+2661,VALORANT East: United: Season 2: Stage 3 - League,28,2023-09-15,2023-10-19
+2662,VALORANT East: United: Season 2: Stage 3 - Monthly Cup,14,2023-10-12,2023-10-15
+2663,VALORANT East: United: Season 3: Split 1 - Finals,12,2024-03-10,2024-03-29
+2664,VALORANT East: United: Season 3: Split 1 - Monthly Cups,12,2024-01-27,2024-03-10
+2665,VALORANT East: United: Season 3: Split 1 - Weekly Cups,30,2024-01-13,2024-02-16
+2666,VALORANT East: eLadies Cup #1,3,2023-04-16,2023-04-16
+2667,VALORANT GCC Open Cup,8,2021-03-18,2021-03-20
+2668,VALORANT Genius League SoCal LAN 2025,4,2025-11-15,2025-11-15
+2669,VALORANT Greenwich NTTU Cup 2022,7,2022-09-24,2022-10-02
+2670,VALORANT LEGENDS Winter,18,2021-10-14,2021-12-02
+2671,VALORANT MENA Al Majd,42,2023-05-05,2023-05-17
+2672,VALORANT MENA Al Majd - 2024 Series 1,70,2024-02-29,2024-03-18
+2673,VALORANT MENA Al Majd - 2024 Series 2,84,2024-05-31,2024-06-15
+2674,VALORANT MENA Al Majd - 2025 Series 1,25,2025-07-06,2025-07-13
+2675,VALORANT MENA Al Majd - Series 2,66,2023-07-10,2023-07-24
+2676,VALORANT MENA Al Majd - Series 3,94,2023-09-15,2023-09-28
+2677,VALORANT Open Tour France 2023: Playoffs,14,2023-05-18,2023-05-21
+2678,VALORANT Open Tour France 2024: Mid-Season Cup,6,2024-04-20,2024-04-21
+2679,VALORANT Open Tour France 2024: Playoffs,14,2024-07-12,2024-07-14
+2680,VALORANT Open Tour France 2024: Stage 1,8,2024-02-18,2024-02-18
+2681,VALORANT Open Tour France 2024: Stage 2,8,2024-03-10,2024-03-10
+2682,VALORANT Open Tour France 2024: Stage 3,14,2024-03-30,2024-04-01
+2683,VALORANT Open Tour France 2024: Stage 4,8,2024-05-19,2024-05-19
+2684,VALORANT Open Tour France 2024: Stage 5,8,2024-06-09,2024-06-09
+2685,VALORANT Open Tour France 2025: Last Chance Qualifier,7,2025-03-09,2025-03-09
+2686,VALORANT Rise: LATAM North,28,2023-04-22,2023-06-04
+2687,VALORANT Rise: LATAM South,28,2023-04-23,2023-06-03
+2688,VALORANT Super Cup,3,2024-01-05,2024-01-05
+2689,VALORANT UA BATTLE #1,14,2022-08-13,2022-08-14
+2690,VALORANT UK & I Skirmish,154,2021-05-31,2021-06-27
+2691,VALORANT UK Circuit 2026 - August Cup,3,2026-08-29,2026-08-30
+2692,VALORANT UK Circuit 2026 - February Cup,10,2026-02-28,2026-03-01
+2693,VALORANT UK Circuit 2026 - January Cup,3,2026-01-24,2026-01-25
+2694,VALORANT UK Circuit 2026 - June Cup,3,2026-06-28,2026-06-28
+2695,VALORANT UK Circuit 2026 - March Cup,10,2026-03-21,2026-03-22
+2696,VALORANT UK Circuit 2026 - Septober Cup,3,2026-10-24,2026-10-25
+2697,VALORANT UK Circuit Autumn 2024,14,2024-10-16,2024-11-06
+2698,VALORANT UK Circuit Autumn 2025,14,2025-11-12,2025-12-10
+2699,VALORANT Vietnam: Rising Stars,21,2023-01-07,2023-02-03
+2700,VALORANT Vietnam: Rising Stars 2,7,2023-03-24,2023-03-26
+2701,VALORANT WINTER CUP 2024,4,2024-03-02,2024-03-03
+2702,VALORANT Zone Invitational #2,14,2020-08-21,2020-08-23
+2703,VALORANT Éire - Ireland National League 2024,34,2024-09-03,2024-10-19
+2704,VALORANT Éire - Ireland National League Spring 2025,3,2025-02-23,2025-02-23
+2705,VALORANT Éire - Ireland National League Summer 2025,8,2025-06-14,2025-06-15
+2706,VALORÃO Cup - Invitational,55,2020-10-15,2020-11-06
+2707,VCL 26: Americas Last Chance Qualifier,4,2026-07-28,2026-07-30
+2708,VCL 26: Latin America Finals,1,2026-07-27,2026-07-27
+2709,VCOM SPRING CUP,2,2023-04-30,2023-04-30
+2710,VCS Midwest Showdown,8,2021-12-04,2021-12-05
+2711,"VCS VALORANT $5,000 LAN",8,2022-03-12,2022-03-13
+2712,VCT 2025: Americas Ascension,19,2025-10-14,2025-10-26
+2713,VCT 2025: Americas Kickoff,22,2025-01-16,2025-02-08
+2714,VCT 2025: Americas Stage 1,42,2025-03-21,2025-05-04
+2715,VCT 2025: Americas Stage 2,43,2025-07-18,2025-08-31
+2716,VCT 2025: China Ascension,16,2025-10-11,2025-10-19
+2717,VCT 2025: China Kickoff,22,2025-01-11,2025-01-25
+2718,VCT 2025: China Stage 1,42,2025-03-13,2025-05-04
+2719,VCT 2025: China Stage 2,43,2025-07-03,2025-08-24
+2720,VCT 2025: EMEA Ascension,12,2025-10-18,2025-10-26
+2721,VCT 2025: EMEA Kickoff,22,2025-01-15,2025-02-09
+2722,VCT 2025: EMEA Stage 1,42,2025-03-26,2025-05-18
+2723,VCT 2025: EMEA Stage 2,43,2025-07-16,2025-08-31
+2724,VCT 2025: Pacific Ascension,27,2025-10-14,2025-10-26
+2725,VCT 2025: Pacific Kickoff,22,2025-01-18,2025-02-09
+2726,VCT 2025: Pacific Stage 1,42,2025-03-22,2025-05-11
+2727,VCT 2025: Pacific Stage 2,43,2025-07-15,2025-08-31
+2728,VCT 2026: Americas Kickoff,30,2026-01-15,2026-02-15
+2729,VCT 2026: Americas Stage 1,42,2026-04-10,2026-05-24
+2730,VCT 2026: Americas Stage 2,60,2026-07-16,2026-09-06
+2731,VCT 2026: China Kickoff,30,2026-01-22,2026-02-09
+2732,VCT 2026: China Stage 1,48,2026-03-31,2026-05-10
+2733,VCT 2026: China Stage 2,66,2026-07-09,2026-08-23
+2734,VCT 2026: China Threshold,22,2026-10-20,2026-11-01
+2735,VCT 2026: EMEA Kickoff,30,2026-01-20,2026-02-15
+2736,VCT 2026: EMEA Stage 1,42,2026-04-01,2026-05-17
+2737,VCT 2026: EMEA Stage 2,60,2026-07-15,2026-08-30
+2738,VCT 2026: Pacific Kickoff,30,2026-01-22,2026-02-15
+2739,VCT 2026: Pacific Stage 1,42,2026-04-03,2026-05-17
+2740,VCT 2026: Pacific Stage 2,60,2026-07-16,2026-09-06
+2741,VCT 2027: America Kickoff - North America Open Qualifier,0,,
+2742,VCT 2027: EMEA Kickoff - Europe Qualifier,0,,
+2743,VCT OFF//SEASON Spotlight Series 2024: Americas,9,2024-12-06,2024-12-08
+2744,VCT OFF//SEASON Spotlight Series 2024: EMEA,26,2024-10-10,2024-10-24
+2745,VCT OFF//SEASON Spotlight Series 2024: Pacific,7,2024-12-19,2024-12-22
+2746,VERSUS LEGENDS,104,2021-01-19,2021-01-24
+2747,VERSUS LEGENDS II,120,2021-02-19,2021-02-28
+2748,VERSUS LEGENDS III,56,2021-12-11,2021-12-19
+2749,VLRxRealistic Cup,15,2021-01-13,2021-01-16
+2750,VLX: Lotus Series #1,16,2026-02-05,2026-02-08
+2751,VLX: Lotus Series #2,16,2026-04-09,2026-04-12
+2752,VQ Games Cup #1,4,2021-11-05,2021-11-10
+2753,Valcord Cup - EU1,8,2022-09-24,2022-09-24
+2754,Valhalla Invitational,60,2020-05-02,2020-05-24
+2755,Valorant AGS Cup,16,2022-10-14,2022-10-23
+2756,Valorant Balkan League #4,8,2022-05-22,2022-05-29
+2757,Valorant Balkan League - No Risk No Story,8,2022-10-29,2022-10-30
+2758,Valorant Balkan League - Season 1,10,2022-06-30,2022-07-09
+2759,Valorant Balkan League - Season 2,70,2022-07-26,2022-08-21
+2760,Valorant Balkan League - Season 3,76,2022-11-12,2022-12-29
+2761,Valorant Balkan League - Unlimited #1,28,2022-08-27,2022-09-11
+2762,Valorant Balkan League Unlimited - Monthly #1,5,2022-11-19,2022-11-20
+2763,Valorant Beltway Battles Spring 2023,7,2023-04-08,2023-04-15
+2764,Valorant Challenge 2,17,2020-10-13,2020-10-18
+2765,Valorant Champions 2021,27,2021-12-01,2021-12-12
+2766,Valorant Champions 2022,34,2022-08-31,2022-09-18
+2767,Valorant Champions 2023,34,2023-08-06,2023-08-26
+2768,Valorant Champions 2024,34,2024-08-01,2024-08-25
+2769,Valorant Champions 2025,34,2025-09-12,2025-10-05
+2770,Valorant Champions 2026,34,2026-09-24,2026-10-18
+2771,Valorant Champions Tour Stage 1: Masters Reykjavík,24,2022-04-10,2022-04-24
+2772,Valorant Champions Tour Stage 2: Masters Copenhagen,24,2022-07-10,2022-07-24
+2773,Valorant Champions Tour Stage 2: Masters Reykjavík,18,2021-05-24,2021-05-30
+2774,Valorant Champions Tour Stage 3: Masters Berlin,28,2021-09-10,2021-09-19
+2775,Valorant Conquerors Championship,180,2021-07-09,2022-02-27
+2776,Valorant Contenders Cup,63,2020-10-03,2020-10-04
+2777,Valorant Defenders LAN,3,2020-12-22,2020-12-27
+2778,Valorant Defenders LAS,3,2020-12-22,2020-12-26
+2779,Valorant East: United - Monthly Cup #1,6,2022-02-22,2022-02-23
+2780,Valorant East: United - Monthly Cup #2,6,2022-03-21,2022-03-23
+2781,Valorant East: United - Season 2 - Stage 1 - Finals,10,2023-03-23,2023-03-26
+2782,Valorant East: United - Season 2 - Stage 1 - Last Chance Qualifier,19,2023-03-06,2023-03-08
+2783,Valorant East: United - Season 2 - Stage 1 - Monthly Cup #1,6,2023-01-26,2023-01-27
+2784,Valorant East: United - Season 2 - Stage 1 - Monthly Cup #2,6,2023-02-28,2023-03-01
+2785,Valorant East: United - Season 2 - Stage 1 - Weekly Cup #1,7,2023-01-03,2023-01-04
+2786,Valorant East: United - Season 2 - Stage 1 - Weekly Cup #2,7,2023-01-10,2023-01-11
+2787,Valorant East: United - Season 2 - Stage 1 - Weekly Cup #3,7,2023-01-17,2023-01-18
+2788,Valorant East: United - Season 2 - Stage 1 - Weekly Cup #4,7,2023-01-31,2023-02-01
+2789,Valorant East: United - Season 2 - Stage 1 - Weekly Cup #5,7,2023-02-07,2023-02-08
+2790,Valorant East: United - Season 2 - Stage 1 - Weekly Cup #6,7,2023-02-21,2023-02-22
+2791,Valorant East: United - Season Final,10,2022-03-26,2022-03-27
+2792,Valorant East: United - Stage 2 - Last Chance Qualifier,16,2022-07-01,2022-07-03
+2793,Valorant East: United - Stage 2 - Monthly Cup #1,6,2022-05-28,2022-05-29
+2794,Valorant East: United - Stage 2 - Monthly Cup #2,6,2022-06-25,2022-06-26
+2795,Valorant East: United - Stage 2 - Season Finals,10,2022-07-07,2022-07-09
+2796,Valorant East: United - Stage 2 - Weekly Cup #1,7,2022-05-06,2022-05-08
+2797,Valorant East: United - Stage 2 - Weekly Cup #2,7,2022-05-13,2022-05-15
+2798,Valorant East: United - Stage 2 - Weekly Cup #3,7,2022-05-20,2022-05-22
+2799,Valorant East: United - Stage 2 - Weekly Cup #4,7,2022-06-03,2022-06-05
+2800,Valorant East: United - Stage 2 - Weekly Cup #5,7,2022-06-10,2022-06-12
+2801,Valorant East: United - Stage 2 - Weekly Cup #6,7,2022-06-17,2022-06-19
+2802,Valorant East: United - Stage 3 - Last Chance Qualifier,13,2022-11-05,2022-11-06
+2803,Valorant East: United - Stage 3 - Monthly Cup #1,6,2022-10-01,2022-10-02
+2804,Valorant East: United - Stage 3 - Monthly Cup #2,6,2022-10-29,2022-10-30
+2805,Valorant East: United - Stage 3 - Season Finals,10,2022-11-11,2022-11-13
+2806,Valorant East: United - Stage 3 - Weekly Cup #1,7,2022-09-10,2022-09-11
+2807,Valorant East: United - Stage 3 - Weekly Cup #2,7,2022-09-17,2022-09-18
+2808,Valorant East: United - Stage 3 - Weekly Cup #3,3,2022-09-25,2022-09-25
+2809,Valorant East: United - Stage 3 - Weekly Cup #4,7,2022-10-08,2022-10-09
+2810,Valorant East: United - Stage 3 - Weekly Cup #5,7,2022-10-15,2022-10-16
+2811,Valorant East: United - Stage 3 - Weekly Cup #6,7,2022-10-21,2022-10-22
+2812,Valorant Elite Showdown,143,2021-11-06,2021-11-14
+2813,Valorant Fast!,7,2020-12-19,2020-12-20
+2814,Valorant Hero Challenge,8,2020-12-09,2020-12-12
+2815,Valorant Immortal Cup: Season 1,32,2025-02-28,2025-03-09
+2816,Valorant Immortal Cup: Season 2,32,2025-06-27,2025-07-06
+2817,Valorant India Invitational by Galaxy Racer,43,2022-10-14,2022-11-20
+2818,Valorant Indonesia 2025: Summer Protocol,36,2025-07-13,2025-08-04
+2819,Valorant Indonesia 2025: Summer Protocol Campus Stage,32,2025-07-17,2025-07-20
+2820,Valorant Indonesia CONNEXT 2023,3,2023-11-12,2023-11-12
+2821,Valorant Indonesia CONNEXT 2024,2,2024-12-07,2024-12-07
+2822,Valorant Indonesia Campus Protocol 2024,24,2024-11-12,2024-11-20
+2823,Valorant Indonesia: High School Brawl 2025,8,2025-11-21,2025-11-23
+2824,Valorant King Cup,7,2023-05-06,2023-05-06
+2825,Valorant MA-SERIES,14,2022-01-15,2022-01-29
+2826,Valorant Master Series,41,2020-09-29,2020-12-13
+2827,Valorant Masters Bangkok 2025,17,2025-02-20,2025-03-02
+2828,Valorant Masters London 2026,24,2026-06-06,2026-06-21
+2829,Valorant Masters Santiago 2026,24,2026-02-28,2026-03-15
+2830,Valorant Masters Toronto 2025,25,2025-06-07,2025-06-22
+2831,Valorant National League 2023-1,12,2023-05-30,2023-06-29
+2832,Valorant Open Tour France 2022: Finals,14,2022-08-04,2022-08-07
+2833,Valorant Open Tour France 2022: Stage 1,8,2022-02-27,2022-02-27
+2834,Valorant Open Tour France 2022: Stage 2,8,2022-03-20,2022-03-20
+2835,Valorant Open Tour France 2022: Stage 3,8,2022-05-01,2022-05-01
+2836,Valorant Open Tour France 2022: Stage 4,8,2022-05-29,2022-05-29
+2837,Valorant Open Tour France 2022: Stage 5,8,2022-07-03,2022-07-03
+2838,Valorant Open Tour France 2022: Stage 6,8,2022-07-24,2022-07-24
+2839,Valorant Open Tour France 2022: Stage 7,8,2022-10-16,2022-10-16
+2840,Valorant Open Tour France 2023: Stage 1,8,2023-02-12,2023-02-12
+2841,Valorant Open Tour France 2023: Stage 2,8,2023-03-05,2023-03-05
+2842,Valorant Open Tour France 2023: Stage 3,8,2023-03-26,2023-03-26
+2843,Valorant Open Tour France 2023: Stage 4,14,2023-04-08,2023-04-10
+2844,Valorant Open Tour France 2023: Stage 5,8,2023-04-23,2023-04-23
+2845,Valorant Open Tour France 2023: Stage 6,8,2023-05-07,2023-05-07
+2846,Valorant Open Tour France: Fall Qualifier,62,2021-10-24,2021-11-07
+2847,Valorant Open Tour France: Main Event,7,2021-11-20,2021-11-27
+2848,Valorant Open Tour France: Spring Qualifier,62,2021-05-09,2021-05-23
+2849,Valorant Open Tour France: Summer Qualifier,61,2021-06-26,2021-07-04
+2850,Valorant Prime League,104,2026-05-26,2026-07-28
+2851,Valorant Radiant Asia Invitational,17,2024-11-21,2024-12-01
+2852,Valorant Radiant International Invitational,15,2025-12-18,2025-12-21
+2853,Valorant Reflex Tournament EP02,4,2021-12-23,2021-12-26
+2854,Valorant Regional League CIS: Milestone,50,2022-01-27,2022-02-23
+2855,Valorant Regional League DACH: Evolution,86,2022-01-26,2022-03-20
+2856,Valorant Regional League DACH: Evolution - Stage 2,34,2022-05-09,2022-07-03
+2857,Valorant Regional League DACH: Evolution - Unity,58,2022-10-03,2022-12-17
+2858,Valorant Regional League DACH: Relegation,3,2022-04-26,2022-04-27
+2859,Valorant Regional League DACH: Relegation - Stage 2,2,2022-07-07,2022-07-07
+2860,Valorant Regional League East: Relegation,2,2022-03-30,2022-03-31
+2861,Valorant Regional League East: Surge,93,2022-01-25,2022-03-19
+2862,Valorant Regional League East: Surge - Stage 2,62,2022-05-11,2022-07-03
+2863,Valorant Regional League East: Surge - Stage 2 Promotion,2,2022-07-26,2022-07-27
+2864,Valorant Regional League France: Revolution,61,2022-01-27,2022-03-20
+2865,Valorant Regional League France: Revolution - Coupe De France,30,2022-10-27,2022-12-11
+2866,Valorant Regional League France: Revolution - Stage 2,95,2022-05-09,2022-07-03
+2867,Valorant Regional League France: Revolution - Stage 2 Relegation,7,2022-08-18,2022-08-21
+2868,Valorant Regional League MENA: Resilience,119,2022-02-14,2022-03-25
+2869,Valorant Regional League MENA: Resilience - Stage 2,140,2022-04-29,2022-07-07
+2870,Valorant Regional League MENA: Resilience Off-Season,28,2022-12-12,2022-12-20
+2871,Valorant Regional League Northern Europe: Polaris,70,2022-01-27,2022-03-20
+2872,Valorant Regional League Northern Europe: Polaris - Stage 2,55,2022-04-28,2022-07-03
+2873,Valorant Regional League Spain: Promotion,1,2022-04-25,2022-04-25
+2874,Valorant Regional League Spain: Rising,90,2022-01-26,2022-03-20
+2875,Valorant Regional League Spain: Rising - Stage 2,97,2022-05-10,2022-07-07
+2876,Valorant Regional League Turkey: Birlik - Stage 1,73,2022-01-25,2022-03-19
+2877,Valorant Regional League Turkey: Birlik - Stage 2,72,2022-04-25,2022-07-02
+2878,Valorant Regional Leagues 2022: Finals,14,2022-07-28,2022-08-05
+2879,Valorant Scrimmage Season 1,24,2021-03-10,2021-06-30
+2880,Valorant Student Grounds 2026,8,2026-04-14,2026-04-26
+2881,Valorant Sunday Showdown #24,15,2020-10-04,2020-10-04
+2882,Valorant Sunday Showdown #36,31,2020-12-27,2020-12-27
+2883,Valorant Sunday Showdown #37,31,2021-01-03,2021-01-03
+2884,Valorant Sunday Showdown #38,31,2021-01-10,2021-01-10
+2885,Valorant Sunday Showdown #39,31,2021-01-17,2021-01-17
+2886,Valorant Sunday Showdown #40,31,2021-01-24,2021-01-24
+2887,Valorant Sunday Showdown #41,31,2021-01-31,2021-01-31
+2888,Valorant Sunday Showdown #42,31,2021-02-07,2021-02-07
+2889,Valorant Sunday Showdown #43,31,2021-02-14,2021-02-14
+2890,Valorant Sunday Showdown #44,31,2021-02-21,2021-02-22
+2891,Valorant Sunday Showdown #45,31,2021-02-28,2021-02-28
+2892,Valorant Sunday Showdown #46,31,2021-03-07,2021-03-07
+2893,Valorant Sunday Showdown #47,15,2021-03-14,2021-03-14
+2894,Valorant Sunday Showdown #48,15,2021-03-21,2021-03-21
+2895,Valorant Sunday Showdown #49,15,2021-03-28,2021-03-28
+2896,Valorant Sunday Showdown #50,15,2021-04-11,2021-04-11
+2897,Valorant Sunday Showdown #51,15,2021-04-18,2021-04-18
+2898,Valorant Sunday Showdown #52,15,2021-04-25,2021-04-25
+2899,Valorant Sunday Showdown #53,15,2021-05-02,2021-05-02
+2900,Valorant Sunday Showdown #54,15,2021-05-16,2021-05-16
+2901,Valorant Sunday Showdown #55,15,2021-05-23,2021-05-23
+2902,Valorant Sunday Showdown #56,15,2021-05-30,2021-05-30
+2903,Valorant Sunday Showdown #57,15,2021-06-06,2021-06-06
+2904,Valorant Sunday Showdown #58,15,2021-06-13,2021-06-13
+2905,Valorant Sunday Showdown #59,15,2021-06-20,2021-06-20
+2906,Valorant Sunday Showdown #60,7,2021-06-27,2021-06-27
+2907,Valorant TH Ignition Tournament,3,2021-07-07,2021-07-12
+2908,Valorant Thailand Series: Kickoff,162,2025-03-04,2025-03-16
+2909,Valorant Thailand Series: Preseason,92,2025-05-11,2025-07-06
+2910,Valorant Underground: LATAM North,9,2024-12-10,2024-12-13
+2911,Valorant Underground: LATAM South,15,2024-12-03,2024-12-08
+2912,Valorant University Championship Season 2,14,2023-03-04,2023-03-21
+2913,Valorant Vanguard Series,14,2025-05-21,2025-05-28
+2914,Valorant Versus,56,2020-09-01,2020-11-14
+2915,Valorant Warfare,23,2020-10-13,2020-11-08
+2916,Valorant Zone Invitational,3,2020-07-26,2020-07-26
+2917,Vietnam Gaming League,6,2022-12-10,2022-12-18
+2918,Villager Esports Champonship,14,2021-05-13,2021-05-16
+2919,Virtuocity Battleground Qatar,7,2025-02-15,2025-02-17
+2920,Vitality European Open,42,2020-07-05,2020-07-12
+2921,Vortex Hidden Gem,39,2024-11-09,2024-12-01
+2922,Vtuber Saikyo Tournament Act 2,16,2025-11-08,2025-11-09
+2923,W Click Pro Series Invitational,14,2020-08-29,2020-09-09
+2924,WALL-E Cup,14,2024-10-19,2024-10-27
+2925,WCS20 SEA Community Tournament,52,2020-12-18,2020-12-20
+2926,WD Black Cup: Season 2,16,2021-11-21,2021-11-28
+2927,WD Black Cup: Season 3,15,2022-04-17,2022-04-24
+2928,WDG Challengers League 2024 Korea: Split 1,128,2024-01-17,2024-04-19
+2929,WDG Challengers League 2024 Korea: Split 2,40,2024-05-06,2024-07-27
+2930,WDG Challengers League 2024 Korea: Split 3,41,2024-08-12,2024-12-09
+2931,WESL x Toonation,7,2020-06-06,2020-06-14
+2932,WGR Contract Cups,3,2020-11-28,2020-11-28
+2933,WSOE Online V,29,2021-01-19,2021-01-26
+2934,Wandercon,7,2023-01-19,2023-02-03
+2935,Washu Cup #1,4,2021-02-13,2021-02-13
+2936,Wave Esports Invitational,31,2020-06-23,2020-06-24
+2937,Wave OCE 2025: Proteus,34,2025-09-04,2025-09-28
+2938,Wave OCE 2026: Breakwater Open,58,2026-08-31,2026-10-03
+2939,Wave OCE 2026: Rising Tides Split 1,121,2026-04-05,2026-04-29
+2940,Wave OCE 2026: Rising Tides Split 2,123,2026-05-03,2026-05-31
+2941,WePlay x Valorant UA Community Battle,14,2022-09-24,2022-09-25
+2942,WePlay! Invitational,20,2020-07-13,2020-07-19
+2943,Welsh Esports League: Season 10,3,2026-02-24,2026-03-03
+2944,Welsh Esports League: Season 11,3,2026-08-11,2026-08-18
+2945,Welsh Esports League: Season 7,3,2025-02-10,2025-02-17
+2946,Welsh Esports League: Season 8,3,2025-08-18,2025-08-25
+2947,Welsh Esports League: Season 9,3,2025-11-17,2025-11-24
+2948,Whiteboard Valorant Cup 2023,7,2023-04-20,2023-04-26
+2949,WiGame Origins,4,2025-11-22,2025-11-25
+2950,WiPCUP #4,30,2025-12-19,2025-12-20
+2951,Windy City Valorant Open,63,2023-05-06,2023-05-07
+2952,Wingwoman Series,62,2024-12-06,2024-12-15
+2953,Women in Games: Community Cup,32,2021-09-11,2021-09-12
+2954,Women’s Community Festival,7,2021-02-18,2021-02-26
+2955,Woohoojin's Sunset Colosseum,8,2023-10-30,2023-10-31
+2956,World Cyber Games Challengers League Korea: Split 1,93,2023-01-14,2023-02-25
+2957,World Cyber Games Challengers League Korea: Split 2,88,2023-03-18,2023-06-03
+2958,World Cyber Games Rivals: Korea vs Japan,2,2022-12-18,2022-12-18
+2959,XIII South American Games 2026,13,2026-09-13,2026-09-16
+2960,XO Cup #1,8,2023-01-07,2023-01-07
+2961,XP Valorant Open Series,4,2022-05-18,2022-05-25
+2962,Xyper Arena Weekly Showdown #1,28,2022-09-26,2022-09-30
+2963,Xyper Arena Weekly Showdown #2,24,2022-10-07,2022-10-11
+2964,Xyper Arena Weekly Showdown #3,31,2022-10-17,2022-10-23
+2965,Xyper Arena Weekly Showdown #4,12,2022-11-16,2022-11-20
+2966,YFP Lockdown Arena #10,55,2025-06-19,2025-06-22
+2967,YFP Lockdown Arena #2,69,2024-10-18,2024-10-20
+2968,YFP Lockdown Arena #3,78,2024-11-15,2024-11-17
+2969,YFP Lockdown Arena #4,83,2025-03-21,2025-03-23
+2970,YFP Lockdown Arena #5,90,2025-03-28,2025-03-30
+2971,YFP Lockdown Arena #6,96,2025-04-18,2025-04-20
+2972,YFP Lockdown Arena #7,55,2025-05-19,2025-05-21
+2973,YFP Lockdown Arena #8,63,2025-05-26,2025-05-28
+2974,YFP Lockdown Arena #9,55,2025-06-09,2025-06-11
+2975,YFP Winter Classic,55,2022-02-21,2022-02-22
+2976,YFP x Alliance Lockdown Arena,90,2024-09-23,2024-09-25
+2977,YUPCUP Brazil Season 1,8,2022-02-10,2022-02-15
+2978,Yeni Ufuklar: Project Blender Türkiye Qualifier,7,2025-09-14,2025-09-14
+2979,Yuvin Valorant Invitational Cup,8,2021-09-02,2021-09-05
+2980,Yükselme Serisi 2026: Stage 1,6,2026-03-13,2026-03-14
+2981,Zotac Cup,22,2022-01-12,2022-01-26
+2982,aSmoogl Community Cup,8,2023-01-29,2023-01-29
+2983,eFire Master League #1 Asia,26,2021-02-16,2021-03-10
+2984,eGG esports G-Tune Invitational,7,2020-12-19,2020-12-20
+2985,eLadies 2022,4,2022-10-29,2022-10-30
+2986,epic31 Online,102,2020-10-09,2020-10-11
+2987,epic32 Online,132,2021-02-26,2021-02-28
+2988,epic33 Online,70,2021-07-02,2021-07-04
+2989,gamescom LAN 2026,10,2026-03-20,2026-03-21
+2990,iCafe Attack 2025,7,2025-09-27,2025-09-27
+2991,rZ x Solaris Invitational 2026,16,2026-09-17,2026-09-27
+2992,x1 MOB February Banger,46,2022-02-09,2022-02-10
