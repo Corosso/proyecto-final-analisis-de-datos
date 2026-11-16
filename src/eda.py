@@ -1,6 +1,6 @@
 """Utilidades de EDA (Fase F2) — carga de tablas y helpers de visualización.
 
-Módulo reutilizable que importa el notebook ``notebooks/03_eda.ipynb``.
+Módulo reutilizable que importa el notebook ``colab/01_eda.ipynb``.
 Proporciona:
 
 - Carga robusta de las tablas de ``interim/`` y ``processed/`` (Parquet o CSV),

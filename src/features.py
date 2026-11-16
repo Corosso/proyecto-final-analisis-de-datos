@@ -35,6 +35,8 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
+from config import get_data_dir
+
 logger = logging.getLogger("vlr.features")
 
 # Constantes
@@ -493,13 +495,13 @@ def _read_table(prefix: Path, required: bool = False) -> pd.DataFrame | None:
     return None
 
 
-def build_features(data_dir: str | Path) -> pd.DataFrame:
+def build_features(data_dir: str | Path | None = None) -> pd.DataFrame:
     """Orquesta todo el feature engineering y guarda el dataset final.
 
     Lee ``interim/*.parquet``, genera ``processed/features.parquet`` y
     ``processed/features.csv``, y devuelve el DataFrame.
     """
-    data_dir = Path(data_dir)
+    data_dir = Path(data_dir or get_data_dir())
     interim = data_dir / "interim"
     processed = data_dir / "processed"
 
@@ -544,7 +546,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(
         description="Feature engineering (F3) — genera processed/features.{parquet,csv}",
         formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--data-dir", default="data",
+    ap.add_argument("--data-dir", default=str(get_data_dir()),
                     help="raíz de datos (contiene interim/ y processed/)")
     args = ap.parse_args()
 

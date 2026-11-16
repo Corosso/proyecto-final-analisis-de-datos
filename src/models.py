@@ -56,6 +56,8 @@ import joblib
 import numpy as np
 import pandas as pd
 
+from config import get_data_dir
+
 import matplotlib  # noqa: E402
 import matplotlib.pyplot as plt  # noqa: E402
 
@@ -98,9 +100,9 @@ if XGBClassifier is None:  # pragma: no cover - depende del entorno
 if LGBMClassifier is None:  # pragma: no cover - depende del entorno
     logger.warning("lightgbm no disponible; se omitirá del catálogo de modelos.")
 
-# Rutas por defecto (relativas al directorio de trabajo del repo).
-DEFAULT_FEATURES_PATH = Path("data/processed/features.parquet")
-DEFAULT_OUTPUT_DIR = Path("data/processed")
+# Rutas por defecto (resueltas según el entorno: Colab / WSL / local).
+DEFAULT_FEATURES_PATH = get_data_dir() / "processed" / "features.parquet"
+DEFAULT_OUTPUT_DIR = get_data_dir() / "processed"
 DEFAULT_MODEL_PATH = DEFAULT_OUTPUT_DIR / "best_model.joblib"
 DEFAULT_METADATA_PATH = DEFAULT_OUTPUT_DIR / "model_metadata.json"
 DEFAULT_RESULTS_PATH = DEFAULT_OUTPUT_DIR / "model_results.csv"

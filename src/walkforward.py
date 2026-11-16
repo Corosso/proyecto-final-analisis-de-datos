@@ -47,6 +47,8 @@ from typing import Any
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
+
+from config import get_data_dir
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import TimeSeriesSplit
 
@@ -68,7 +70,7 @@ RF_PARAMS: dict[str, Any] = {
     "n_jobs": 1,
 }
 
-DEFAULT_OUTPUT_DIR = Path("data/processed")
+DEFAULT_OUTPUT_DIR = get_data_dir() / "processed"
 
 
 def walk_forward_probabilities(

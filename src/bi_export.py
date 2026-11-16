@@ -40,15 +40,16 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
+from config import get_data_dir
+
 logger = logging.getLogger("vlr.bi")
 
 # Directorio por defecto de los datos de entrada. Se puede sobreescribir con
 # la variable de entorno VALORANT_DATA_DIR o con el flag --input-dir.
-DEFAULT_INPUT_DIR = "data"
+DEFAULT_INPUT_DIR = get_data_dir()
 
-# Salida: data/bi/ dentro del repo.
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_OUTPUT_DIR = REPO_ROOT / "data" / "bi"
+# Salida: data/bi/ junto a los datos.
+DEFAULT_OUTPUT_DIR = get_data_dir() / "bi"
 
 FEATURE_PREFIX = "f_"
 PLACEHOLDER_TEAMS = {
@@ -516,7 +517,7 @@ def build_fact_matches(
 def _load_probabilities(path: Path | None = None) -> pd.DataFrame | None:
     """Carga ``probabilities.parquet``/``.csv`` (salida del walk-forward) si existe."""
     if path is None:
-        path = REPO_ROOT / "data" / "processed" / "probabilities.parquet"
+        path = get_data_dir() / "processed" / "probabilities.parquet"
     path = Path(path)
     if path.exists():
         return pd.read_parquet(path)
