@@ -244,6 +244,13 @@ en `docs/features.md`.
 | `f_experience_diff` | Nº partidos previos (team1 − team2). |
 | `f_rest_diff` | Días de descanso (team1 − team2). |
 | `f_streak_diff` | Racha firmada (team1 − team2). |
+| `f_map_winrate_diff` | % medio de victorias por mapa (team1 − team2). **Foto actual** (`team_stats`). |
+| `f_profile_rating_diff` | Rating del perfil del equipo (team1 − team2). **Foto actual** (`team_profiles`). |
+| `f_winnings_diff` | Ganancias totales en logaritmo (team1 − team2). **Foto actual** (`team_profiles`). |
+
+> `f_rating_diff`, `f_rank_diff` y las tres últimas usan el valor vigente en la
+> fecha de descarga, no el que tenía el equipo en la fecha del partido (ver
+> `docs/features.md`). Las otras siete son históricas y libres de fuga.
 
 ### 6.5 Predicciones (walk-forward out-of-sample)
 
@@ -254,7 +261,7 @@ antiguo no tiene predicción (ver `docs/modelado.md`).
 
 | Columna | Tipo | Descripción |
 |---|---|---|
-| `prob_team1` | decimal (0–1) | `P(team1 gana)` out-of-sample (RandomForest calibrado por construcción temporal). `NULL` en el ~9 % más antiguo. |
+| `prob_team1` | decimal (0–1) | `P(team1 gana)` out-of-sample (RandomForest del walk-forward, **sin calibración Platt**). `NULL` en el ~9 % más antiguo. |
 | `odds_team1` | decimal | Odds "fair" de `team1`: `1/prob_team1`. |
 | `odds_team2` | decimal | Odds "fair" de `team2`: `1/(1-prob_team1)`. |
 | `tier` | texto | Tier de favoritismo de `team1` según `odds_team1`: `Favorito claro` (≤1.40), `Favorito` (1.41–1.80), `Evens/parejo` (1.81–2.20), `Underdog` (2.21–3.00), `Underdog claro` (>3.00). |

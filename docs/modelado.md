@@ -21,16 +21,23 @@ El pipeline lee `data/processed/features.parquet`. Contrato esperado:
 | `date` | str | fecha legible |
 | `date_ts` | numérico | epoch (para el split temporal) |
 | `y` | int 0/1 | target (1 = gana team1) |
-| `f_*` | numérico | features (9 en F3) |
+| `f_*` | numérico | features (12 en la versión final de F3) |
 
 Las columnas `f_*` se **detectan dinámicamente** (`[c for c in df if
 c.startswith('f_')]`), de modo que si F3 agrega, quita o renombra features, el
-pipeline no se rompe. En la corrida real se detectaron 9 features:
+pipeline no se rompe. En la versión final se detectan 12 features (las 9
+iniciales más 3 de perfil de equipo, añadidas al completarse el scraping de
+equipos):
 
 ```
 f_h2h_winrate, f_rating_diff, f_rank_diff, f_form_diff, f_winrate_diff,
-f_mapscore_diff, f_experience_diff, f_rest_diff, f_streak_diff
+f_mapscore_diff, f_experience_diff, f_rest_diff, f_streak_diff,
+f_map_winrate_diff, f_profile_rating_diff, f_winnings_diff
 ```
+
+Cinco de ellas (`f_rating_diff`, `f_rank_diff`, `f_map_winrate_diff`,
+`f_profile_rating_diff`, `f_winnings_diff`) son de **foto actual** y pueden
+inflar las métricas en partidos antiguos (ver `docs/features.md`).
 
 La función de carga (`load_features`) valida las columnas obligatorias
 (`match_id`, `team1`, `team2`, `y`), fuerza `y` a entero y descarta filas con
@@ -100,9 +107,59 @@ compara el Brier antes/después.
 > usa `KFold`. El orden temporal estricto ya se garantiza en el split train/test
 > y en el tuning.
 
-## 4. Resultados (corrida sobre los últimos 20 000 partidos reales)
+## 4. Resultados
 
-Split: `train = 16 000` · `test = 4 000` (80/20). Métricas sobre test:
+Hay tres corridas del mismo pipeline. **Las cifras oficiales son las de 4.1**;
+las otras dos son demostraciones sobre subconjuntos y no son comparables entre sí
+(distinto periodo, tamaño y número de features).
+
+| corrida | filas | features | test | ROC-AUC RandomForest | dónde |
+|---|---|---|---|---|---|
+| Completa (oficial) | 107 242 | 12 | 21 448 | 0.707 | informe final, §4.1 |
+| Demo notebook | 15 000 más recientes | 12 | 3 000 | 0.761 | `notebooks/05_modelado.ipynb`, §4.2 |
+| Preliminar | 20 000 más recientes | 9 | 4 000 | 0.732 | §4.3 |
+
+### 4.1 Corrida completa (oficial)
+
+Split: `train = 85 794` (25/04/2020 → 30/06/2025) · `test = 21 448`
+(30/06/2025 → 01/11/2026). LightGBM no estuvo disponible en ese entorno (faltaba
+`libgomp`). Métricas sobre test:
+
+| modelo | accuracy | F1 | ROC-AUC | Brier (cal.) | log-loss (cal.) |
+|---|---|---|---|---|---|
+| RandomForest | 0.669 | 0.747 | 0.707 | **0.211** | 0.609 |
+| XGBoost | 0.663 | 0.741 | 0.700 | 0.213 | 0.614 |
+| LogReg | 0.658 | 0.740 | 0.689 | 0.217 | 0.625 |
+| KNN | 0.654 | 0.735 | 0.684 | 0.217 | 0.623 |
+
+**Mejor modelo**: RandomForest (`n_estimators=100`, `max_depth=12`,
+`min_samples_leaf=8`). Matriz de confusión: TN 3 889 · FP 4 793 · FN 2 309 ·
+TP 10 457.
+
+**Línea base**: en test `team1` gana el 59.5 % (12 766 / 21 448); predecir
+siempre `team1` acertaría ese 59.5 %. El modelo acierta el 66.9 % (+7.4 puntos).
+Detecta el 81.9 % de las victorias de `team1` y el 44.8 % de las de `team2`.
+
+### 4.2 Demo del notebook (últimos 15 000 partidos)
+
+`notebooks/05_modelado.ipynb` usa `max_rows=15000` para acortar el tuning en
+Colab (`train = 12 000` · `test = 3 000`). Métricas sobre test:
+
+| modelo | accuracy | precision | recall | F1 | ROC-AUC | Brier (sin cal.) | Brier (cal.) | log-loss (cal.) |
+|---|---|---|---|---|---|---|---|---|
+| RandomForest | 0.714 | 0.725 | 0.839 | 0.778 | 0.761 | 0.1930 | **0.1926** | 0.5677 |
+| LightGBM | 0.706 | 0.717 | 0.838 | 0.773 | 0.759 | 0.1934 | 0.1938 | 0.5707 |
+| XGBoost | 0.711 | 0.719 | 0.846 | 0.777 | 0.753 | 0.1950 | 0.1948 | 0.5729 |
+| LogReg | 0.679 | 0.691 | 0.835 | 0.756 | 0.717 | 0.2071 | 0.2070 | 0.5992 |
+| KNN | 0.667 | 0.687 | 0.809 | 0.743 | 0.706 | 0.2133 | 0.2118 | 0.6122 |
+
+Para que el notebook muestre las cifras oficiales hay que reejecutarlo sin
+`max_rows`.
+
+### 4.3 Corrida preliminar (últimos 20 000 partidos, 9 features)
+
+Anterior a las tres features de perfil de equipo. Split: `train = 16 000` ·
+`test = 4 000` (80/20). Métricas sobre test:
 
 | modelo | accuracy | precision | recall | F1 | ROC-AUC | Brier (sin cal.) | Brier (cal.) | log-loss (cal.) |
 |---|---|---|---|---|---|---|---|---|
@@ -113,8 +170,10 @@ Split: `train = 16 000` · `test = 4 000` (80/20). Métricas sobre test:
 | KNN | 0.642 | 0.669 | 0.798 | 0.728 | 0.661 | 0.2237 | 0.2214 | 0.6329 |
 
 **Mejor modelo**: RandomForest (Brier calibrado 0.2022, ROC-AUC 0.732).
-La calibración reduce el Brier en todos los modelos (más notoriamente en
-LogReg y KNN, que parten peor calibrados).
+En esta corrida la calibración reduce el Brier en todos los modelos (más
+notoriamente en LogReg y KNN, que parten peor calibrados). En la demo de 4.2 el
+efecto en los árboles es marginal y LightGBM empeora levemente (0.1934 → 0.1938):
+el RandomForest ya sale bien calibrado sin ajuste.
 
 ## 5. Odds y tier de favoritismo
 
@@ -171,7 +230,7 @@ odds_team1, odds_team2, tier`, que `src/bi_export.py` une al `fact_matches`.
   calibración; con datos chicos puede sobreajustar).
 - **Desbalance leve**: `y=1` es ~59% de los partidos. Se probó
   `class_weight="balanced"` en LogReg, pero los árboles/boosting dominan.
-- **AUC moderado (~0.73)**: las features de F3 capturan parte de la señal
+- **AUC moderado (~0.71 en la corrida completa)**: las features de F3 capturan parte de la señal
   (rating, forma, winrate, h2h) pero el ganador de un partido de esports tiene
   alta varianza intrínseca. Para el uso como odds esto se traduce en cuotas
   "informativas" más que "exactas".
@@ -185,9 +244,11 @@ odds_team1, odds_team2, tier`, que `src/bi_export.py` une al `fact_matches`.
 ## 9. Conclusiones preliminares
 
 1. Los modelos de árboles/boosting (RandomForest, XGBoost, LightGBM) superan
-   claramente a los lineales/KNN (ROC-AUC ≈ 0.73 vs ≈ 0.66).
-2. La calibración mejora el Brier en todos los casos, requisito indispensable
-   para traducir probabilidades a odds honestos.
+   a los lineales/KNN: por 0.02 de ROC-AUC en la corrida completa (≈ 0.70–0.71
+   vs ≈ 0.68–0.69) y por más margen en las corridas sobre partidos recientes.
+2. Las probabilidades del RandomForest están bien calibradas (Brier 0.21 en
+   hold-out, 0.208 en walk-forward), requisito indispensable para traducirlas a
+   odds honestos; la calibración Platt aporta poco sobre los árboles.
 3. El modelo final (RandomForest calibrado) es el punto de partida para generar
    cuotas; queda pendiente validar su rentabilidad real contra una casa de
    apuestas (backtesting de odds).
